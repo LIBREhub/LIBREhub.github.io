@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "LIBRE_hub"
+title:              "The Latin American Hub for Bioimaging Through Open Hardware (LIBRE_hub)"
+description:        "A training network for open source bioimaging hardware in Latin America with the goal to empower regional researchers through practical workshops, seminars, networking, and online resources adapted to local needs and re-published in local languages."
 
 
 # URL
-url:                http://kordinglab.com
+url:                #TBD
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -26,14 +26,14 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
+ # - name:           "publications"
+  #  href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
-  - name:           "resources"
-    href:           "/resources"
+ # - name:           "blog"
+ #   href:           "/blog"
+ # - name:           "resources"
+ #   href:           "/resources"
 
 # Sass
 sass:
