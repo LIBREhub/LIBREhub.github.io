@@ -1,6 +1,6 @@
 ---
 name: Konrad Kording
-position: pi
+position: postdoc
 avatar: konrad_profile_3.jpg
 twitter: KordingLab
 ---
