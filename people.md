@@ -21,15 +21,5 @@ permalink: /people/
 <h3>Technical Fellows</h3>
  {% elsif role == 'pi' %}
 <h3>Principal Investigators</h3>
- {% elsif role == 'gradstudent' %}
-<h3>Graduate Students</h3>
- {% elsif role == 'researchstaff' %}
-<h3>Research Staff</h3>
- {% elsif role == 'visiting' %}
-<h3>Visiting Scholars</h3>
- {% elsif role == 'others' %}
-<h3>Honorary Members</h3>
- {% elsif role == 'alumni' %}
-<h3>Alumni</h3>
-{% endif %}
+ {% endif %}
 </div>
