@@ -1,6 +1,6 @@
-# Kording lab page
+# LIBRE_hub page
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [LIBRE_hub page](http://librehub.github.io). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 ## Run the page locally using Jekyll
 
