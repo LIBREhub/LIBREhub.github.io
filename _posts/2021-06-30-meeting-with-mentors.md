@@ -1,7 +1,7 @@
 ---
 title: How to have productive meetings with busy mentors
 description: Tips for new graduate students
-categories: newblog
+categories:
 ---
 
 # How to have productive meetings with busy mentors
