@@ -7,6 +7,8 @@ header-img: images/seminars/vera_talk_pic.jpg
 
 ## Low-Cost Fourier Ptychography Microscope
 
+<br>
+
 [![Esteban_Vera](http://img.youtube.com/vi/0U16qJQFn-Y/0.jpg)](https://youtu.be/0U16qJQFn-Y) 
 
 #### Overview
@@ -20,3 +22,7 @@ Guzman, F., & Vera, E. (2019). Low-Cost Fourier Ptychography Microscope Kit. 201
 
 #### Repositories
 Information under request: STL files, MATLAB code, Arduino code, and bill of materials.
+
+<br>
+
+> Subscribe to the [LIBRE_hub Youtube channel](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) for more content related. Recorded seminars always have subtitle options for Spanish and Portuguese. 
