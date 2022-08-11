@@ -22,7 +22,6 @@ Guzman, F., & Vera, E. (2019). Low-Cost Fourier Ptychography Microscope Kit. 201
 
 #### Repositories
 Information under request: STL files, MATLAB code, Arduino code, and bill of materials.
-
 <br>
 
-> Subscribe to the [LIBRE_hub Youtube channel](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) for more content related. Recorded seminars always have subtitle options for Spanish and Portuguese. 
+*Subscribe to the [LIBRE_hub Youtube channel](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) for more content related. Recorded seminars always have subtitle options for Spanish and Portuguese.*
