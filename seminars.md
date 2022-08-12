@@ -3,8 +3,8 @@ title: seminars
 permalink: /seminars/
 ---
 
-## **LIBRE_hub Seminars Series**
-
+# **LIBRE_hub Seminars Series**
+<br>
 <div class="content list">
   {% for post in site.posts %}
     {% if post.categories contains 'newblog' %}
