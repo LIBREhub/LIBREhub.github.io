@@ -18,9 +18,9 @@ Imagine if everyone had access to state-of-the-art research tools like a light-s
 After doing an apprenticeship as an electrician, Dr. Benedict Diederich started studying electrical engineering at the University for Applied Science Cologne. A specialisation in optics and an internship at Nikon Microscopy Japan pointed him to the interdisciplinary field of microscopy. After working for Zeiss he started his PhD in the Heintzmann Lab at the Leibniz IPHT Jena, where he focusses on bringing cutting edge research to everybody by relying on tailored image processing and low-cost optical setups. Part of his PhD program took place at the Photonics Center at the Boston University in the Tian Lab. A recent contribution was the open-source optical toolbox UC2 (You-See-Too) which tries to democratise science by making cutting-edge affordable and available to everyone, everywhere.
 
 #### Related Publications
-Diederich, B., Lachmann, R., Carlstedt, S. et al. A versatile and customizable low-cost 3D-printed open standard for microscopic imaging. Nat Commun 11, 5979 (2020). https://doi.org/10.1038/s41467-020-19447-9
+Diederich, B., Lachmann, R., Carlstedt, S., Marsikova, B., Wang, H., Uwurukundo, X., Mosig, A. S., & Heintzmann, R. (2020). A versatile and customizable low-cost 3D-printed open standard for microscopic imaging. Nature Communications, 11(1). https://doi.org/10.1038/s41467-020-19447-9
 
-Diederich, B., Richter, R., Carlstedt, S., Uwurukundo, X., Wang, H., Mosig, A., & Heintzmann, R. (2019). UC2 – A 3D-printed General-Purpose Optical Toolbox for Microscopic Imaging. Opg.optica.org; Optica Publishing Group. https://doi.org/10.1364/ISA.2019.ITh3B.5
+‌Diederich, B., Richter, R., Carlstedt, S., Uwurukundo, X., Wang, H., Mosig, A., & Heintzmann, R. (2019). UC2 – A 3D-printed General-Purpose Optical Toolbox for Microscopic Imaging. Opg.optica.org; Optica Publishing Group. https://doi.org/10.1364/ISA.2019.ITh3B.5
 ‌
 #### Repositories
 [Open-Source Microscopy - Website](https://beniroquai.github.io/)
