@@ -25,7 +25,7 @@ Dr. Tian’s awards include NSF CAREER award, the 2021 Boston University College
 
 <br>
 
-<img src="/images/seminars/tian_talk_pic2.jpg" alt="alt text" title="Tian Talk" />
+<img src="{{site.baseurl}}/images/seminars/tian_talk_pic2.jpg" data-action="zoom">
 
 <br>
 
