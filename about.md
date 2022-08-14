@@ -13,6 +13,6 @@ Open source software, data, and publications are important cornerstones of acces
 Hands-on workshops organized by LIBRE_hub will train Latin American researchers in using, building, and modifying multi-modal modular microscopes, light sources, data acquisition automation approaches, and deep learning tools for bioimaging. The project will primarily use low-cost and flexible technology platforms based on 3D-printed parts, single board computers, and microcontrollers. A recurrent seminar series will bring and connect international speakers with the Latin American bioimaging community on a broad range of bioimaging technologies. This hub will expand the Latin American bioimaging community to include open hardware creators and users and provide researchers with a strong local network, accessible customized resources, and hands-on practical training opportunities.
 
 #### Sponsorship
-<a href="https://www.uc.cl/en"><img width="200" src="/images/logo/logo_UC.png"></a>&nbsp;
-<a href="https://ingenieriabiologicaymedica.uc.cl/en/"><img width="200" src="/images/logo/logo_IIBM.png"></a>&nbsp;
+<a href="https://www.uc.cl/en"><img width="200" src="/images/logo/logo_UC.png"></a>
+<a href="https://ingenieriabiologicaymedica.uc.cl/en/"><img width="200" src="/images/logo/logo_IIBM.png"></a>
 <a href="https://chanzuckerberg.com/"><img width="200" src="/images/logo/logo_CZI.png"></a>
