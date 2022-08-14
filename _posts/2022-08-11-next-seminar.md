@@ -29,4 +29,4 @@ Dr. Tian’s awards include NSF CAREER award, the 2021 Boston University College
 
 <br>
 
-*Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more content related. All seminars are recorded and have subtitle options for Spanish and Portuguese.*
+*Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more content related. All seminars are recorded and posted on [Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) with subtitle options for Spanish and Portuguese.*
