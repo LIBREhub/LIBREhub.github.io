@@ -2,7 +2,7 @@
 title: Next LIBRE_hub seminars
 description: List of seminars
 categories: newblog
-header-img: images/seminars/tian_talk_pic3.jpg
+header-img: images/seminars/tian_talk_pic.jpg
 ---
 
 ## Next LIBRE_hub seminars - 2022-02
