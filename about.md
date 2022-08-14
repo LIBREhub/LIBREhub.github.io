@@ -14,7 +14,7 @@ Hands-on workshops organized by LIBRE_hub will train Latin American researchers 
 
 #### Sponsorship
 <p align="center">
-  <a href="https://www.uc.cl/en"><img width="200" src="/images/logo/logo_UC.png"></a>
-  <a href="https://ingenieriabiologicaymedica.uc.cl/en/"><img width="200" src="/images/logo/logo_IIBM.png"></a>
+  <a href="https://www.uc.cl/en"><img width="200" src="/images/logo/logo_UC.png"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://ingenieriabiologicaymedica.uc.cl/en/"><img width="200" src="/images/logo/logo_IIBM.png"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://chanzuckerberg.com/"><img width="200" src="/images/logo/logo_CZI.png"></a>
 </p>
