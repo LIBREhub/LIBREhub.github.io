@@ -28,7 +28,7 @@ layout: default
               <ul style="list-style-position:outside;padding:20px" >
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
-                  {% if date < now %}
+                  {% if date < 2022-01-01 %}
                     <li>
                       <span>
                         {{ new.details }}
