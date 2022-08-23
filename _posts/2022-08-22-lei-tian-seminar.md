@@ -9,13 +9,13 @@ header-img: images/seminars/tian_talk_pic.jpg
 
 <br>
 
-![Lei_Tian](images/seminars/tian_talk_pic2.jpg) 
+![Lei_Tian](/images/seminars/tian_talk_pic2.jpg) 
 
 #### Overview
 Computational imaging seeks to achieve novel capabilities and overcome conventional limitations by combining optics and algorithms.  In this seminar, I will discuss two computational imaging technologies developed in Boston University Computational Imaging Systems lab, including Intensity Diffraction Tomography and Computational Miniature Mesoscope.  In our intensity diffraction tomography system, we demonstrate 3D quantitative phase imaging on a simple LED array microscope. We develop both single-scattering and multiple-scattering models to image complex biological samples. In our Computational Miniature Mesoscope, we demonstrate single-shot 3D high-resolution fluorescence imaging across a wide field-of-view in a miniaturized platform. We develop methods to characterize 3D spatially varying aberrations and physical simulator-based deep learning strategies to achieve fast and accurate reconstructions. Broadly, I will discuss how synergies between novel optical instrumentation, physical modeling, and model- and learning-based computational algorithms can push the limits in biomedical microscopy and neural imaging.
 
 #### Speaker
-Dr. Lei Tian is an Assistant Professor in the Department of Electrical and Computer Engineering and the Department of Biomedical Engineering and directs the [Computational Imaging Systems lab](http://sites.bu.edu/tianlab/) at Boston University. He received his Ph.D. (2013) and M.S. (2010) from MIT. He was a postdoctoral associate at University of California, Berkeley 2013-2016. His research focuses on computational imaging and microscopy, neurophotonics, imaging in complex media, and deep learning for biomedical microscopy.
+Lei Tian is an Assistant Professor in the Department of Electrical and Computer Engineering and the Department of Biomedical Engineering and directs the [Computational Imaging Systems lab](http://sites.bu.edu/tianlab/) at Boston University. He received his Ph.D. (2013) and M.S. (2010) from MIT. He was a postdoctoral associate at University of California, Berkeley 2013-2016. His research focuses on computational imaging and microscopy, neurophotonics, imaging in complex media, and deep learning for biomedical microscopy.
 
 Dr. Tian’s awards include NSF CAREER award, the 2021 Boston University College of Engineering Early Career Excellence in Research Award, 2018 Boston University College of Engineering Dean’s Catalyst Award, and 2018 SPIE Fumio Okano Best 3D Paper Prize.
 
