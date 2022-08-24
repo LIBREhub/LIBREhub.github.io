@@ -1,7 +1,7 @@
 ---
 name: Claudia Tapia
 position: researchstaff
-avatar: claudia_tapia.jpg
+avatar: claudia_tapia1.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
