@@ -9,7 +9,7 @@ header-img: images/seminars/tian_talk_pic.jpg
 
 <br>
 
-![Lei_Tian](/images/seminars/tian_talk_pic2.jpg) 
+[![Lei_Tian](http://img.youtube.com/vi/C4xos7JkuCo/0.jpg)](https://youtu.be/C4xos7JkuCo) 
 
 #### Overview
 Computational imaging seeks to achieve novel capabilities and overcome conventional limitations by combining optics and algorithms.  In this seminar, I will discuss two computational imaging technologies developed in Boston University Computational Imaging Systems lab, including Intensity Diffraction Tomography and Computational Miniature Mesoscope.  In our intensity diffraction tomography system, we demonstrate 3D quantitative phase imaging on a simple LED array microscope. We develop both single-scattering and multiple-scattering models to image complex biological samples. In our Computational Miniature Mesoscope, we demonstrate single-shot 3D high-resolution fluorescence imaging across a wide field-of-view in a miniaturized platform. We develop methods to characterize 3D spatially varying aberrations and physical simulator-based deep learning strategies to achieve fast and accurate reconstructions. Broadly, I will discuss how synergies between novel optical instrumentation, physical modeling, and model- and learning-based computational algorithms can push the limits in biomedical microscopy and neural imaging.
