@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join
-permalink: /about/
+permalink: /join/
 ---
 
 ## We are hiring!
