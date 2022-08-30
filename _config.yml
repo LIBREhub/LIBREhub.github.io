@@ -30,6 +30,8 @@ nav:
     href:           "/seminars"
   - name:           "resources"
     href:           "/docu"
+  - name:           "join"
+    href:           "/join"
 
 # Sass
 sass:
