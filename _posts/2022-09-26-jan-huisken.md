@@ -23,11 +23,12 @@ Dr. Huisken has been director of Medical Engineering at Morgridge Institute for 
 
 #### Related Publications
 Power, R. M., & Huisken, J. (2019). Putting advanced microscopy in the hands of biologists. Nature Methods, 16(11), 1069–1073. https://doi.org/10.1038/s41592-019-0618-1
+
 Power, R. M., Bakken, T., Li, J., Power, S., & Huisken, J. (2018, December). Flamingo: a modular microscope platform for you and me. In MOLECULAR BIOLOGY OF THE CELL (Vol. 29, No. 26). 8120 WOODMONT AVE, STE 750, BETHESDA, MD 20814-2755 USA: AMER SOC CELL BIOLOGY.
 
 Huisken, J. (2018). Portable and Modular Light Sheet Microscopy Platform. Biophotonics Congress: Biomedical Optics Congress 2018 (Microscopy/Translational/Brain/OTS). https://doi.org/10.1364/brain.2018.bf1c.2
 
-‌#### Repositories
+#### Repositories
 
 [Huisken Lab - Flamingo Project - Website](https://huiskenlab.com/flamingo/)
 
