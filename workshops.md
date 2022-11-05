@@ -7,7 +7,7 @@ permalink: /workshops/
 <br>
 <div class="content list">
   {% for post in site.posts %}
-    {% if post.categories contains 'new_workshop' %}
+    {% if post.categories contains 'newworkshop' %}
     <div class="list-item">
       <p class="list-post-title">
         <a href="{{ post.url | prepend: site.baseurl }}">
