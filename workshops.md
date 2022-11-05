@@ -3,7 +3,7 @@ title: workshops
 permalink: /workshops/
 ---
 
-# **LIBRE hub Workshops**
+# **Workshops**
 <br>
 <div class="content list">
   {% for post in site.posts %}
