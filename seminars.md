@@ -3,7 +3,7 @@ title: seminars
 permalink: /seminars/
 ---
 
-# **LIBRE_hub Seminars Series**
+# **Seminars Series**
 <br>
 <div class="content list">
   {% for post in site.posts %}
