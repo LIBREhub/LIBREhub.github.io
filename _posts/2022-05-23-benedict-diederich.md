@@ -1,7 +1,7 @@
 ---
 title: UC2 Microscope
 description: LIBRE_hub seminar
-categories: newblog
+categories: seminar
 header-img: images/seminars/diederich_talk_pic.jpg
 ---
 
