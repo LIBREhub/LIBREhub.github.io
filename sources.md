@@ -19,7 +19,7 @@ permalink: /sources/
 
 <hr>
 
-### ** Older Seminars**
+### **Seminars**
 
 <div class="content list">
   {% for post in site.posts %}
