@@ -1,7 +1,7 @@
 ---
 title: Smart Microscopy for Everyone
 description: LIBRE_hub seminar
-categories: newblog
+categories: seminar
 header-img: images/seminars/bowman_talk_pic.jpg
 ---
 
