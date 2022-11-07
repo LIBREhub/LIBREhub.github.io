@@ -1,7 +1,7 @@
 ---
 title: Mini2P
 description: LIBRE_hub seminar
-categories: newblog
+categories: seminar
 header-img: images/seminars/zong_talk_pic.jpg
 ---
 
