@@ -28,8 +28,8 @@ nav:
     href:           "/seminars"
   - name:           "workshops"
     href:           "/workshops"
-  - name:           "resources"
-    href:           "/docu"
+  - name:           "sources"
+    href:           "/sources"
   - name:           "join"
     href:           "/join"
 
