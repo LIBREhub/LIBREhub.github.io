@@ -1,7 +1,7 @@
 ---
 title: Computational Imaging
 description: LIBRE_hub seminar
-categories: newblog
+categories: seminar
 header-img: images/seminars/tian_talk_pic.jpg
 ---
 
