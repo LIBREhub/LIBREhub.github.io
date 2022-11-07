@@ -1,7 +1,7 @@
 ---
 title: Flamingo Project
 description: LIBRE_hub seminar
-categories: newblog
+categories: seminar
 header-img: images/seminars/huisken_talk_pic.jpg
 ---
 
