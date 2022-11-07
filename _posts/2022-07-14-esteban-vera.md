@@ -1,7 +1,7 @@
 ---
 title: Low-Cost Fourier Ptychography Microscope
 description: LIBRE_hub seminar
-categories: newblog
+categories: seminar
 header-img: images/seminars/vera_talk_pic.jpg
 ---
 
