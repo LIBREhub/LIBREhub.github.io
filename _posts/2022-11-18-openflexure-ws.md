@@ -25,7 +25,7 @@ Sponsored by Chang Zuckerberg Initiative
 -->
 
 ## Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones"
-
+<br>
 ### Información general
 
 Bienvenido/a al Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones". Este taller se llevará a cabo los días 22 y 23 de Noviembre en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades son organizado por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciado por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
@@ -34,7 +34,13 @@ En esta sección estamos compartiendo algunos recursos para ayudarlos a preparar
 
 ### Código de conducta y Reglamento
 
-Al aceptar su participación, usted acepta cumplir con el [Código de conducta](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) y el [Reglamento UC](https://www.ing.uc.cl/electrica/wp-content/uploads/2020/09/reglamento-laboratorio-de-fabricacin-de-ingeniera-elctrica-fablabv3.pdf). LIBRE hub, como iniciativa de la UC que promueve el Hardware Abierto, se adhiere a las normas y recomendaciones del [Gathering for Open Science Hardware (GOSH)](https://openhardware.science/) y la Pontificia Universidad Católica de Chile. **IMPORTANTE:** Por favor, lea la información brindada en su totalidad el antes de asistir al Taller
+Al aceptar su participación, usted acepta cumplir con el [Código de conducta](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) y el [Reglamento UC](https://www.ing.uc.cl/electrica/wp-content/uploads/2020/09/reglamento-laboratorio-de-fabricacin-de-ingeniera-elctrica-fablabv3.pdf). LIBRE hub, como iniciativa de la UC que promueve el Hardware Abierto, se adhiere a las normas y recomendaciones del [Gathering for Open Science Hardware (GOSH)](https://openhardware.science/) y la Pontificia Universidad Católica de Chile.
+
+**IMPORTANTE:** Por favor, lea la información brindada en su totalidad antes de asistir al Taller.
+
+### Presentación de participantes
+
+Con el objetivo de crear una red de contactos y se familizaricen con el Foro del proyecto OpenFlexure, lo/a invitamos a presentarse en esta [publicación]() y realizar su primera contribución al Foro. La documentación sobre el taller lo podrán encontrar en el [Foro](https://openflexure.discourse.group/t/ofm-workshop-in-chile-libre-hub/1068/7) y en la página web de LIBRE hub.
 
 ### Programa de actividades
 <br>
