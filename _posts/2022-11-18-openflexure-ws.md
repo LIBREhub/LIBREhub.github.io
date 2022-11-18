@@ -25,7 +25,9 @@ Sponsored by Chang Zuckerberg Initiative
 -->
 
 ## Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones"
+
 <br>
+
 ### Información general
 
 Bienvenido/a al Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones". Este taller se llevará a cabo los días 22 y 23 de Noviembre en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades son organizado por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciado por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
