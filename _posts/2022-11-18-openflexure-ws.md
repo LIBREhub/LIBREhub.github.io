@@ -42,7 +42,7 @@ Al aceptar su participación, usted acepta cumplir con el [Código de conducta](
 
 ### Presentación de participantes
 
-Con el objetivo de crear una red de contactos y se familizaricen con el Foro del proyecto OpenFlexure, lo/a invitamos a presentarse en esta [publicación](https://openflexure.discourse.group/t/taller-ofm-en-chile-libre-hub/1078) y realizar su primera contribución al Foro. La documentación sobre el taller lo podrán encontrar en el [Foro](https://openflexure.discourse.group/t/ofm-workshop-in-chile-libre-hub/1068/7) y en la página web de LIBRE hub.
+Con el objetivo de crear una red de contactos y se familizaricen con el Foro del proyecto OpenFlexure, lo/a invitamos a presentarse en esta [publicación](https://openflexure.discourse.group/t/taller-ofm-en-chile-libre-hub/1078) y realizar su primera contribución al Foro. La documentación sobre el taller lo podrán encontrar en el [Foro](https://openflexure.discourse.group/t/ofm-workshop-in-chile-libre-hub/1068/) y en la página web de LIBRE hub.
 
 ### Programa de actividades
 <br>
