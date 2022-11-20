@@ -30,13 +30,13 @@ Sponsored by Chang Zuckerberg Initiative
 
 ### Información general
 
-Bienvenido/a al Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones". Este taller se llevará a cabo los días 22 y 23 de Noviembre en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades son organizado por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciado por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
+Bienvenido/a al Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones". Este taller se llevará a cabo los días 22 y 23 de Noviembre en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades son organizadas por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciadas por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
-En esta sección estamos compartiendo algunos recursos para ayudarlos a prepararse para el Taller y realizar las actividades programadas: 
+En esta sección estamos compartiendo algunos recursos para ayudarlo/as a prepararse para el Taller y realizar las actividades programadas: 
 
 ### Código de conducta y Reglamento
 
-Al aceptar su participación, usted acepta cumplir con el [Código de conducta](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) y el [Reglamento UC](https://www.ing.uc.cl/electrica/wp-content/uploads/2020/09/reglamento-laboratorio-de-fabricacin-de-ingeniera-elctrica-fablabv3.pdf). LIBRE hub, como iniciativa de la UC que promueve el Hardware Abierto, se adhiere a las normas y recomendaciones del [Gathering for Open Science Hardware (GOSH)](https://openhardware.science/) y la Pontificia Universidad Católica de Chile.
+Al aceptar su participación, usted acepta cumplir con el [Código de conducta](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) y el [Reglamento UC](https://www.ing.uc.cl/electrica/wp-content/uploads/2020/09/reglamento-laboratorio-de-fabricacin-de-ingeniera-elctrica-fablabv3.pdf). LIBRE hub, como iniciativa de la UC que promueve el Hardware Abierto, se adhiere a las normas y las recomendaciones del [Gathering for Open Science Hardware (GOSH)](https://openhardware.science/) y la Pontificia Universidad Católica de Chile.
 
 **IMPORTANTE:** Por favor, lea la información brindada en su totalidad antes de asistir al Taller.
 
