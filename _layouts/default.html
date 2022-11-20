@@ -26,6 +26,12 @@
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/images/logo/apple-touch-icon-114x114-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/logo/apple-touch-icon-144x144-precomposed.png">
 
+  <!-- OpenStreet Map + Leaf -->
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin=""/>
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
   <!-- open graph -->
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
@@ -89,6 +95,47 @@ s.setAttribute('data-timestamp', +new Date());
       gtag('config', 'G-B7HENBR5G8');
     </script>
     
+    <!-- OpenStreet Maps + Leaf -->
+    
+    <script>
+		const map = L.map('map').setView([-33.4985, -70.6104], 13);
+
+		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			maxZoom: 19,
+			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+		}).addTo(map);
+
+		const marker = L.marker([-33.50014, -70.61191]).addTo(map)
+			.bindPopup('<b>Edif. Ciencia y Tecnología</b><br />DIA 2: 13 a 14 hrs.').openPopup();
+
+		<!--
+		const circle = L.circle([51.508, -0.11], {
+			color: 'red',
+			fillColor: '#f03',
+			fillOpacity: 0.5,
+			radius: 500
+		}).addTo(map).bindPopup('I am a circle.');
+		const polygon = L.polygon([
+			[51.509, -0.08],
+			[51.503, -0.06],
+			[51.51, -0.047]
+		]).addTo(map).bindPopup('I am a polygon.');
+		const popup = L.popup()
+			.setLatLng([51.513, -0.09])
+			.setContent('I am a standalone popup.')
+			.openOn(map);
+		-->
+    
+		function onMapClick(e) {
+			popup
+				.setLatLng(e.latlng)
+				.setContent(`You clicked the map at ${e.latlng.toString()}`)
+				.openOn(map);
+		}
+
+		map.on('click', onMapClick);
+
+    </script>
 
 </body>
 </html>
