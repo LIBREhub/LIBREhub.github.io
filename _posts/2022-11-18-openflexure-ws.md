@@ -44,6 +44,10 @@ Al aceptar su participación, usted acepta cumplir con el [Código de conducta](
 
 Con el objetivo de crear una red de contactos y se familizaricen con el Foro del proyecto OpenFlexure, lo/a invitamos a presentarse en esta [publicación](https://openflexure.discourse.group/t/taller-ofm-en-chile-libre-hub/1078) y realizar su primera contribución al Foro. La documentación sobre el taller lo podrán encontrar en el [Foro](https://openflexure.discourse.group/t/ofm-workshop-in-chile-libre-hub/1068/) y en la página web de LIBRE hub.
 
+<br>
+<img src="{{site.baseurl}}/images/others/OFM_forum.png" data-action="zoom">
+<br>
+
 ### Programa de actividades
 <br>
 <img src="{{site.baseurl}}/images/others/dia1_actividades.png" data-action="zoom">
@@ -76,7 +80,8 @@ Las sesiones de los días Martes 22 y Miércoles 23 de Noviembre se llevarán a 
 14.00 a 16.15 hrs - Aula AP403, Escuela de Psicología (A la espalda del Edificio Centro de Medición MIDE UC). 
 
 **MAPA (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
-<br>
+
+
 <br>
 <img src="{{site.baseurl}}/images/others/mapacampussj.jpg" data-action="zoom">
 <br>
