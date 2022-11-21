@@ -17,6 +17,7 @@ En esta sección estamos compartiendo algunos recursos para ayudarlo/as a prepar
 
 - [Programa](/OFM/2022/program/)
 - [Lugar del Taller](/OFM/2022/place/)
+- [Chat Grupal]()
 - [Instructores e invitados]()
 - [Recursos para el Taller]()
 
