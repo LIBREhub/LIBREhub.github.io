@@ -98,7 +98,8 @@ s.setAttribute('data-timestamp', +new Date());
     <!-- OpenStreet Maps + Leaf -->
     
     <script>
-		const map = L.map('map').setView([-33.4985, -70.6104], 19);
+		<!--const map = L.map('map').setView([-33.4985, -70.6104], 19);-->
+	   	const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 50});
 
 		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 			maxZoom: 19,
