@@ -1,5 +1,6 @@
 ---
-layout: default
+title: OFM Workshop
+permalink: /place/
 ---
 
 ## Lugar del Taller
