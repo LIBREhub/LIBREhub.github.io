@@ -59,6 +59,13 @@ Con el objetivo de crear una red de contactos y se familizaricen con el Foro del
 
 Las sesiones de los días Martes 22 y Miércoles 23 de Noviembre se llevarán a cabo en el Campus San Joaquin de la Pontifica Universidad Católica de Chile que se encuentra ubicado en Avenida Vicuña Mackenna 4860, Macul, Santiago.
 
+<br>
+<div id="map" style="width: 600px; height: 400px;"></div>
+<br>
+
+**MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
+
+
 **DIA 1: Martes 22**
 
 8.30 a 12.00 hrs - Auditorio Dirección de Informática (Sótano), Edificio Centro de Excelencia Docente (también conocido como Edificio Y).
@@ -77,11 +84,8 @@ Las sesiones de los días Martes 22 y Miércoles 23 de Noviembre se llevarán a 
 
 13.00 a 14.00 hrs - Piso 6 y Piso 7, Edificio de Ciencia y Tecnología.
 
-14.00 a 16.15 hrs - Aula AP403, Escuela de Psicología (A la espalda del Edificio Centro de Medición MIDE UC). 
+14.00 a 16.15 hrs - Aula AP403, Escuela de Psicología (A la espalda del Edificio Centro de Medición MIDE UC).
 
-**MAPA (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
-
-
-<br>
+<!-- <br>
 <img src="{{site.baseurl}}/images/others/mapacampussj.jpg" data-action="zoom">
-<br>
+<br> -->
