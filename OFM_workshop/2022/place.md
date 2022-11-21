@@ -1,5 +1,6 @@
 ---
-title: OFM Workshop
+layout: page
+title: Lugar del Taller
 permalink: /place/
 ---
 
