@@ -1,7 +1,7 @@
 ---
-title: OpenFlexure Microscope
-description: LIBRE hub workshop
+layout: default
 ---
+
 ## Lugar del Taller
 
 Las sesiones de los días Martes 22 y Miércoles 23 de Noviembre se llevarán a cabo en el Campus San Joaquin de la Pontifica Universidad Católica de Chile que se encuentra ubicado en **[Avenida Vicuña Mackenna 4860, Macul, Santiago](https://goo.gl/maps/A3tZ8nWY6jSYH3LK7)**.
