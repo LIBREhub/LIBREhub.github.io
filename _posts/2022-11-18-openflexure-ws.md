@@ -4,25 +4,6 @@ description: LIBRE hub workshop
 categories: newworkshop
 header-img: images/others/open_flexure_gosh2017.jpg
 ---
-<!--
-## OpenFlexure Microscope: Development and Application
-
-<br>
-<img src="{{site.baseurl}}/images/others/open_flexure_gosh2017.jpg" data-action="zoom">
-<br>
-
-#### Overview
-Apply now to participate in our in-person workshop to assemble and use a 3D printed motorized OpenFlexure microscope for slide scanning bioimaging experiments for your lab!
-
-- DATE: 22 & 23 Nov 2022
-- PLACE: San Joaquin Campus, Pontificia Universidad Catolica de Chile (Santiago, Chile)
-- REGISTRATION [HERE](https://docs.google.com/forms/d/e/1FAIpQLSf_9sOCSWtYf3g3kFogytVY7BQBDwVlXuxIc3t2ImaILsD0Zg/viewform)
-
-Sponsored by Chang Zuckerberg Initiative
-
-<br>
-<img src="{{site.baseurl}}/images/others/OFM_workshop_afiche.jpg" data-action="zoom">
--->
 
 ## Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones"
 
@@ -32,7 +13,12 @@ Sponsored by Chang Zuckerberg Initiative
 
 Bienvenido/a al Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones". Este taller se llevará a cabo los días 22 y 23 de Noviembre en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades son organizadas por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciadas por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
-En esta sección estamos compartiendo algunos recursos para ayudarlo/as a prepararse para el Taller y realizar las actividades programadas: 
+En esta sección estamos compartiendo algunos recursos para ayudarlo/as a prepararse para el Taller y realizar las actividades programadas:
+
+- [Programa](/OFM/2022/program/)
+- [Lugar del Taller](/OFM/2022/place/)
+- [Instructores e invitados]()
+- [Recursos para el Taller]()
 
 ### Código de conducta y Reglamento
 
@@ -47,6 +33,10 @@ Con el objetivo de crear una red de contactos y se familizaricen con el Foro del
 <br>
 <img src="{{site.baseurl}}/images/others/OFM_forum.png" data-action="zoom">
 
+<br>
+<img src="{{site.baseurl}}/images/others/OFM_workshop_afiche.jpg" data-action="zoom">
+
+<!--
 ### Programa de actividades
 <br>
 <img src="{{site.baseurl}}/images/others/dia1_actividades.png" data-action="zoom">
