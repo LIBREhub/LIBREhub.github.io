@@ -7,7 +7,7 @@ header-img: images/others/open_flexure_gosh2017.jpg
 
 ## Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones"
 
-<br>
+<img src="{{site.baseurl}}/images/others/OFMBlender.png" data-action="zoom">
 
 ### Información general
 
