@@ -100,12 +100,11 @@ s.setAttribute('data-timestamp', +new Date());
     <script>
 		
 	    /**const map = L.map('map').setView([-33.4985, -70.6104], 19); */
-	   	const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 20});
+	   	const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 18});
 
 		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 			maxZoom: 19,
-			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-		}).addTo(map);
+			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
 		
 	    	const stem = L.marker([-33.50014, -70.61191]).addTo(map).bindPopup('Edif. Ciencia y Tecnología'),
 		      psico = L.marker([-33.49675, -70.61027]).addTo(map).bindPopup('Edif. Psicología, Aulas AP403 y AP502'),
