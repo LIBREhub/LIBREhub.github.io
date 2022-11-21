@@ -46,14 +46,12 @@ Con el objetivo de crear una red de contactos y se familizaricen con el Foro del
 
 <br>
 <img src="{{site.baseurl}}/images/others/OFM_forum.png" data-action="zoom">
-<br>
 
 ### Programa de actividades
 <br>
 <img src="{{site.baseurl}}/images/others/dia1_actividades.png" data-action="zoom">
 <br>
 <img src="{{site.baseurl}}/images/others/dia2_actividades.png" data-action="zoom">
-<br>
 
 ### Lugar del Taller
 
@@ -61,9 +59,7 @@ Las sesiones de los días Martes 22 y Miércoles 23 de Noviembre se llevarán a 
 
 En el siguiente mapa del campus San Joaquín están señalados los edificios donde se realizarán las actividades del Taller.
 
-<br>
 <div id="map" style="width: 600px; height: 400px;"></div>
-<br>
 
 **MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
 
