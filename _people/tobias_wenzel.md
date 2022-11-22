@@ -1,7 +1,7 @@
 ---
 name: Tobias Wenzel
 position: pi
-avatar: tobias_profile.jpeg
+avatar: tobias_profile.jpg
 twitter: WenzelLab
 ---
 
