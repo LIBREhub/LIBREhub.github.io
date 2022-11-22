@@ -10,7 +10,7 @@ permalink: /OFM/2022/docu/
 
 ### Recursos principales
 
-- [Lista de Materiales]()
+- [Lista de Materiales](https://docs.google.com/spreadsheets/d/1dg7__0FWc7H_z7FVYHRJuLNGd7bEPQnKqeRmPI-h0Bc/edit?usp=sharing)
 - [Ensamblaje del Microscopio OpenFlexure v6](https://build.openflexure.org/openflexure-microscope/v6.1.5/docs/)
 - [Instalación de sistema operativo y software OpenFlexure Connect](https://openflexure.org/projects/microscope/install)
 - [Uso del software OpenFlexure Connect](https://openflexure-microscope-software.readthedocs.io/en/latest/webapp/index.html)
