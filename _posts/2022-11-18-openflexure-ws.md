@@ -18,8 +18,8 @@ En esta sección estamos compartiendo algunos recursos para ayudarlo/as a prepar
 - [Programa](/OFM/2022/program/)
 - [Lugar del Taller](/OFM/2022/place/)
 - [Chat Grupal](https://chat.whatsapp.com/JirJK3X5wVPKpK6jM4UDuI)
-- [Instructores e invitados]()
-- [Recursos para el Taller]()
+<!-- - [Instructores e invitados]() -->
+- [Recursos para el Taller](/OFM/2022/docu/)
 
 ### Código de conducta y Reglamento
 
