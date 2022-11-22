@@ -23,7 +23,7 @@ permalink: /people/
  {% elsif role == 'gradstudent' %}
 <h3>Graduate Students</h3>
  {% elsif role == 'researchstaff' %}
-<h3>Research Staff</h3>
+<h3>Project Management</h3>
  {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
  {% elsif role == 'others' %}
