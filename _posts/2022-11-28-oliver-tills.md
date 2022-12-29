@@ -1,5 +1,5 @@
 ---
-title: Mini2P
+title: OpenVIM
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/tills_talk_pic.jpg
