@@ -9,15 +9,15 @@ Are you as enthusiastic about open source and science technology as we are? Are 
 
 This is a paid position for an open software development project to further develop the [DocuBricks](https://docubricks.com/software.jsp) documentation editor and its standard format, specialized in Open Hardware instrumentation in scientific laboratories. The development will use the Electron framework for cross-platform interface design; will create a conversion tool between [GitBuilding](https://gitbuilding.io/) and DocuBricks; and will be integrated with GitHub. https://forum.openhardware.science/t/software-for-making-assembly-manuals/2970/20?u=tobey
 
-We are interested in recruiting those seeking to make a contribution to our community through the development of our project. **To apply to this position, please send both a curriculum vitae and a motivation letter to librehub@uc.cl
+We are interested in recruiting those seeking to make a contribution to our community through the development of our project. **To apply to this position, please send both a curriculum vitae and a motivation letter to librehub@uc.cl**
 
 ## ¡Estamos reclutando!
 
-¿Te entusiasma el códigoc abierto y la tecnología científica tanto como a nosotros? ¿Estás disponible para un trabajo en un entorno de investigación dinámico? Entonces, esta puesto de Desarrollador de Software puede ser de tu interés:
+¿Te entusiasma el código abierto y la tecnología científica tanto como a nosotros? ¿Estás disponible para un trabajo en un entorno de investigación dinámico? Entonces, esta puesto de Desarrollador de Software puede ser de tu interés:
 
 Esta es una posición remunerada para un proyecto de desarrollo de software abierto para desarrollar aún más el editor de documentación [DocuBricks] (https://docubricks.com/software.jsp) y su formato estándar, especializado en instrumentación Open Hardware en laboratorios científicos. El estudiante utilizará el marco Electron para el diseño de interfaz multiplataforma; creará una herramienta de conversión entre [GitBuilding](https://gitbuilding.io/) y DocuBricks; y se integrará con GitHub. https://forum.openhardware.science/t/software-for-making-assembly-manuals/2970/20?u=tobey
 
-Estamos interesados en reclutar aquello/as que buscan hacer una contribución a nuestra comunidad a través del desarrollo de nuestro proyecto. **Para aplicar a esta posición, por favor, enviar su curriculum vitae y una carta de motivación a librehub@uc.cl
+Estamos interesados en reclutar aquello/as que buscan hacer una contribución a nuestra comunidad a través del desarrollo de nuestro proyecto. **Para aplicar a esta posición, por favor, enviar su curriculum vitae y una carta de motivación a librehub@uc.cl**
 
 <!--
 ## We are hiring!
