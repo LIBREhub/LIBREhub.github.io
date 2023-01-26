@@ -17,7 +17,7 @@ We are interested in recruiting those seeking to make a contribution to our comm
 
 Esta es una posición remunerada para un proyecto de desarrollo de software abierto para desarrollar aún más el editor de documentación [DocuBricks](https://docubricks.com/software.jsp) y su formato estándar, especializado en instrumentación Open Hardware en laboratorios científicos. El estudiante utilizará el marco Electron para el diseño de interfaz multiplataforma; creará una herramienta de conversión entre [GitBuilding](https://gitbuilding.io/) y DocuBricks; y se integrará con GitHub. https://forum.openhardware.science/t/software-for-making-assembly-manuals/2970/20?u=tobey
 
-Estamos interesados en reclutar aquello/as que buscan hacer una contribución a nuestra comunidad a través del desarrollo de nuestro proyecto. **Para aplicar a esta posición, por favor, enviar su curriculum vitae y una carta de motivación a librehub@uc.cl**
+Estamos interesados en reclutar aquello/as que buscan hacer una contribución a nuestra comunidad a través del desarrollo de nuestro proyecto. **Para aplicar a esta posición, por favor, enviar su curriculum vitae y una carta de motivación al correo librehub@uc.cl**
 
 <!--
 ## We are hiring!
