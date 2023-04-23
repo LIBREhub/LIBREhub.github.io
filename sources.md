@@ -34,3 +34,7 @@ permalink: /sources/
 </div>
 
 <hr>
+
+### **Other resources**
+
+[GitBuilding for Beginners](https://librehub.github.io/gitbuilding-for-beginners/) - User guide to implement and deploy a GitBuilding website.
