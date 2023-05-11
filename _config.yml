@@ -1,6 +1,6 @@
 # Basic
 name:               "LIBRE hub"
-title:              "The Latin American Hub for Bioimaging Through Open Hardware (LIBRE hub)"
+title:              "The Latin American Hub for Bioimaging Through Open Hardware (LIBRE Hub)"
 description:        "A training network for open source bioimaging hardware in Latin America with the goal to empower regional researchers through practical workshops, seminars, networking, and online resources adapted to local needs and re-published in local languages."
 
 
@@ -30,8 +30,8 @@ nav:
     href:           "/workshops"
   - name:           "resources"
     href:           "/sources"
-  - name:           "join"
-    href:           "/join"
+# - name:           "join"
+#    href:           "/join"
 
 # Sass
 sass:
