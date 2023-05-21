@@ -1,4 +1,0 @@
-[submodule "openmicrofluidics-docs"]
-    path = openmicrofluidics-docs
-    url = https://github.com/LIBREhub/openmicrofluidics-docs
-    branch = main
