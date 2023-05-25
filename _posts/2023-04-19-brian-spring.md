@@ -2,7 +2,7 @@
 title: Low-cost femtosecond fiber laser system for multiphoton microscopy
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/brian_spring_pic.jpg
+header-img: images/seminars/brian_spring_pic.png
 ---
 
 ## Development of a low-cost femtosecond fiber laser system for multiphoton microscopy
