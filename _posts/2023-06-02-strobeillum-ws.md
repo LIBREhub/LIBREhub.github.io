@@ -5,7 +5,7 @@ categories: newworkshop
 header-img: images/others/strobeillum.png
 ---
 
-## Strobe-Enhanced Microfluidic Imaging Workstation
+# Strobe-Enhanced Microfluidic Imaging Workstation
 
 ### Overview
 We are thrilled to invite you to an exciting hands-on workshop on building, using, and modifying our low-cost microfluidic droplet generation workstation. During the workshop, you will:
