@@ -60,20 +60,21 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
 
-s.src = '//kordinglab.disqus.com/embed.js';
+<!-- s.src = '//kordinglab.disqus.com/embed.js'; -->
+s.src = '';
 
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
+<!--
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
+-->
 <body id="page-top" style="padding-top: 7em;">
 
     {% include navbar.html %}
     {{ content }}
- 
-    <script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script>
+ <!-- <script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script> -->
     <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <script type="text/javascript">
@@ -98,8 +99,7 @@ s.setAttribute('data-timestamp', +new Date());
     <!-- OpenStreet Maps + Leaf -->
     
     <script>
-		
-	    /**const map = L.map('map').setView([-33.4985, -70.6104], 19); */
+    <!-- Maps for OpenFlexure Microscope Workshop -->	
 	   	const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 16});
 
 		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -112,27 +112,7 @@ s.setAttribute('data-timestamp', +new Date());
 		      casino = L.marker([-33.49977, -70.60950]).addTo(map).bindPopup('Casino Pérgola'),
 		      lab = L.marker([-33.49982, -70.61382]).addTo(map).bindPopup('Laboratorio Docente de Ingeniería Eléctrica')
 		;
-	    	/**
-		const marker = L.marker([-33.50014, -70.61191]).addTo(map)
-			.bindPopup('<b>Edif. Ciencia y Tecnología</b><br />DIA 2: 13 a 14 hrs.').openPopup();
-	
-		const circle = L.circle([51.508, -0.11], {
-			color: 'red',
-			fillColor: '#f03',
-			fillOpacity: 0.5,
-			radius: 500
-		}).addTo(map).bindPopup('I am a circle.');
-		const polygon = L.polygon([
-			[51.509, -0.08],
-			[51.503, -0.06],
-			[51.51, -0.047]
-		]).addTo(map).bindPopup('I am a polygon.');
-		const popup = L.popup()
-			.setLatLng([51.513, -0.09])
-			.setContent('I am a standalone popup.')
-			.openOn(map); 
-	    	
- 		*/
+
 		function onMapClick(e) {
 			popup
 				.setLatLng(e.latlng)
@@ -141,6 +121,24 @@ s.setAttribute('data-timestamp', +new Date());
 		}
 
 		map.on('click', onMapClick);
+    
+    <!-- Maps for Strobe Illumination Workshop -->
+	    	const map1 = L.map('map1', {center: [-33.4985, -70.6104], zoom: 16});
+
+		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			maxZoom: 19,
+			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map1);
+		
+	    	const stem = L.marker([-33.50014, -70.61191]).addTo(map1).bindPopup('Edif. Ciencia y Tecnología');
+
+		function onMapClick(e) {
+			popup
+				.setLatLng(e.latlng)
+				.setContent(`You clicked the map at ${e.latlng.toString()}`)
+				.openOn(map1);
+		}
+
+		map1.on('click', onMapClick);
 
     </script>
 
