@@ -74,7 +74,9 @@ s.setAttribute('data-timestamp', +new Date());
 
     {% include navbar.html %}
     {{ content }}
- <!-- <script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script> -->
+ <!--
+<script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script>
+-->
     <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <script type="text/javascript">
@@ -99,7 +101,7 @@ s.setAttribute('data-timestamp', +new Date());
     <!-- OpenStreet Maps + Leaf -->
     
     <script>
-    <!-- Maps for OpenFlexure Microscope Workshop -->	
+    // Map for OpenFlexure Microscope Workshop	
 	   	const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 16});
 
 		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -122,7 +124,7 @@ s.setAttribute('data-timestamp', +new Date());
 
 		map.on('click', onMapClick);
     
-    <!-- Maps for Strobe Illumination Workshop -->
+    // Map for Strobe Illumination Workshop
 	    	const map1 = L.map('map1', {center: [-33.4985, -70.6104], zoom: 16});
 
 		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
