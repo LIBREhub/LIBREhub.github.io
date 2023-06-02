@@ -7,6 +7,8 @@ header-img: images/others/strobeillum.png
 
 # Strobe-Enhanced Microfluidic Imaging Workstation
 
+<br>
+
 ### Overview
 We are thrilled to invite you to an exciting hands-on workshop on building, using, and modifying our low-cost microfluidic droplet generation workstation. During the workshop, you will:
 - Learn the fundamentals of stroboscopy (visualization of fast-moving particles) in microfluidics research.
