@@ -9,7 +9,8 @@ header-img: images/others/strobeillum.png
 
 <br>
 
-### Overview
+### Overview | Date: 24-26 July, 2023 | Location: [San Joaquin Campus](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), UC, Santiago, Chile
+
 We are thrilled to invite you to an exciting hands-on workshop on building, using, and modifying our low-cost microfluidic droplet generation workstation. During the workshop, you will:
 - Learn the fundamentals of stroboscopy (visualization of fast-moving particles) in microfluidics research.
 - Gain hands-on experience in assembling and operating our low-cost microfluidic droplet generation workstation.
@@ -19,12 +20,6 @@ We are thrilled to invite you to an exciting hands-on workshop on building, usin
 Whether you are new to microfluidics or looking to enhance your existing knowledge, this workshop offers an opportunity to expand your skill set and propel your research forward. Don't miss out on this invaluable learning experience.
 
 Spaces are limited, so we encourage you to reserve your spot soon. To register or learn more about the workshop, please fill out [this form](https://tinyurl.com/microfluidics-librehub).
-
-**Date:** 24-26 July, 2023
-
-**Location:** [San Joaquin Campus](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile, Santiago, Chile
-
-<br>
 
 We look forward to seeing you in Chile and embarking on this exciting journey together of open-source technologies!
 
