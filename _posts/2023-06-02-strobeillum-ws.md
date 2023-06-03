@@ -1,5 +1,5 @@
 ---
-title: Coming up | Strobe-Enhanced Microfluidic Imaging Workstation
+title: Coming soon | Strobe-Enhanced Microfluidic Imaging Workstation
 description: LIBRE hub workshop
 categories: newworkshop
 header-img: images/others/strobeillum.png

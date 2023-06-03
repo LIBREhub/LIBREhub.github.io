@@ -105,43 +105,24 @@ s.setAttribute('data-timestamp', +new Date());
     // Map for OpenFlexure Microscope Workshop	
 	   	const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 16});
 
-		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-			maxZoom: 19,
-			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+		  const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			     maxZoom: 19,
+			     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
 		
 	    	const stem = L.marker([-33.50014, -70.61191]).addTo(map).bindPopup('Edif. Ciencia y Tecnología'),
 		      psico = L.marker([-33.49675, -70.61027]).addTo(map).bindPopup('Edif. Psicología, Aulas AP403 y AP502'),
-	    	      ediY = L.marker([-33.49912, -70.61217]).addTo(map).bindPopup('Edif. Centro de Excelencia Docente'),
+	    	  ediY = L.marker([-33.49912, -70.61217]).addTo(map).bindPopup('Edif. Centro de Excelencia Docente'),
 		      casino = L.marker([-33.49977, -70.60950]).addTo(map).bindPopup('Casino Pérgola'),
-		      lab = L.marker([-33.49982, -70.61382]).addTo(map).bindPopup('Laboratorio Docente de Ingeniería Eléctrica')
-		;
+		      lab = L.marker([-33.49982, -70.61382]).addTo(map).bindPopup('Laboratorio Docente de Ingeniería Eléctrica');
 
 		function onMapClick(e) {
-			popup
-				.setLatLng(e.latlng)
-				.setContent(`You clicked the map at ${e.latlng.toString()}`)
-				.openOn(map);
-		}
+			   popup
+				  .setLatLng(e.latlng)
+				  .setContent(`You clicked the map at ${e.latlng.toString()}`)
+				  .openOn(map);
+		                      }
 
 		map.on('click', onMapClick);
-    
-    // Map for Strobe Illumination Workshop
-	    	const map1 = L.map('map1', {center: [-33.4985, -70.6104], zoom: 16});
-
-		const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-			maxZoom: 19,
-			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map1);
-		
-	    	const stem = L.marker([-33.50014, -70.61191]).addTo(map1).bindPopup('Edif. Ciencia y Tecnología');
-
-		function onMapClick(e) {
-			popup
-				.setLatLng(e.latlng)
-				.setContent(`You clicked the map at ${e.latlng.toString()}`)
-				.openOn(map1);
-		}
-
-		map1.on('click', onMapClick);
 
     </script>
 
