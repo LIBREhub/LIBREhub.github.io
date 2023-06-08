@@ -24,7 +24,7 @@ Spaces are limited, so we encourage you to reserve your spot soon. To register o
 We look forward to seeing you in Chile and embarking on this exciting journey together of open-source technologies!
 
 <p align="center">
-<img src="{{site.baseurl}}/images/others/strobeillum.png" data-action="zoom">
+<a href="https://tinyurl.com/microfluidics-librehub" target="_blank"><img src="{{site.baseurl}}/images/others/strobeillum.png"></a>
 </p>
 
 <br>
