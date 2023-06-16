@@ -2,7 +2,7 @@
 title: The Bright-Eyes TTM
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/eleonora_perego_pic.jpg
+header-img: images/seminars/eleonora_perego_pic.png
 ---
 
 ## The Bright-Eyes TTM: A time-tagging module to democratize single-photon microscopy
