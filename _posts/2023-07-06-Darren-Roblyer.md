@@ -2,7 +2,7 @@
 title: Bio-Tissue Analysis - OpenSFDI
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/darren_roblyer_pic.png
+header-img: images/seminars/darren_roblyer.jpg
 ---
 
 ## OpenSFDI: an open hardware project for label-free measurements of tissue optical properties with spatial frequency domain imaging
