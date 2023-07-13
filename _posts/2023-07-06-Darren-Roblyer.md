@@ -1,5 +1,5 @@
 ---
-title: Bio-Tissue Analysis: OpenSFDI
+title: Bio-Tissue Analysis - OpenSFDI
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/darren_roblyer_pic2.jpeg
