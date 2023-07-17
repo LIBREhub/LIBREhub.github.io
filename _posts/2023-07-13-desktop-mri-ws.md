@@ -16,7 +16,7 @@ We are thrilled to invite you to an exciting hands-on workshop on building, usin
 We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
 
 <p align="center">
-<img src="{{site.baseurl}}/images/workshops/LLIM_2023_afiche.png" data-action="zoom">
+<img src="{{site.baseurl}}/images/workshops/DMHW_2023_afiche.png" data-action="zoom">
 </p>
 
 <br>

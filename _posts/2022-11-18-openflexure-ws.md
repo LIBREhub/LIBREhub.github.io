@@ -2,7 +2,7 @@
 title: OpenFlexure Microscope
 description: LIBRE hub workshop
 categories: newworkshop
-header-img: images/others/OFMBlender.png
+header-img: images/workshops/OFM_2022_afiche.png
 ---
 
 ## Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones"
@@ -42,7 +42,7 @@ Con el objetivo de crear una red de contactos y se familizaricen con el Foro del
 Para el taller, se estan siguiendo las normas y recomendaciones del [Gobierno de Chile](https://www.gob.cl/pasoapaso/), el [Ministerio de Salud](https://www.minsal.cl/plan-seguimos-cuidandonos-paso-a-paso/) y la [Pontificia Universidad Católica de Chile (UC)](https://www.uc.cl/uc-contra-el-coronavirus/paso-a-paso-uc/). En todos los campus de la UC se eliminó la obligatoriedad del uso de mascarillas en espacios abiertos y cerrados; **su uso es opcional**. Sólo se mantiene obligatorio en espacios de atención de salud, y se recomienda siempre su uso en personas que presenten síntomas respiratorios o que tengan alguna condición de salud, en que su uso constituya un beneficio. *Siéntase libre de usar mascarilla al interior de la UC y durante nuestras actividades si lo desea*.
 
 <br>
-<img src="{{site.baseurl}}/images/others/OFM_workshop_afiche.jpg" data-action="zoom">
+<img src="{{site.baseurl}}/images/workshops/OFM_2022_afiche.png" data-action="zoom">
 
 <!--
 ### Programa de actividades
