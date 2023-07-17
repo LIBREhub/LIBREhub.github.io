@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programa
-permalink: /workshops/SEMS_2022/program/
+permalink: /workshops/SEMS_2023/program/
 ---
 
 ## Programa de actividades
