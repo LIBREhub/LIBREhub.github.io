@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Expositores
-permalink: /OFM/2022/speakers/
+permalink: /workshops/OFM_2022/speakers/
 ---
 
 ## Instructores

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programa
-permalink: /OFM/2022/program/
+permalink: /workshops/OFM_2022/program/
 ---
 
 ## Programa de actividades

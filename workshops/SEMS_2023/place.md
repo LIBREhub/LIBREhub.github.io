@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lugar del Taller
-permalink: /OFM/2022/place/
+permalink: /workshops/SEMS_2023/place/
 ---
 
 ## Lugar del Taller

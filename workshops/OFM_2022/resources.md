@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentación
-permalink: /OFM/2022/docu/
+permalink: /workshops/OFM_2022/resources/
 ---
 
 ## Documentación
