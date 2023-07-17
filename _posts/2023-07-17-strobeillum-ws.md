@@ -1,15 +1,17 @@
 ---
-title: Strobe-Enhanced Microfluidic Imaging Workstation
+title: Strobe-Enhanced Microscopy Stage
 description: LIBRE hub workshop
 categories: newworkshop
-header-img: images/others/strobeillum.png
+header-img: images/workshops/SEMS_2023_afiche.png
 ---
 
-# Taller "Strobe-Enhanced Microfluidic Imaging Workstation"
+## Taller "Strobe Illumination for Bioimaging of Fast Processes"
 
-## Información general
+### Información general
 
-Bienvenido/a al Taller "Strobe-Enhanced Microfluidic Imaging Workstation". Este taller se llevará a cabo los días 24, 25 y 26 de Julio del 2023 en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Estas actividades son organizadas por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciadas por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
+Bienvenido/a al Taller "Strobe Illumination for Bioimaging of Fast Processes". Este taller se llevará a cabo los días 24, 25 y 26 de Julio del 2023 en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile.
+
+Estas actividades son organizadas por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciadas por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
 En esta sección encontrarás algunos recursos para prepararte para el taller y realizar las actividades programadas:
 
@@ -26,12 +28,12 @@ Para estar en contacto y en comunidad:
 
 Al aceptar su participación, usted acepta cumplir con el [Código de conducta](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) y el [Reglamento UC](https://www.ing.uc.cl/electrica/wp-content/uploads/2020/09/reglamento-laboratorio-de-fabricacin-de-ingeniera-elctrica-fablabv3.pdf). LIBRE hub, como iniciativa de la UC que promueve el Hardware Abierto, se adhiere a las normas y las recomendaciones del [Gathering for Open Science Hardware (GOSH)](https://openhardware.science/) y la Pontificia Universidad Católica de Chile.
 
-> **IMPORTANTE:** Por favor, lea la información brindada en su totalidad antes de asistir al Taller.
+**IMPORTANTE:** Por favor, lea la información brindada en su totalidad antes de asistir al taller.
 
 <br>
 
 <p align="center">
-<img src="{{site.baseurl}}/images/others/strobeillum.png">
+<img src="{{site.baseurl}}/images/workshops/SEMS_2023_afiche.png">
 </p>
 
 <br>
