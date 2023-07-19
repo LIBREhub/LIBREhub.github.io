@@ -15,9 +15,9 @@ Estas actividades son organizadas por el equipo de [LIBRE hub](https://librehub.
 
 En esta sección encontrarás algunos recursos para prepararte para el taller y realizar las actividades programadas:
 
-- [Programa](/workshops/SEMS_2023/program/)
-- [Lugar del Taller](/workshops/SEMS_2023/place/)
-- [Recursos para el Taller](/workshops/SEMS_2023/resources/)
+- [Programa]()
+- [Lugar del Taller]()
+- [Recursos para el Taller]()
 
 Para estar en contacto y en comunidad:
 
