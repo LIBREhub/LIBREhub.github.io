@@ -12,7 +12,6 @@ En el siguiente mapa están señalados los edificios donde se realizarán las ac
 
 <div id="map" style="width: 600px; height: 400px;"></div>
 <br>
-<br>
 
 **MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
 

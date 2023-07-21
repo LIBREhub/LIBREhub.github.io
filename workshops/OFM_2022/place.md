@@ -10,7 +10,7 @@ Las sesiones de los días Martes 22 y Miércoles 23 de Noviembre se llevarán a 
 
 En el siguiente mapa están señalados los edificios donde se realizarán las actividades del Taller.
 
-<div id="map" style="width: 600px; height: 400px;"></div>
+<div id="map1" style="width: 600px; height: 400px;"></div>
 <br>
 
 **MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**

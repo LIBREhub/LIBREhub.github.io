@@ -109,7 +109,7 @@ s.setAttribute('data-timestamp', +new Date());
 		      pergola = L.marker([-33.49977, -70.60950]).bindPopup('Casino Pérgola'),
 		      lab = L.marker([-33.49982, -70.61382]).bindPopup('Laboratorio Docente de Ingeniería Eléctrica'),
           copper = L.marker([-33.49987, -70.61421]).bindPopup('Copper Café'),
-          ing = L.marker([-33.49941, -70.61272]).bindPopup('Edif. Raúl Devés');;
+          ing = L.marker([-33.49941, -70.61272]).bindPopup('Edif. Raúl Devés');
    
       const ofm = L.layerGroup([stem, psico, ediY, casino, lab]); // Layer for 2022 OFM Workshop
 
@@ -120,6 +120,7 @@ s.setAttribute('data-timestamp', +new Date());
            attribution: '© OpenStreetMap'});
 
       const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 16, layers: [tiles, sems]});
+      const map = L.map('map1', {center: [-33.4985, -70.6104], zoom: 16, layers: [tiles, ofm]});
     </script>
 
 </body>
