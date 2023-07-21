@@ -6,7 +6,7 @@ permalink: /workshops/SEMS_2023/resources/
 
 # Documentación
 
-<img align="right" src="/images/others/stage.png" width=270 height=350>
+<img align="right" src="/images/others/stage.png" width=370 height=450>
 
 ## Recursos principales
 
