@@ -114,7 +114,9 @@ s.setAttribute('data-timestamp', +new Date());
 		      casino = L.marker([-33.49977, -70.60950]).bindPopup('Casino Pérgola'),
 		      lab = L.marker([-33.49982, -70.61382]).bindPopup('Laboratorio Docente de Ingeniería Eléctrica');
 
-      const ofm = L.layerGroup([stem, casino]);
+      const ofm = L.layerGroup([stem, psico, ediY, casino, lab]);
+
+      const sems = L.layerGroup([stem, psico, ediY, casino, lab]);
 
       const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
            maxZoom: 19,
@@ -122,14 +124,7 @@ s.setAttribute('data-timestamp', +new Date());
 
       const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 16, layers: [tiles, ofm]});
 
-		function onMapClick(e) {
-			   popup
-				  .setLatLng(e.latlng)
-				  .setContent(`You clicked the map at ${e.latlng.toString()}`)
-				  .openOn(map);
-		                      };
-
-		map.on('click', onMapClick);
+      const map1 = L.map('map1', {center: [-33.4985, -70.6104], zoom: 16, layers: [tiles, sems]});
 
     </script>
 
