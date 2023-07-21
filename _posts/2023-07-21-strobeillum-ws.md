@@ -21,7 +21,7 @@ En esta sección encontrarás algunos recursos para prepararte para el taller y 
 
 Para estar en contacto y en comunidad:
 
-- [Chat Grupal]() - Pronto se activará este grupo
+- [Chat Grupal](https://chat.whatsapp.com/Fc0E7UzZYZX3Ky3zRG1wtx)
 - [Galería de fotos](https://www.flickr.com/people/197037882@N02/)
 
 ### Código de conducta y Reglamento
