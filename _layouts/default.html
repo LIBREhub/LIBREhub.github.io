@@ -113,14 +113,14 @@ s.setAttribute('data-timestamp', +new Date());
    
       const ofm = L.layerGroup([stem, psico, ediY, casino, lab]); // Layer for 2022 OFM Workshop
 
-      const sems = L.layerGroup([stem, ing, copper, casino]); // Layer for 2023 SEMS Workshop
+      const sems = L.layerGroup([stem, casino, ing, copper]); // Layer for 2023 SEMS Workshop
 
       const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
            maxZoom: 19,
            attribution: '© OpenStreetMap'});
 
       const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 16, layers: [tiles, sems]});
-      const map = L.map('map1', {center: [-33.4985, -70.6104], zoom: 16, layers: [tiles, ofm]});
+
     </script>
 
 </body>
