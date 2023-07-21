@@ -1,5 +1,5 @@
 ---
-title: July 24, 25, and 26 - Strobe-Enhanced Microscopy Stage
+title: July 24, 25, and 26 | Strobe-Enhanced Microscopy Stage
 description: LIBRE hub workshop
 categories: newworkshop
 header-img: images/workshops/SEMS_2023_afiche.png

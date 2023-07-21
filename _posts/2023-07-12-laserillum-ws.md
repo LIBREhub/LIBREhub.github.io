@@ -1,5 +1,5 @@
 ---
-title: 14-15 December | Low-Cost Laser Illumination for Microscopy
+title: December 14-15 | Low-Cost Laser Illumination for Microscopy
 description: LIBRE hub workshop
 categories: newworkshop
 header-img: images/workshops/LLIM_2023_afiche.png

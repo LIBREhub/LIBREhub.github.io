@@ -123,7 +123,27 @@ s.setAttribute('data-timestamp', +new Date());
 		                      }
 
 		map.on('click', onMapClick);
+    </script>
 
+    <script>
+    // Map for Strobe-enhanced Microscopy Stage Workshop  
+      const map = L.map('test', {center: [-33.4985, -70.6104], zoom: 16});
+
+      const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+           maxZoom: 19,
+           attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+    
+        const stem = L.marker([-33.50014, -70.61191]).addTo(map).bindPopup('Edif. Ciencia y Tecnología'),
+          casino = L.marker([-33.49977, -70.60950]).addTo(map).bindPopup('Casino Pérgola');
+
+    function onMapClick(e) {
+         popup
+          .setLatLng(e.latlng)
+          .setContent(`You clicked the map at ${e.latlng.toString()}`)
+          .openOn(test);
+                          }
+
+    map.on('click', onMapClick);
     </script>
 
 </body>
