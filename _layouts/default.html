@@ -118,15 +118,13 @@ s.setAttribute('data-timestamp', +new Date());
 
       const sems = L.layerGroup([stem, casino]);
 
-      const tofm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
            maxZoom: 19,
            attribution: '© OpenStreetMap'});
 
-      const tsems = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-           maxZoom: 19,
-           attribution: '© OpenStreetMap'});
+      const map = L.map('mapofm', {center: [-33.4985, -70.6104], zoom: 16});
 
-      const map = L.map('mapofm', {center: [-33.4985, -70.6104], zoom: 16, layers: [tofm, ofm]},'mapsems', {center: [-33.4985, -70.6104], zoom: 16, layers: [tsems, sems]});
+      tiles.ofm.addTo(map);
 
     </script>
 
