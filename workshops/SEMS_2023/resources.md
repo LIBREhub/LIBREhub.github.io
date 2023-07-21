@@ -5,8 +5,11 @@ permalink: /workshops/SEMS_2023/resources/
 ---
 
 # Documentación
-
-![stage](/images/others/stage.png) ![stage and droplets](/images/others/stage_droplets.gif)
+<p align="center">
+  <img alt="Light" src="/images/others/stage.png" width="35%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/others/stage_droplets.gif" width="28%">
+</p>
 
 ## Recursos principales
 
