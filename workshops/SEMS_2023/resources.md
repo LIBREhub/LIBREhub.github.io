@@ -6,12 +6,12 @@ permalink: /workshops/SEMS_2023/resources/
 
 # Documentación
 
-![stage](/images/others/stage.png) ![stage and droplets](/images/others/stage_droplets.gif)
+<img align="right" src="/images/others/stage.png" width=370 height=450>
 
 ## Recursos principales
 
-- [Lista de Materiales](https://librehub.github.io/3_Levels_Stage/3-level-station_BOM.html)
-- [Instrucciones para Ensamblaje de la Estación](https://librehub.github.io/3_Levels_Stage/3-level-station.html)
+- [Lista de materiales](https://librehub.github.io/3_Levels_Stage/3-level-station_BOM.html)
+- [Instrucciones de ensamblaje](https://librehub.github.io/3_Levels_Stage/3-level-station.html)
 - [Instalación de software](https://librehub.github.io/3_Levels_Stage/software-installation.html)
 - [Uso del software](https://librehub.github.io/3_Levels_Stage/usage.html)
 
