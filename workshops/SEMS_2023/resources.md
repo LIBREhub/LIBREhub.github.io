@@ -8,10 +8,12 @@ permalink: /workshops/SEMS_2023/resources/
 
 <table>
   <tr>
-    <td><img src="/images/others/stage.png" width=270 height=480></td>
-    <td><img src="/images/others/stage_droplets.gif" width=270 height=480></td>
+    <td><img src="/images/others/stage.png" width=270 height=380></td>
+    <td><img src="/images/others/stage_droplets.gif" width=270 height=380></td>
   </tr>
  </table>
+
+<img src="/images/others/stage.png" width=270 height=380> <img src="/images/others/stage_droplets.gif" width=270 height=380>
  
 ## Recursos principales
 
