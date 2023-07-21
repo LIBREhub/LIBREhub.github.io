@@ -6,13 +6,8 @@ permalink: /workshops/SEMS_2023/resources/
 
 # Documentación
 
-<table>
-  <tr>
-    <td><img align="center" src="/images/others/stage.png" width=270 height=380></td>
-    <td><img align="center" src="/images/others/stage_droplets.gif" width=270 height=380></td>
-  </tr>
- </table>
- 
+<img align="right" src="/images/others/stage.png" width=270 height=350>
+
 ## Recursos principales
 
 - [Lista de materiales](https://librehub.github.io/3_Levels_Stage/3-level-station_BOM.html)
