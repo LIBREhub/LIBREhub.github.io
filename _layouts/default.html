@@ -116,17 +116,35 @@ s.setAttribute('data-timestamp', +new Date());
 
       const ofm = L.layerGroup([stem, psico, ediY, casino, lab]);
 
-      const sems = L.layerGroup([stem, casino]);
-
       const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
            maxZoom: 19,
            attribution: '© OpenStreetMap'});
 
-      const map = L.map('mapofm', {center: [-33.4985, -70.6104], zoom: 16});
-
-      tiles.ofm.addTo(map);
+      const map = L.map('mapofm', {center: [-33.4985, -70.6104], zoom: 16,layers: [tiles, ofm]});
 
     </script>
+    <script>
+      import Map from "@anoram/leaflet-svelte";
+        let options = {
+         markers: [
+          {
+           lat: 13,
+           lng: 80,
+          },
+                 ],
+       mapID: "map1",
+         };
+        let options2 = {
+         markers: [
+          {
+         lat: 1,
+         lng: 1,
+          },
+                ],
+       mapID: "map2",
+        };
+  
+  </script>
 
 </body>
 </html>

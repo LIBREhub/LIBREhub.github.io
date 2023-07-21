@@ -10,7 +10,17 @@ Las sesiones de los días Lunes 24, Martes 25 y Miércoles 26 de Julio se llevar
 
 En el siguiente mapa están señalados los edificios donde se realizarán las actividades del Taller.
 
-<div id="mapsems" style="width: 600px; height: 400px;"></div>
+<style>
+  .map {
+    height: 600px;
+    width: auto;
+  }
+
+</style>
+
+<div class="map">
+  <Map options={options2} />
+</div>
 <br>
 
 **MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
