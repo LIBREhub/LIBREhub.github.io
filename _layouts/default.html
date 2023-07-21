@@ -114,27 +114,21 @@ s.setAttribute('data-timestamp', +new Date());
 
       var sems = L.layerGroup([stem, casino]);
 
-      const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
            maxZoom: 19,
-           attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
+           attribution: '© OpenStreetMap'});
 
-      const tiles1 = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-           maxZoom: 19,
-           attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map1);
-
-      const map = L.map('map', {center: [-33.4985, -70.6104], zoom: 16, layers: [ofm]});
-      const map1 = L.map('map1', {center: [-33.4985, -70.6104], zoom: 16, layers: [sems]});
+      var map = L.map('map', {center: [-33.4985, -70.6104], zoom: 16, layers: [sems]});
 
 		function onMapClick(e) {
 			   popup
 				  .setLatLng(e.latlng)
 				  .setContent(`You clicked the map at ${e.latlng.toString()}`)
 				  .openOn(map);
-          .openOn(map1);
-		                      }
+		                      };
 
 		map.on('click', onMapClick);
-    map1.on('click', onMapClick);
+
     </script>
 
 </body>
