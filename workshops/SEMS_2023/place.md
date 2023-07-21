@@ -6,7 +6,7 @@ permalink: /workshops/SEMS_2023/place/
 
 ## Lugar del Taller
 
-Las sesiones de los días Martes 22 y Miércoles 23 de Noviembre se llevarán a cabo en el Campus San Joaquin de la Pontifica Universidad Católica de Chile que se encuentra ubicado en **[Avenida Vicuña Mackenna 4860, Macul, Santiago](https://goo.gl/maps/A3tZ8nWY6jSYH3LK7)**.
+Las sesiones de los días Lunes 24, Martes 25 y Miércoles 26 de Julio se llevarán a cabo en el Campus San Joaquin de la Pontifica Universidad Católica de Chile que se encuentra ubicado en **[Avenida Vicuña Mackenna 4860, Macul, Santiago](https://goo.gl/maps/A3tZ8nWY6jSYH3LK7)**.
 
 En el siguiente mapa están señalados los edificios donde se realizarán las actividades del Taller.
 
@@ -15,16 +15,19 @@ En el siguiente mapa están señalados los edificios donde se realizarán las ac
 
 **MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
 
-**DIA 1: Martes 22**
+**DIA 1: Lunes 24**
 
-- 8.30 a 12.00 hrs - Auditorio Dirección de Informática (Sótano), Edificio Centro de Excelencia Docente (también conocido como Edificio Y).
-- 12.00 a 13.00 hrs - Casino Pérgola
-- 13.00 a 18.00 hrs - Laboratorio Docente de Ingeniería Elétrica, Departamento de Ingeniería Eléctrica (Al lado del Edificio Andrónico Luksic Abaroa).
+- 9.30 a 12.20 hrs - Sala de Estudios Raúl Devés, Piso 1, Edificio Raúl Devés.
+- 12.20 a 13.30 hrs - Recomendaciones: Casino Pérgola, Copper café
+- 13.30 a 18.00 hrs - Laboratorio de Robótica, Piso 6, Edificio de Ciencía y Tecnología.
 
-**DIA 2: Miercoles 23**
+**DIA 2: Martes 25**
 
-- 8.30 a 10.00 hrs - Aula AP502, Escuela de Psicología (A la espalda del Edificio Centro de Medición MIDE UC).
-- 10.00 a 12.00 hrs - Laboratorio Docente de Ingeniería Elétrica, Departamento de Ingeniería Eléctrica (Al lado del Edificio Andrónico Luksic Abaroa).
-- 12.00 a 13.00 hrs - Casino Pérgola
-- 13.00 a 14.00 hrs - Piso 6 y Piso 7, Edificio de Ciencia y Tecnología.
-- 14.00 a 16.15 hrs - Aula AP403, Escuela de Psicología (A la espalda del Edificio Centro de Medición MIDE UC).
+- 9.30 a 13.20 hrs - Laboratorio de Robótica, Piso 6, Edificio de Ciencía y Tecnología.
+- 13.20 a 14.20 hrs - Recomendaciones: Casino Pérgola, Copper café
+- 14.20 a 15.20 hrs - Piso 6 y Piso 7, Edificio de Ciencia y Tecnología.
+- 15.20 a 18.00 hrs - Laboratorio de Robótica, Piso 6, Edificio de Ciencía y Tecnología.
+
+**DIA 3: Miercoles 26**
+
+- 9.30 a 14.20 hrs - Sala de Estudios Raúl Devés, Piso 1, Edificio Raúl Devés.
