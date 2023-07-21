@@ -7,5 +7,5 @@ permalink: /workshops/SEMS_2023/program/
 ## Programa de actividades
 
 <br>
-<img src="{{site.baseurl}}/images/workshops/SEMS_2023_agenda.png" data-action="zoom">
+<img src="/images/workshops/SEMS_2023_agenda.png" data-action="zoom">
 <br>
