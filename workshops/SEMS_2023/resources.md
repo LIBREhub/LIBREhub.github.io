@@ -12,8 +12,8 @@ permalink: /workshops/SEMS_2023/resources/
 
 - [Lista de materiales](https://librehub.github.io/3_Levels_Stage/3-level-station_BOM.html)
 - Instrucciones de ensamblaje:
-- * [Stages](https://librehub.github.io/3_Levels_Stage/3-level-station.html)
-  * [Pumps e interface](https://librehub.github.io/syringe-pumps-and-controller/)
+ * [Stages]([https://librehub.github.io/3_Levels_Stage/3-level-station.html](https://librehub.github.io/strobe-enhanced-microscopy-stage/))
+ * [Pumps e interface](https://librehub.github.io/syringe-pumps-and-controller/)
 - [Instalación de software](https://librehub.github.io/3_Levels_Stage/software-installation.html)
 - [Uso del software](https://librehub.github.io/3_Levels_Stage/usage.html)
 
