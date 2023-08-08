@@ -1,44 +1,14 @@
-- date: 2022-08-07
+- date: 2023-12-14
+  details: 2023 LIBRE Hub Workshop | December 14-15 | <a href="https://librehub.github.io/2023/07/12/laserillum-ws.html" target="_blank">Low-Cost Laser Illumination for Microscopy</a>
+
+- date: 2023-10-23
+  details: 2023 LIBRE Hub Workshop | October 23-24 | <a href="https://librehub.github.io/2023/07/13/desktop-mri-ws.html" target="_blank">Desktop MRI Hardware</a>
+
+- date: 2023-08-07
   details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/napari-LatAm-workshop-2023/intro.html" target="_blank">Introduction napari for Bioimage Analysis</a>
 
-- date: 2022-07-24
+- date: 2023-07-24
   details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/2023/07/21/strobeillum-ws.html" target="_blank">Strobe Illumination for Bioimaging of Fast Processes</a>
-
-- date: 2022-12-12
-  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/5vRhLVZTxKI" target="_blank">Open Source Imaging Initiative</a>
-
-- date: 2022-12-5
-  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/kn3aDyEJFDQ" target="_blank">MRI Fundamentals</a>
-
-- date: 2022-11-28
-  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/F75YpmcM4nE" target="_blank">OpenVIM</a>
-
-- date: 2022-11-23
-  details: 2022 LIBRE Hub Workshops | <a href="https://librehub.github.io/2022/11/18/openflexure-ws.html" target="_blank">OpenFlexure Microscope</a>
-  
-#- date: 2022-10-26
-#  details: Our first in-person LIBRE_hub workshop will be held on Nov 22-23 in Chile! More info <a href="https://librehub.github.io/workshops/" target="_blank">here</a>
-  
-- date: 2022-09-26
-  details: 2022 LIBRE Hub Seminars | <a href="https://huiskenlab.com/flamingo/" target="_blank">Flamingo Project</a> (Joint seminar with Universidad Mayor)
-
-#- date: 2022-08-30
-#  details: JOB ALERT | We are hiring! More info <a href="https://librehub.github.io/join/" target="_blank">here</a>.
-
-- date: 2022-08-23
-  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/GUsdp2OUBT8" target="_blank">Mini2P</a>
-
-- date: 2022-08-22
-  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/C4xos7JkuCo" target="_blank">Computational Imaging</a> 
-
-- date: 2022-07-14
-  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/0U16qJQFn-Y" target="_blank">Low-Cost Fourier Ptychography Microscope</a>
-
-- date: 2022-06-13
-  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/w8SHepYeZ44" target="_blank">Smart Microscopy for Everyone</a>
-  
-- date: 2022-05-23
-  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/ivhmaaL3dRM" target="_blank">UC2 Microscope</a>
 
 - date: 2021-11-23
   details: We are on the <a href="https://www.uc.cl/noticias/fundacion-de-mark-zuckerberg-y-priscilla-chan-premia-a-investigadores-chilenos/" target="_blank">UC news</a>!
@@ -48,3 +18,39 @@
 
 - date: 2021-11-20
   details: LIBRE Hub is a new grantee of the <a href="https://chanzuckerberg.com/imaging/latin-american-hub-for-bioimaging-through-open-hardware/" target="_blank">CZI Expanding Global Access to Bioimaging</a> award.
+
+#- date: 2022-12-12
+#  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/5vRhLVZTxKI" target="_blank">Open Source Imaging Initiative</a>
+
+#- date: 2022-12-5
+#  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/kn3aDyEJFDQ" target="_blank">MRI Fundamentals</a>
+
+#- date: 2022-11-28
+#  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/F75YpmcM4nE" target="_blank">OpenVIM</a>
+
+#- date: 2022-11-23
+#  details: 2022 LIBRE Hub Workshops | <a href="https://librehub.github.io/2022/11/18/openflexure-ws.html" target="_blank">OpenFlexure Microscope</a>
+  
+#- date: 2022-10-26
+#  details: Our first in-person LIBRE_hub workshop will be held on Nov 22-23 in Chile! More info <a href="https://librehub.github.io/workshops/" target="_blank">here</a>
+  
+#- date: 2022-09-26
+#  details: 2022 LIBRE Hub Seminars | <a href="https://huiskenlab.com/flamingo/" target="_blank">Flamingo Project</a> (Joint seminar with Universidad Mayor)
+
+#- date: 2022-08-30
+#  details: JOB ALERT | We are hiring! More info <a href="https://librehub.github.io/join/" target="_blank">here</a>.
+
+#- date: 2022-08-23
+#  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/GUsdp2OUBT8" target="_blank">Mini2P</a>
+
+#- date: 2022-08-22
+#  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/C4xos7JkuCo" target="_blank">Computational Imaging</a> 
+
+#- date: 2022-07-14
+#  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/0U16qJQFn-Y" target="_blank">Low-Cost Fourier Ptychography Microscope</a>
+
+#- date: 2022-06-13
+#  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/w8SHepYeZ44" target="_blank">Smart Microscopy for Everyone</a>
+  
+#- date: 2022-05-23
+#  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/ivhmaaL3dRM" target="_blank">UC2 Microscope</a>
