@@ -7,7 +7,7 @@ header-img: images/workshops/OFM_2022_afiche.png
 
 ## Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones"
 
-<img src="{{site.baseurl}}/images/others/OFMBlender.png" data-action="zoom">
+<img src="{{site.baseurl}}/images/others/OFM_3.jpg" data-action="zoom">
 
 ### Información general
 
