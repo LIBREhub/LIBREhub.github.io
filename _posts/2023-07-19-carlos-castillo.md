@@ -5,7 +5,7 @@ categories: seminar
 header-img: images/seminars/carlos_castillo_pic.jpg
 ---
 
-## KomaMRI.jl: An open-source framework for general Magnetic Resonance Imaging (MRI) simulations 
+## KomaMRI: An open-source framework for general Magnetic Resonance Imaging (MRI) simulations 
 
 <br>
 
@@ -16,7 +16,7 @@ Koma is an MRI simulator written in Julia to solve the Bloch equations using CPU
 
 ‌
 #### Repositories
-[Ph.D. Casrlos Castillo - Website](https://www.mri.cl/carlos-castillo/)
+[PhD(c) Carlos Castillo - Website](https://www.mri.cl/carlos-castillo/)
 
 <br>
 
