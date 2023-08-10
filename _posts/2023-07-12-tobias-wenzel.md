@@ -2,7 +2,7 @@
 title: Open Hardware Driving Global Biology Research
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/tobias_wenzel_pic.jpg
+header-img: images/seminars/tobias_wenzel_pic.png
 ---
 
 ## From Constraints to Opportunities: Open Hardware Driving Global Biology Research
