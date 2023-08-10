@@ -1,5 +1,5 @@
 ---
-title: Koma: An MRI Simulator in Julia
+title: Koma - An MRI Simulator in Julia
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/carlos_castillo_pic.jpg
