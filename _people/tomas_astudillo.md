@@ -1,6 +1,6 @@
 ---
 name: Tomas Astudillo
-position: postdoc
+position: alumni
 avatar: tomas_profile.jpg
 ---
 

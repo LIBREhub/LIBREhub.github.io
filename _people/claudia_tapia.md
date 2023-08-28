@@ -1,6 +1,6 @@
 ---
 name: Claudia Tapia
-position: researchstaff
+position: alumni
 avatar: claudia_profile.jpg
 ---
 
