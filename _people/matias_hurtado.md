@@ -1,6 +1,6 @@
 ---
 name: Matias Hurtado
-position: postdoc
+position: fellow
 avatar: matias_profile.jpg
 ---
 
