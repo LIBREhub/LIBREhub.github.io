@@ -1,6 +1,6 @@
 ---
 name: Pierre Padilla
-position: postdoc
+position: fellow
 avatar: pierre_profile.jpg
 ---
 
