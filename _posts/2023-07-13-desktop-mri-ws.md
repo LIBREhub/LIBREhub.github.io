@@ -1,7 +1,7 @@
 ---
 title: October 23-24 | Desktop MRI Hardware
 description: LIBRE hub workshop
-categories: newworkshop
+categories: 
 header-img: images/workshops/DMHW_2023_afiche.png
 ---
 
