@@ -1,5 +1,5 @@
 ---
-name: Agnes Marin
+name: Agnes Marian
 position: communication
 avatar: agnes_profile.jpg
 ---
