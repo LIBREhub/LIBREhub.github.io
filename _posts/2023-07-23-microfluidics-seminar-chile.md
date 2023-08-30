@@ -1,5 +1,5 @@
 ---
-title: Microfluídica - Primer encuentro en Chile
+title: Microfluidics - First Gathering in Chile
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/microfluidics_seminars.png
