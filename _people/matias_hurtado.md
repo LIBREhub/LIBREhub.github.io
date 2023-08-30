@@ -1,5 +1,5 @@
 ---
-name: Matias Hurtado
+name: Matías Hurtado
 position: fellow
 avatar: matias_profile.jpg
 ---
