@@ -7,7 +7,6 @@ permalink: /join/
 
 ¿Te entusiasma el código abierto y la tecnología científica? ¿Estás disponible para un trabajo en un entorno de investigación dinámico? Entonces estas oportunidades te podrían interesar:
 
-<br>
 <p align="center">
 <img src="{{site.baseurl}}/images/others/afiche_PIM.png" data-action="zoom">
 <br>
@@ -22,6 +21,9 @@ Para postular a estos puestos, por favor, envíe su currículum vitae y una cart
 *Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canal de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
 
 <!--
+<div>
+    <img class="marginauto" src="/images/others/mountain_chile.jpg" alt="centered image" />
+</div>
 
 Are you as enthusiastic about open source and science technology as we are? Are you available for a job in a dynamic research environment? Then this Software Developer position could be of your interest:
 
@@ -65,6 +67,4 @@ We are interested in recruiting those seeking to make a contribution to our comm
 
 [SPANISH VERSION](https://www.dropbox.com/s/dtexixr8bliuxap/Convocatoria%20Technology%20Fellow_24.08.22.docx.pdf?dl=0)
 -->
-<div>
-    <img class="marginauto" src="/images/others/mountain_chile.jpg" alt="centered image" />
-</div>
+
