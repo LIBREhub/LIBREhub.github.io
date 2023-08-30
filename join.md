@@ -3,7 +3,25 @@ layout: page
 title: Join
 permalink: /join/
 ---
-## We are hiring!
+## ¡Convocatorias de empleo!
+
+¿Te entusiasma el código abierto y la tecnología científica? ¿Estás disponible para un trabajo en un entorno de investigación dinámico? Entonces estas oportunidades te podrían interesar:
+
+<br>
+<p align="center">
+<img src="{{site.baseurl}}/images/others/afiche_PIM.png" data-action="zoom">
+<br>
+<img src="{{site.baseurl}}/images/others/afiche_VP.png" data-action="zoom">
+</p>
+<br>
+
+Para postular a estos puestos, por favor, envíe su currículum vitae y una carta de motivación a los correos indicados en los afiches.
+
+<br>
+
+*Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canal de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
+
+<!--
 
 Are you as enthusiastic about open source and science technology as we are? Are you available for a job in a dynamic research environment? Then this Software Developer position could be of your interest:
 
@@ -19,7 +37,6 @@ Esta es una posición remunerada para un proyecto de desarrollo de software abie
 
 Estamos interesados en reclutar aquello/as que buscan hacer una contribución a nuestra comunidad a través del desarrollo de nuestro proyecto. **Para aplicar a esta posición, por favor, enviar su curriculum vitae y una carta de motivación al correo librehub@uc.cl**
 
-<!--
 ## We are hiring!
 
 Are you as enthusiastic about open source and science technology as we are? Are you available for a job in a dynamic research environment? Then this Technology Fellow position could be of your interest:
