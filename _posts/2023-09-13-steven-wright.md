@@ -1,7 +1,7 @@
 ---
 title: Simpler MRI - An MRI scanner using the Diligent Analog Discovery 2 and more
 description: LIBRE_hub seminar
-categories: seminar
+categories: newseminar
 header-img: images/seminars/steven_wright_flyer.png
 ---
 
