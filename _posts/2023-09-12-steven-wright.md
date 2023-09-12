@@ -1,5 +1,5 @@
 ---
-title: Simpler MRI
+title: September 13 | Simpler MRI
 description: LIBRE_hub seminar
 categories: newseminar
 header-img: images/seminars/steven_wright_flyer.png
@@ -19,7 +19,7 @@ We invite you to the next LIBRE hub seminar this Wednesday, September 13 at 13.3
 
 Please join our discussion on Zoom this Wednesday.
 
-Zoom Link: bit.ly/LIBRE_hub_Seminars  
+Zoom Link: [bit.ly/LIBRE_hub_Seminars](https://bit.ly/LIBRE_hub_Seminars)  
 
 <br>
 
