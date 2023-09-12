@@ -2,13 +2,14 @@
 title: seminars
 permalink: /seminars/
 ---
-# **Future Seminars**
+# **Seminars Series**
 <br>
 <div class="content list">
   {% for post in site.posts %}
    {% if post.categories contains 'seminar' %}
     {% capture now %}{{'now' | date: '%s' | minus: 0 %}}{% endcapture %}
      {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+     <h2> Future Seminars </h2>
       {% if date > now %}
         <div class="list-item">
           <p class="list-post-title">
@@ -34,17 +35,7 @@ permalink: /seminars/
           </p>
         </div>
       {% endif %}
-    {% endif %}
-  {% endfor %}
-</div>
-
-# **Past Seminars**
-<br>
-<div class="content list">
-  {% for post in site.posts %}
-   {% if post.categories contains 'seminar' %}
-    {% capture now %}{{'now' | date: '%s' | minus: 0 %}}{% endcapture %}
-     {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+     <h2> Past Seminars </h2>
       {% if date < now %}
         <div class="list-item">
           <p class="list-post-title">
@@ -69,7 +60,7 @@ permalink: /seminars/
             </a>
           </p>
         </div>
-      {% endif %}
+      {% endif %}         
     {% endif %}
   {% endfor %}
 </div>
