@@ -5,19 +5,19 @@ categories: newseminar
 header-img: images/seminars/joseba_alonso_flyer.png
 ---
 
-## Simpler MRI: An MRI scanner using the Diligent Analog Discovery 2 and more
+## MRI for everybody, everywhere
 
 <br>
 
 Dear LIBRE hub community,
 
-We invite you to the next LIBRE hub seminar this Wednesday, September 13 at 13.30 hrs (GMT-3 / Chile Time) via Zoom. For this session, we welcome Dr. Steven M. Wright to hear about "Simpler MRI: An MRI scanner using the Digilent Analog Discovery 2 and more".
+We invite you to the next LIBRE hub seminar on October 18 at 13.30 hrs (GMT-3 / Chile Time) via Zoom. For this session, we welcome Dr. Joseba Alonso to hear about "MRI for everybody, everywhere".
 
-**Speaker:** Steven M. Wright, Magnetic Resonance Systems Laboratory, Department of Electrical and Computer Engineering, Texas A&M University.
+**Speaker:** Joseba Alonso, Institute for Molecular Instrumentation and Imaging (i3M), Spanish National Research Council and Polytechnic University of Valencia.
 
-**Overview:** FPGA-based desktop scanners and new magnet designs are making MRI more accessible than ever before. We discuss and show images from a teaching scanner using the Digilent Analog Discovery 2 which requires no FPGA programming and only a few minor hardware components. Continuing with ‘simpler is better’, we discuss approaches to multinuclear MRI that can simplify scanner construction and in particular the development of multi-nuclear array coils.
+**Overview:** The virtues of MRI are abundant and far-reaching. However, MRI is accessible only to the privileged and not as often as desirable, mainly because they are expensive. In this talk, I will provide an overview of the state of the art of low-cost and portable MRI systems. They are based on low-field magnets and have to compensate for the loss in signal-to-noise ratio with smart engineering, pulse-sequence design, and reconstruction and data processing techniques. I will also present our latest results with a portable system, hard-tissue low-field imaging for dental MRI, and a high-performance open-source console for controlling low-field MRI systems.
 
-Please join our discussion on Zoom this Wednesday.
+Please join our discussion on Zoom.
 
 Zoom Link: [bit.ly/LIBRE_hub_Seminars](https://bit.ly/LIBRE_hub_Seminars)  
 
