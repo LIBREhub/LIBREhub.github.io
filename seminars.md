@@ -4,9 +4,11 @@ permalink: /seminars/
 ---
 # **Seminars Series**
 <br>
+
+## Future Seminars
+<br>
 <div class="content list">
   {% for post in site.posts %}
-    <h2> Future Seminars </h2>
      {% if post.categories contains 'newseminar' %}
           <div class="list-item">
             <p class="list-post-title">
@@ -32,7 +34,14 @@ permalink: /seminars/
             </p>
           </div>
      {% endif %}  
-  <h2> Past Seminars </h2>
+  {% endfor %}
+</div>
+<br>
+
+## Past Seminars
+<br>
+<div class="content list">
+  {% for post in site.posts %}
      {% if post.categories contains 'seminar' %}
           <div class="list-item">
             <p class="list-post-title">
