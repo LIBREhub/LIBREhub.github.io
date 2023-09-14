@@ -1,7 +1,7 @@
 ---
 title: September 13 | Simpler MRI
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/steven_wright_flyer.png
 ---
 
