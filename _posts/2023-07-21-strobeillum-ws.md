@@ -13,16 +13,21 @@ header-img: images/workshops/SEMS_2023_afiche.png
 
 Bienvenido/a al Taller "Strobe Illumination for Bioimaging of Fast Processes". Este taller se llevó a cabo los días 24, 25 y 26 de Julio del 2023 en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades fueron organizadas por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciadas por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
-En esta sección compartimos algunos recursos del Taller y las actividades programadas:
-
 - [Programa](/workshops/SEMS_2023/program/)
 - [Lugar del Taller](/workshops/SEMS_2023/place/)
-- [Recursos para el Taller](/workshops/SEMS_2023/resources/)
-
-Para estar en contacto y en comunidad:
-
-- [Chat Grupal](https://chat.whatsapp.com/Fc0E7UzZYZX3Ky3zRG1wtx)
 - [Galería de fotos](https://www.flickr.com/people/197037882@N02/)
+
+### Recursos para el Taller
+
+<img align="right" src="/images/others/stage.png" width=370 height=450>
+
+- [Lista de materiales](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/3-level-station_BOM.html)
+- Instrucciones de ensamblaje:
+  [Stages](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/) y [Pumps e interface](https://librehub.github.io/syringe-pumps-and-controller/)
+- [Instalación de software](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/software-installation.html)
+- [Uso del software](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage//usage.html)
+- [Raspberry pi - Distribución de Pines](https://pinout.xyz/)
+
 
 ### Código de conducta y Reglamento
 
@@ -38,7 +43,7 @@ Al aceptar su participación, usted acepta cumplir con el [Código de conducta](
 
 <br>
 
-*Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canadl de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
+*Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canal de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
 
 <!--
 
@@ -64,6 +69,6 @@ We look forward to seeing you in Chile and embarking on this exciting journey to
 
 <br>
 
-*Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more content related. All online activities are recorded and posted on [Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) with subtitle options for Spanish and Portuguese.*
+*Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more related content. All online activities are recorded and posted on [Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) with subtitle options for Spanish and Portuguese.*
 
 -->
