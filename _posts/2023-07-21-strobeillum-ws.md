@@ -13,13 +13,13 @@ header-img: images/workshops/SEMS_2023_afiche.png
 
 Bienvenido/a al Taller "Strobe Illumination for Bioimaging of Fast Processes". Este taller se llevó a cabo los días 24, 25 y 26 de Julio del 2023 en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades fueron organizadas por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciadas por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
+<img align="right" src="/images/others/stage.png" height=350>
+
 - [Programa](/workshops/SEMS_2023/program/)
 - [Lugar del Taller](/workshops/SEMS_2023/place/)
 - [Galería de fotos](https://www.flickr.com/people/197037882@N02/)
 
 ### Recursos para el Taller
-
-<img align="right" src="/images/others/stage.png" width=370 height=450>
 
 - [Lista de materiales](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/3-level-station_BOM.html)
 - Instrucciones de ensamblaje:
