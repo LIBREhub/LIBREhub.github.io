@@ -21,7 +21,7 @@ Dr. Tobias Wenzel is a bioengineer studying human and environmental microbiomes 
 
 #### Related Publications
 Academic Article Reference: Tobias Wenzel (2023) Open hardware: From DIY trend to global transformation in access to laboratory equipment. PLOS Biology 21(1): e3001931
-‌
+
 #### Repositories
 [Tobias Wenzel](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/823-tobias-wenzel)
 

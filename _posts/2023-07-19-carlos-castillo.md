@@ -14,7 +14,6 @@ header-img: images/seminars/carlos_castillo_pic.png
 #### Overview
 Koma is an MRI simulator written in Julia to solve the Bloch equations using CPU and GPU parallelization efficiently. Our open-source simulator targets researchers and students, offering an easy-to-use GUI. We compared the accuracy and speed of our simulator against two open-source alternatives JEMRIS (C++, using an ODE solver) and MRiLab (C++ and CUDA). The results show that Koma can simulate with high accuracy (MAEs below 0.1% compared to JEMRIS) and better GPU performance than MRiLab.
 
-‌
 #### Repositories
 [PhD(c) Carlos Castillo - Website](https://www.mri.cl/carlos-castillo/)
 

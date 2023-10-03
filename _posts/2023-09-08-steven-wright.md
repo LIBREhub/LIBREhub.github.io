@@ -1,25 +1,25 @@
 ---
-title: September 13 | Simpler MRI
+title: Simpler MRI - An MRI scanner using the Diligent Analog Discovery 2 and more
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/steven_wright_flyer.png
+header-img: images/seminars/steve_wright_pic.jpg
 ---
 
 ## Simpler MRI: An MRI scanner using the Diligent Analog Discovery 2 and more
 
 <br>
 
-Dear LIBRE hub community,
+[![Steven_Wright](http://img.youtube.com/vi/QCb3-_tFzz4/0.jpg)](https://youtu.be/QCb3-_tFzz4)
 
-We invite you to the next LIBRE hub seminar this Wednesday, September 13 at 13.30 hrs (GMT-3 / Chile Time) via Zoom. For this session, we welcome Dr. Steven M. Wright to hear about "Simpler MRI: An MRI scanner using the Digilent Analog Discovery 2 and more".
+#### Overview
+FPGA-based desktop scanners and new magnet designs are making MRI more accessible than ever before. We discuss and show images from a teaching scanner using the Digilent Analog Discovery 2 which requires no FPGA programming and only a few minor hardware components. Continuing with ‘simpler is better’, we discuss approaches to multinuclear MRI that can simplify scanner construction and in particular the development of multi-nuclear array coils.
 
-**Speaker:** Steven M. Wright, Magnetic Resonance Systems Laboratory, Department of Electrical and Computer Engineering, Texas A&M University.
+#### Speaker
+Steven M. Wright, Magnetic Resonance Systems Laboratory, Department of Electrical and Computer Engineering, Texas A&M University.
 
-**Overview:** FPGA-based desktop scanners and new magnet designs are making MRI more accessible than ever before. We discuss and show images from a teaching scanner using the Digilent Analog Discovery 2 which requires no FPGA programming and only a few minor hardware components. Continuing with ‘simpler is better’, we discuss approaches to multinuclear MRI that can simplify scanner construction and in particular the development of multi-nuclear array coils.
-
-Please join our discussion on Zoom this Wednesday.
-
-Zoom Link: [bit.ly/LIBRE_hub_Seminars](https://bit.ly/LIBRE_hub_Seminars)  
+#### Repositories
+[Steven M. Wright - Profile](https://engineering.tamu.edu/electrical/profiles/swright.html)
+[Magnetic Resonance Systems Laboratory](https://www.tamu-mrsl.org/)
 
 <br>
 
