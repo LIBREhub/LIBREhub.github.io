@@ -55,16 +55,16 @@ permalink: /seminars/
                                 {{ post.title }}
                             </h3>
                             <h3 class="list-post-title">
-                              {{ post.speaker }}
+                                {{ post.speaker }}
                             </h3>
-                            <p class="list-post-title">
-                              posted on {{ post.date | date: "%B %-d, %Y" }}
-                            </p>
                             <p class="list-detail" >
                               <a class="video" href="{{ post.video }}"><i class="fa fa-youtube"></i> Watch now</a>
                             </p>
-                            <p class="list-detail" >
+                            <p class="list-post-title" >
                               {{ post.content | strip_html | truncatewords:30 }}
+                            </p>
+                            <p class="list-detail">
+                              Posted on {{ post.date | date: "%B %-d, %Y" }}
                             </p>
                         </div>                    
                   </div>
