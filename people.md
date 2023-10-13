@@ -10,23 +10,9 @@ permalink: /people/
     }
 
     .profile-thumbnail:hover {
-      opacity: 0.7; /* Set the opacity when hovering */
+      opacity: 0.5; /* Set the opacity when hovering */
     }
 </style>
-
-
-<!--
-<style>
-.profile-thumbnail {
-  background-color: rgba(255, 0, 0, 0.5); /* Set the initial background color with transparency */
-  transition: background-color 0.3s ease; /* Add a smooth transition effect for background color */
-}
-
-.profile-thumbnail:hover {
-  background-color: rgba(45, 61, 91, 0.2); /* Set the background color with transparency when hovering */
-}
-</style>
--->
 
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|researchstaff|fellow|gradstudent|communication|alumni" | split: "|" %}
