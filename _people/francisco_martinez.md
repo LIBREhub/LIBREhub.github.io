@@ -2,6 +2,7 @@
 name: Francisco Martinez
 position: fellow
 avatar: francisco_profile.png
+email: francisco.martinezca@postgrado.uv.cl
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

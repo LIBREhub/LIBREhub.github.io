@@ -2,6 +2,7 @@
 name: Vicente Parot
 position: pi
 avatar: vicente_profile.jpg
+email: vparot@uc.cl
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

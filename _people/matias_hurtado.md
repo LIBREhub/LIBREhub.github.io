@@ -2,6 +2,7 @@
 name: Matias Hurtado
 position: fellow
 avatar: matias_profile.jpg
+email: matias.hurtado1@mail.udp.cl 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

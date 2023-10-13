@@ -2,7 +2,7 @@
 name: Tobias Wenzel
 position: pi
 avatar: tobias_profile.jpg
-twitter: WenzelLab
+email: tobias.wenzel@uc.cl
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
