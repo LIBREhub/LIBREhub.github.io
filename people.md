@@ -3,6 +3,17 @@ title: People
 permalink: /people/
 ---
 
+<style>
+    .profile-thumbnail {
+      opacity: 1; /* Set the initial opacity to fully visible */
+      transition: opacity 0.3s ease; /* Add a smooth transition effect */
+    }
+
+    .profile-thumbnail:hover {
+      opacity: 0.7; /* Set the opacity when hovering */
+    }
+</style>
+
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|researchstaff|fellow|gradstudent|communication|alumni" | split: "|" %}
 
