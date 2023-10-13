@@ -12,6 +12,22 @@ permalink: /people/
     .profile-thumbnail:hover {
       opacity: 0.5; /* Set the opacity when hovering */
     }
+
+    .read-more {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 5px 10px;
+      border-radius: 5px;
+      display: none; /* Hide the element by default */
+    }
+
+    .profile-thumbnail:hover .read-more {
+      display: block; /* Show the element when the parent is hovered */
+    }
+        
 </style>
 
 {% assign people_sorted = site.people | sort: 'joined' %}
