@@ -2,7 +2,7 @@
 name: Pierre Padilla
 position: fellow
 avatar: pierre_profile.jpg
-email: pgpadilla@uc.cl
+email: 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

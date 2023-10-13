@@ -2,7 +2,7 @@
 name: Agnes Marian
 position: communication
 avatar: agnes_profile.jpg
-email: librehub@uc.cl
+email: 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
