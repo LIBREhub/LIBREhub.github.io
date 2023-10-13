@@ -27,7 +27,7 @@ permalink: /people/
     .profile-thumbnail:hover .read-more {
       display: block; /* Show the element when the parent is hovered */
     }
-        
+
 </style>
 
 {% assign people_sorted = site.people | sort: 'joined' %}
@@ -69,6 +69,7 @@ permalink: /people/
           {% else %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
           {% endif %}
+          <div class="read-more">Read more...</div>
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a><br>
           <a class="email" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.email }}</a>
         </p>
