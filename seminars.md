@@ -27,7 +27,7 @@ permalink: /seminars/
                             <p class="list-detail" >
                               {{ post.content | strip_html | truncatewords:30 }}
                             </p>
-                        </div>                   
+                        </div>                    
                   </div>
                   <hr/>
               </a>
@@ -57,10 +57,16 @@ permalink: /seminars/
                             <p class="list-post-title">
                               posted on {{ post.date | date: "%B %-d, %Y" }}
                             </p>
+                            <h4 class="list-detail">
+                              {{ post.speaker }}
+                            </h4>
+                            <p class="list-detail" >
+                              <a class="video" href="{{ post.video }}">{{ post.video }}</a>
+                            </p>
                             <p class="list-detail" >
                               {{ post.content | strip_html | truncatewords:30 }}
                             </p>
-                        </div>                   
+                        </div>                    
                   </div>
                   <hr/>
               </a>
