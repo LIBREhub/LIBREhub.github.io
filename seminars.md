@@ -58,7 +58,7 @@ permalink: /seminars/
                                 {{ post.speaker }}
                             </h3>
                             <p class="list-detail" >
-                              <a class="video" href="{{ post.video }}"><i class="fa-brands fa-youtube" style="font-size: 1.275em;"></i> Watch now</a>
+                              <a class="video" href="{{ post.video }}"><i class="fa-brands fa-youtube"></i> Watch now</a>
                             </p>
                             <p class="list-post-title" >
                               {{ post.content | strip_html | truncatewords:30 }}
