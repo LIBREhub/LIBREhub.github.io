@@ -22,7 +22,6 @@ En esta sección compartimos algunos recursos del Taller y las actividades progr
 
 Para estar en contacto y en comunidad:
 
-- [Chat Grupal](https://chat.whatsapp.com/JirJK3X5wVPKpK6jM4UDuI)
 - [Galería de fotos](https://www.flickr.com/photos/197037882@N02/)
 
 ### Código de conducta y Reglamento
@@ -48,38 +47,3 @@ Para el taller, se estan siguiendo las normas y recomendaciones del [Gobierno de
 <br>
 
 *Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canadl de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
-
-<!--
-### Programa de actividades
-<br>
-<img src="{{site.baseurl}}/images/others/dia1_actividades.png" data-action="zoom">
-<br>
-<img src="{{site.baseurl}}/images/others/dia2_actividades.png" data-action="zoom">
-
-### Lugar del Taller
-
-Las sesiones de los días Martes 22 y Miércoles 23 de Noviembre se llevarán a cabo en el Campus San Joaquin de la Pontifica Universidad Católica de Chile que se encuentra ubicado en **[Avenida Vicuña Mackenna 4860, Macul, Santiago](https://goo.gl/maps/A3tZ8nWY6jSYH3LK7)**.
-
-En el siguiente mapa del campus San Joaquín están señalados los edificios donde se realizarán las actividades del Taller.
-
-<div id="map" style="width: 600px; height: 400px;"></div>
-
-**MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
-
-**DIA 1: Martes 22**
-
-- 8.30 a 12.00 hrs - Auditorio Dirección de Informática (Sótano), Edificio Centro de Excelencia Docente (también conocido como Edificio Y).
-- 12.00 a 13.00 hrs - Casino Pérgola
-- 13.00 a 18.00 hrs - Laboratorio Docente de Ingeniería Elétrica, Departamento de Ingeniería Eléctrica (Al lado del Edificio Andrónico Luksic Abaroa).
-
-**DIA 2: Miercoles 23**
-
-- 8.30 a 10.00 hrs - Aula AP502, Escuela de Psicología (A la espalda del Edificio Centro de Medición MIDE UC).
-- 10.00 a 12.00 hrs - Laboratorio Docente de Ingeniería Elétrica, Departamento de Ingeniería Eléctrica (Al lado del Edificio Andrónico Luksic Abaroa).
-- 12.00 a 13.00 hrs - Casino Pérgola
-- 13.00 a 14.00 hrs - Piso 6 y Piso 7, Edificio de Ciencia y Tecnología.
-- 14.00 a 16.15 hrs - Aula AP403, Escuela de Psicología (A la espalda del Edificio Centro de Medición MIDE UC).
-
-<!-- <br>
-<img src="{{site.baseurl}}/images/others/mapacampussj.jpg" data-action="zoom">
-<br> -->
