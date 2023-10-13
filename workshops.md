@@ -16,19 +16,19 @@ permalink: /workshops/
         <a href="{{ post.url | prepend: site.baseurl }}">
             <div class="row">
                 <div class="col-sm-4">
-                    <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+                <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
                 </div>
                 <div class="col-sm-8">
                     <h3 class="post-title">
-                        {{ post.title }}
+                      {{ post.title }}
                     </h3>
-                    <p class="list-post-title">
-                      posted on {{ post.date | date: "%B %-d, %Y" }}
-                    </p>
-                    <p class="list-detail" >
+                    <p class="list-post-title" >
                       {{ post.content | strip_html | truncatewords:30 }}
                     </p>
-                </div>
+                    <p class="list-detail" style="font-size: 0.87em;">
+                      Posted on {{ post.date | date: "%B %-d, %Y" }}
+                    </p>
+                </div>  
             </div>
             <hr/>
         </a>
@@ -53,15 +53,18 @@ permalink: /workshops/
                 </div>
                 <div class="col-sm-8">
                     <h3 class="post-title">
-                        {{ post.title }}
+                      {{ post.title }}
                     </h3>
-                    <p class="list-post-title">
-                      posted on {{ post.date | date: "%B %-d, %Y" }}
-                    </p>
                     <p class="list-detail" >
+                      <a class="documentation" href="{{ post.docu }}"><i class="fa fa-book"></i> Documentation</a>
+                    </p>
+                    <p class="list-post-title" >
                       {{ post.content | strip_html | truncatewords:30 }}
                     </p>
-                </div>
+                    <p class="list-detail" style="font-size: 0.87em;">
+                      Posted on {{ post.date | date: "%B %-d, %Y" }}
+                    </p>
+                </div>  
             </div>
             <hr/>
         </a>
