@@ -58,13 +58,13 @@ permalink: /seminars/
                                 {{ post.speaker }}
                             </h3>
                             <p class="list-detail" >
-                              <a class="video" href="{{ post.video }}"><i class="fa fa-youtube" style="font-size: 0.875em;"></i> Watch now</a>
+                              <a class="video" href="{{ post.video }}"><i class="fa fa-youtube" style="font-size: 1.875em;"></i>Watch now</a>
                             </p>
                             <p class="list-post-title" >
                               {{ post.content | strip_html | truncatewords:30 }}
                             </p>
-                            <p class="list-detail">
-                              <a style="font-size: 0.73em;">Posted on {{ post.date | date: "%B %-d, %Y" }}</a>
+                            <p class="list-detail" style="font-size: 0.73em;">
+                              Posted on {{ post.date | date: "%B %-d, %Y" }}
                             </p>
                         </div>                    
                   </div>
