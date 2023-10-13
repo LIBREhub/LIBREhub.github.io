@@ -1,5 +1,7 @@
 ---
 title: Flamingo Project
+speaker: Jan Huisken
+video: https://youtu.be/aQrGm03yfj8?si=xDybEBcoRM3EIZWJ
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/huisken_talk_pic.jpg

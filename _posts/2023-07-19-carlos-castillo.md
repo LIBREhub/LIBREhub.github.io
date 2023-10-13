@@ -1,5 +1,7 @@
 ---
 title: Koma - An MRI Simulator in Julia
+speaker: Carlos Castillo
+video: https://youtu.be/SlVQ1DadAf4
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/carlos_castillo_pic.png

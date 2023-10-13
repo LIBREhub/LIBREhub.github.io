@@ -1,5 +1,7 @@
 ---
 title: Smart Microscopy for Everyone
+speaker: Richard Bowman
+video: https://youtu.be/w8SHepYeZ44
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/bowman_talk_pic.jpg

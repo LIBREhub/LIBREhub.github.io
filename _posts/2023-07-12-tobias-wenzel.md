@@ -1,5 +1,7 @@
 ---
 title: Open Hardware Driving Global Biology Research
+speaker: Tobias Wenzel
+video: https://youtu.be/p_JzJRX1WTM
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/tobias_wenzel_pic.png

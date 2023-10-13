@@ -1,5 +1,7 @@
 ---
 title: Master Machine-Learning-Based Image Analysis with ilastik
+speaker: Dominik Kutra
+video: https://youtu.be/IRIlscUhClg
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/dominik_kutra_1.png

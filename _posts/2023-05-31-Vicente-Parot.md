@@ -1,5 +1,7 @@
 ---
 title: Low-cost illumination modules for microscopy
+speaker: Vicente Parot
+video: https://youtu.be/zzCq9pENfxI
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/vicente_parot_pic.jpg

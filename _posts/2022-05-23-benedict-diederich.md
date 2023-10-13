@@ -1,5 +1,7 @@
 ---
 title: UC2 Microscope
+speaker: Benedict Diederich
+video: https://youtu.be/ivhmaaL3dRM
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/diederich_talk_pic.jpg

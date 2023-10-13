@@ -1,5 +1,7 @@
 ---
-title: MRI Intro
+title: Introduction to Magnetic Resonance Imaging
+speaker: Pablo Irarrazaval
+video: https://youtu.be/kn3aDyEJFDQ
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/pim_talk_pic.jpg

@@ -1,5 +1,7 @@
 ---
 title: Low-Cost Fourier Ptychography Microscope
+speaker: Esteban Vera
+video: https://youtu.be/0U16qJQFn-Y
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/vera_talk_pic.jpg

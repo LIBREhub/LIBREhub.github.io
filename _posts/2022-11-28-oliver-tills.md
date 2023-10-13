@@ -1,5 +1,7 @@
 ---
 title: OpenVIM
+speaker: Oliver Tills
+video: https://youtu.be/F75YpmcM4nE
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/tills_talk_pic.jpg

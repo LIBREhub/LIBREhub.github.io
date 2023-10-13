@@ -1,5 +1,7 @@
 ---
 title: Bio-Tissue Analysis - OpenSFDI
+speaker: Darren Roblyer
+video: https://youtu.be/BArvfhsU3C4
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/darren_roblyer.jpg

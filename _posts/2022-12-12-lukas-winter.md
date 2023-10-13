@@ -1,5 +1,7 @@
 ---
 title: Open Source Imaging Initiative
+speaker: Lukas Winter
+video: https://youtu.be/5vRhLVZTxKI
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/winter_talk_pic.jpg

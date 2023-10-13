@@ -1,5 +1,7 @@
 ---
 title: The Bright-Eyes TTM
+speaker: Eleonora Perego & Eli Slenders
+video: https://youtu.be/aQxKkF7O8i8
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/eleonora_perego_pic.png

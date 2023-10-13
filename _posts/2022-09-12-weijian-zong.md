@@ -1,5 +1,7 @@
 ---
 title: Mini2P
+speaker: Weijian Zong
+video: https://youtu.be/GUsdp2OUBT8
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/zong_talk_pic.jpg
