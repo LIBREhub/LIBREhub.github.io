@@ -21,11 +21,11 @@ permalink: /seminars/
                             <h3 class="post-title">
                                 {{ post.title }}
                             </h3>
-                            <p class="list-post-title">
-                              posted on {{ post.date | date: "%B %-d, %Y" }}
-                            </p>
-                            <p class="list-detail" >
+                            <p class="list-post-title" >
                               {{ post.content | strip_html | truncatewords:30 }}
+                            </p>
+                            <p class="list-detail" style="font-size: 0.87em;">
+                              Posted on {{ post.date | date: "%B %-d, %Y" }}
                             </p>
                         </div>                    
                   </div>
