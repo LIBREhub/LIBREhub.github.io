@@ -1,5 +1,8 @@
-- date: 2023-08-13
+- date: 2023-10-14
   details: 2023 LIBRE Hub Workshop | December 11-12 | <a href="https://librehub.github.io/2023/07/30/laserillum-ws.html" target="_blank">Low-Cost Laser Illumination for Microscopy</a>
+
+- date: 2023-10-13
+  details: 2023 LIBRE Hub Workshop | November 20-21 | <a href="https://librehub.github.io/2023/07/29/mri-data-ws.html" target="_blank">MRI - Processing your own data</a>
 
 - date: 2023-09-13
   details: 2023 LIBRE Hub Seminar | October 18 | <a href="https://librehub.github.io/2023/09/12/joseba-alonso.html" target="_blank">MRI for everybody, everywhere</a>
@@ -9,6 +12,9 @@
 
 - date: 2023-08-01
   details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/napari-LatAm-workshop-2023/intro.html" target="_blank">Introduction napari for Bioimage Analysis</a>
+
+- date: 2023-07-25
+  details: 2023 LIBRE Hub Seminar | <a href="https://librehub.github.io/2023/07/23/microfluidics-seminar-chile.html" target="_blank">First Gathering on Microfluidics Research in Chile</a>
 
 - date: 2023-07-24
   details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/2023/07/21/strobeillum-ws.html" target="_blank">Strobe Illumination for Bioimaging of Fast Processes</a>

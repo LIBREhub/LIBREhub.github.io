@@ -1,7 +1,7 @@
 ---
 title: Microfluidics - First Gathering in Chile
 description: LIBRE_hub seminar
-categories: seminar
+categories: 
 header-img: images/seminars/microfluidics_seminars.png
 ---
 
