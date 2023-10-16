@@ -8,6 +8,50 @@ layout: default
   <hr>
   -->
   {{ content }}
+
+  <style>
+      .thumbnail-container {
+        position: relative;
+        width: 50%;
+      }
+
+      .thumbnail {
+        width: 100%;
+        opacity: 1;
+        transition: 0.3s;
+      }
+
+      .overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        transition: 0.3s;
+        background-color: rgba(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .thumbnail-container:hover .thumbnail {
+        opacity: 0.5;
+      }
+
+      .thumbnail-container:hover .overlay {
+        opacity: 1;
+      }
+
+      .text {
+        color: white;
+        font-size: 50px;
+        font-family: "Roboto", sans-serif;
+      }
+  </style>
+
   {% include social-share.html %}
   <!--<div id="disqus_thread"></div>-->
 </div>

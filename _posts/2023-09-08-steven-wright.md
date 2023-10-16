@@ -32,46 +32,4 @@ Steven M. Wright, Magnetic Resonance Systems Laboratory, Department of Electrica
 
 <br>
 
-<style>
-.thumbnail-container {
-  position: relative;
-  width: 100%;
-}
-
-.thumbnail {
-  width: 100%;
-  opacity: 1;
-  transition: 0.3s;
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: 0.3s;
-  background-color: rgba(0, 0, 0, 0.5);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.thumbnail-container:hover .thumbnail {
-  opacity: 0.5;
-}
-
-.thumbnail-container:hover .overlay {
-  opacity: 1;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-}
-</style>
-
 *Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more content related. All seminars are recorded and posted on [Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) with subtitle options for Spanish and Portuguese.*
