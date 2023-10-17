@@ -4,8 +4,8 @@ title: Gallery
 permalink: /gallery/
 ---
 
-# Strobe Illumination for Bioimaging of Fast Processes
-### 24,25 and 26 July 2023
+## Strobe Illumination for Bioimaging of Fast Processes
+### 24, 25 and 26 July 2023 | Santiago, Chile
 <br>
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -56,8 +56,8 @@ permalink: /gallery/
 
 <hr>
 
-# OpenFlexure Microscope: Development and applications
-### 22-23 November 2022
+## OpenFlexure Microscope: Development and applications
+### 22-23 November 2022 | Santiago, Chile
 <br>
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
