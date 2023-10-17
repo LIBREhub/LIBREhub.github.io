@@ -1,5 +1,5 @@
 ---
-title: seminars
+title: Seminars
 permalink: /seminars/
 ---
 # **Seminars Series**
@@ -54,7 +54,7 @@ permalink: /seminars/
                             <h3 class="post-title">
                                 {{ post.title }}
                             </h3>
-                            <p class="list-post-title" style="font-size: 1.2em;">
+                            <p class="list-post-title">
                               <strong>Speaker:</strong>  {{ post.speaker }}
                             </p>
                             <p class="list-post-title" >

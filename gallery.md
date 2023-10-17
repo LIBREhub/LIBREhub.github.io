@@ -4,7 +4,9 @@ title: Gallery
 permalink: /gallery/
 ---
 
-# Workshop 1
+# Strobe Illumination for Bioimaging of Fast Processes
+### 24,25 and 26 July 2023
+<br>
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
@@ -54,7 +56,9 @@ permalink: /gallery/
 
 <hr>
 
-# Workshop 2
+# OpenFlexure Microscope: Development and applications
+### 22-23 November 2022
+<br>
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->

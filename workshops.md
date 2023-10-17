@@ -1,5 +1,5 @@
 ---
-title: workshops
+title: Workshops
 permalink: /workshops/
 ---
 
@@ -55,11 +55,11 @@ permalink: /workshops/
                     <h3 class="post-title">
                       {{ post.title }}
                     </h3>
-                    <p class="list-detail" >
-                      <a class="documentation" href="{{ post.docu }}"><i class="fa fa-book"></i> Documentation</a>
-                    </p>
                     <p class="list-post-title" >
                       {{ post.content | strip_html | truncatewords:30 }}
+                    </p>
+                    <p class="list-detail" style="font-size: 1.2em;">
+                      <a class="documentation" href="{{ post.docu }}"><i class="fa fa-book"></i> Documentation</a>
                     </p>
                     <p class="list-detail" style="font-size: 0.87em;">
                       Posted on {{ post.date | date: "%B %-d, %Y" }}
