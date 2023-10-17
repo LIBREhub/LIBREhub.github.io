@@ -54,10 +54,10 @@ permalink: /seminars/
                             <h3 class="post-title">
                                 {{ post.title }}
                             </h3>
-                            <p class="list-detail">
+                            <p class="list-post-title">
                               <strong>Speaker:</strong>  {{ post.speaker }}
                             </p>
-                            <p class="list-detail" >
+                            <p class="list-post-title" >
                               {{ post.content | strip_html | truncatewords:30 }}
                             </p>
                             <p class="list-detail" style="font-size: 1.2em;">
