@@ -11,7 +11,14 @@ header-img: images/seminars/bowman_talk_pic.jpg
 
 <br>
 
-[![Richard_Bowman](http://img.youtube.com/vi/w8SHepYeZ44/0.jpg)](https://youtu.be/w8SHepYeZ44) 
+<div class="thumbnail-container">
+  <a href="https://youtu.be/w8SHepYeZ44">
+    <img class="thumbnail" src="http://img.youtube.com/vi/w8SHepYeZ44/0.jpg" alt="Richard_Bowman">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 The OpenFlexure Microscope has been replicated hundreds of times around the world, from makerspaces to superresolution microscopy labs. Its main offering to the scientific community is a high performance flexure stage for precise XYZ motion that can be almost entirely 3D printed, but we have since added many optical, mechanical, and software features to make it a versatile instrument in its own right. In this talk we’ll cover what is possible using our frugal instrument, and take a tour around the increasingly broad community that has grown up around it. This includes our detailed calibration of the microscope’s optics and mechanics, as well as recent developments towards error correcting “smart” microscopy. The microscope is used in applications from malaria research through to education in schools, and we will highlight several projects that make use of it. Some of the most exciting developments have come from integrating the OpenFlexure Microscope with other projects – including UC2 (YouSeeToo) and ImJoy.io. As well as mentioning what is possible by combining projects together, we will discuss how we are using Internet of Things technologies to make it easier to link projects together across programming languages, operating systems, and hardware architectures.

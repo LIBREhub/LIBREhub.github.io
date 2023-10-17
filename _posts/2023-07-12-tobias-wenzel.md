@@ -11,7 +11,14 @@ header-img: images/seminars/tobias_wenzel_pic.png
 
 <br>
 
-[![Tobias_Wenzel](http://img.youtube.com/vi/p_JzJRX1WTM/0.jpg)](https://youtu.be/p_JzJRX1WTM)
+<div class="thumbnail-container">
+  <a href="https://youtu.be/p_JzJRX1WTM">
+    <img class="thumbnail" src="http://img.youtube.com/vi/p_JzJRX1WTM/0.jpg" alt="Tobias_Wenzel">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 Attendees are invited to discover how open hardware solutions are empowering scientists, particularly in the Latin American context, to overcome traditional barriers to access and advance scientific research. We discuss how open-source technologies, beyond driving cost reduction, enable knowledge transfer and local fabrication. Through shared experiences and insights, we illuminate how this global DIY trend is reshaping the future of laboratory experimentation.

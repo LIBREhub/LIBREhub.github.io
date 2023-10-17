@@ -11,7 +11,14 @@ header-img: images/seminars/dominik_kutra_1.png
 
 <br>
 
-[![Dominik Kutra](http://img.youtube.com/vi/IRIlscUhClg/0.jpg)](https://youtu.be/IRIlscUhClg)
+<div class="thumbnail-container">
+  <a href="https://youtu.be/IRIlscUhClg">
+    <img class="thumbnail" src="http://img.youtube.com/vi/IRIlscUhClg/0.jpg" alt="Dominik_Kutra">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 ilastik is an easy-to-use interactive open-source tool that brings machine-learning-based (bio)image analysis to end users without substantial computational expertise. It contains predefined workflows for image segmentation, object classification, counting and tracking. An overview of ilastik will be given, demonstrating how to apply it through various examples and how to integrate it with other image analysis tools

@@ -1,5 +1,5 @@
 ---
-title: Bio-Tissue Analysis - OpenSFDI
+title: OpenSFDI - an open hardware project for label-free measurements of tissue optical properties
 speaker: Darren Roblyer
 video: https://youtu.be/BArvfhsU3C4
 description: LIBRE_hub seminar
@@ -11,7 +11,14 @@ header-img: images/seminars/darren_roblyer.jpg
 
 <br>
 
-[![Darren_roblyer](http://img.youtube.com/vi/BArvfhsU3C4/0.jpg)](https://youtu.be/BArvfhsU3C4)
+<div class="thumbnail-container">
+  <a href="https://youtu.be/BArvfhsU3C4">
+    <img class="thumbnail" src="http://img.youtube.com/vi/BArvfhsU3C4/0.jpg" alt="Darren_Roblyer">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 Spatial frequency domain imaging (SFDI) is a diffuse optical measurement technique that can quantify tissue optical absorption and reduced scattering on a pixel by-pixel basis. Measurements of absorption at different wavelengths enable the extraction of molar concentrations of tissue chromophores over a wide field, providing a noncontact and label-free means to assess tissue viability, oxygenation, microarchitecture, and molecular content. In this talk, I will describe openSFDI, an open-source guide for building a low-cost, small-footprint, multi-wavelength SFDI system capable of quantifying absorption and reduced scattering as well as oxyhemoglobin and deoxyhemoglobin concentrations in biological tissue. The openSFDI project has a companion website which provides a complete parts list along with detailed instructions for assembling the openSFDI system. I will also review several technological advances our lab has recently made, including the extension of SFDI to the shortwave infrared wavelength band (900-1300 nm), where water and lipids provide strong contrast. Finally, I will discuss several preclinical and clinical applications for SFDI, including applications related to cancer, dermatology, rheumatology, cardiovascular disease, and others.

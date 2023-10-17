@@ -1,5 +1,5 @@
 ---
-title: Flamingo Project
+title: Flamingo - Developing and sharing light sheet microscopes
 speaker: Jan Huisken
 video: https://youtu.be/aQrGm03yfj8?si=xDybEBcoRM3EIZWJ
 description: LIBRE_hub seminar
@@ -11,9 +11,14 @@ header-img: images/seminars/huisken_talk_pic.jpg
 
 <br>
 
-<img src="{{site.baseurl}}/images/seminars/huisken_talk_pic2.jpg" data-action="zoom">
-
-<br>
+<div class="thumbnail-container">
+  <a href="https://youtu.be/aQrGm03yfj8?si=xDybEBcoRM3EIZWJ">
+    <img class="thumbnail" src="{{site.baseurl}}/images/seminars/huisken_talk_pic2.jpg" alt="Jan_Huisken">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 The Flamingo is our compact and powerful custom microscope platform. It features the same components as our stationary setups, but has a modular design that supports multiple configurations. The Flamingo helped us to become more flexible in the lab, serving as a fully equipped base for microscope development. In addition, it enabled us to bring our collaborations to a new level. Now, we can move custom microscopes right to where the samples are located, enabling new and exciting imaging experiments much quicker.

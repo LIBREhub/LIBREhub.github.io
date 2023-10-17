@@ -11,7 +11,14 @@ header-img: images/seminars/pim_talk_pic.jpg
 
 <br>
 
-[![Pablo_Irarrazaval](http://img.youtube.com/vi/kn3aDyEJFDQ/0.jpg)](https://youtu.be/kn3aDyEJFDQ) 
+<div class="thumbnail-container">
+  <a href="https://youtu.be/kn3aDyEJFDQ">
+    <img class="thumbnail" src="http://img.youtube.com/vi/kn3aDyEJFDQ/0.jpg" alt="Pablo_Irarrazaval">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 Magnetic resonance is a quantum phenomenon that happens at the level of atomic nuclei. It is surprising that this phenomenon can be used to make images of the interior of the human body (and other objects). Today it is difficult to conceive of medicine without imaging, and magnetic resonance imaging occupies a preponderant place. It is a technique that has many advantages. It is innocuous and offers a wealth of contrasts and geometric and dynamic flexibility. On the other side, its disadvantages are related to long acquisition times and the cost of the equipment and its operation. In response to this last point, there is a new trend to develop low-cost equipment. The objective of this talk is to explain the fundamentals of the technique in order to understand the challenges in the design and fabrication of resonators, a topic that will be addressed soon in this series of talks.

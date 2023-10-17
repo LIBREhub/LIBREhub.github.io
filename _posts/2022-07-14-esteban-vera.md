@@ -11,7 +11,14 @@ header-img: images/seminars/vera_talk_pic.jpg
 
 <br>
 
-[![Esteban_Vera](http://img.youtube.com/vi/0U16qJQFn-Y/0.jpg)](https://youtu.be/0U16qJQFn-Y) 
+<div class="thumbnail-container">
+  <a href="https://youtu.be/0U16qJQFn-Y">
+    <img class="thumbnail" src="http://img.youtube.com/vi/0U16qJQFn-Y/0.jpg" alt="Esteban_Vera">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 We present an advanced low-cost wide-field, high-resolution computational microscope kit based on Fourier ptychography. The microscope is integrated by using a collection of easy to find off-the-shelf components. By implementing the Fourier Ptychographic Microscopy (FPM) technique, we are able to acquire and synthetically produce wide field-of-view images at high resolutions, exceeding the original limitations of the optical system. The system works by iteratively updating a mosaiced high resolution Fourier spectrum from a collection of images of a sample captured at different illumination angles. We provide the design of the low-cost kit and also the results obtained by several tests performed with a calibration target and blood samples, demonstrating an increase in resolution while preserving the original wide field-of-view of the objective lens used.

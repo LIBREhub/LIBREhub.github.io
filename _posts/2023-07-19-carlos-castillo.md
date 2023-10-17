@@ -1,5 +1,5 @@
 ---
-title: Koma - An MRI Simulator in Julia
+title: KomaMRI - An Magnetic Resonance Imaging Simulator in Julia
 speaker: Carlos Castillo
 video: https://youtu.be/SlVQ1DadAf4
 description: LIBRE_hub seminar

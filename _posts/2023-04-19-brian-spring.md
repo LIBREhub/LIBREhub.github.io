@@ -11,7 +11,14 @@ header-img: images/seminars/brian_spring_pic.png
 
 <br>
 
-[![Brian_Spring](http://img.youtube.com/vi/nflFju-ONlo/0.jpg)](https://youtu.be/nflFju-ONlo)
+<div class="thumbnail-container">
+  <a href="https://youtu.be/nflFju-ONlo">
+    <img class="thumbnail" src="http://img.youtube.com/vi/nflFju-ONlo/0.jpg" alt="Brian_Spring">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 This talk will present a low-cost protocol for fabricating an easily constructed femtosecond (fs) fiber laser system suitable for routine multiphoton microscopy (1060–1080 nm, 1 W average power, 70 fs pulse duration, 30–70 MHz repetition rate). Concepts well-known in the laser physics community essential to proper laser operation, but generally obscure to biophysicists and biomedical engineers, will be clarified. The parts list (~$13K US dollars), the equipment list (~$40K+), and the intellectual investment needed to build the laser will be described. The goal of the presentation will be to engage with the audience to discuss trade-offs associated with a custom-built fs fiber laser versus purchasing a commercial system. I will also touch on my research group’s plans to further develop this custom laser system for multiplexed cancer imaging as well as recent developments in the field that promise even higher performance fs fiber lasers for approximately the same cost and ease of construction.

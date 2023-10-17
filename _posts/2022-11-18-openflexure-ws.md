@@ -1,5 +1,5 @@
 ---
-title: November 22-23 | OpenFlexure Microscope
+title: OpenFlexure Microscope
 description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/OFM_2022_afiche.png

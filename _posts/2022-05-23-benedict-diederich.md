@@ -11,7 +11,14 @@ header-img: images/seminars/diederich_talk_pic.jpg
 
 <br>
 
-[![Benedict_Diederich](http://img.youtube.com/vi/ivhmaaL3dRM/0.jpg)](https://youtu.be/ivhmaaL3dRM)
+<div class="thumbnail-container">
+  <a href="https://youtu.be/ivhmaaL3dRM">
+    <img class="thumbnail" src="http://img.youtube.com/vi/ivhmaaL3dRM/0.jpg" alt="Benedict_Diederich">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 Imagine if everyone had access to state-of-the-art research tools like a light-sheet microscope. Everyone could contribute to new discoveries and satisfy their curiosity by developing an understanding of how nature works. Microscopy, a major driving force and a tool that only works when all scientific disciplines work together, remains an exclusive resource, in most cases only accessible to experts who understand its working principle and eventually develop new methods to push the limits of speed and resolution. With our modular open-source toolbox "UC2" (You.See.Too.), we want to make cutting-edge microscopy not only available but also affordable to anyone with access to 3D printers, inexpensive electronics and consumer-grade optics. From a growing library of optical modules in the form of cubes, not only optics experts but also biologists or students can create arbitrarily complicated setups at home. A worldwide community is contributing ideas and creating the long-needed equivalent of what the Arduino is to electronics, but to optics. Driven by the individual questions from Biology, Chemistry and Education, UC2 is constantly. For example, using single molecule localisation microscopy (SMLM) helps UC2 to resolve sub 50nm structures, while a new high-throughput holographic light sheet setup can capture quantitative information from marine samples in 3D in the field. We want to widen the network of collaborators and invite everyone to participate to make optics a standard tool for truly interdisciplinary research that gives a reproducible result across different labs.

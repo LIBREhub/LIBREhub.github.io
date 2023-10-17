@@ -1,5 +1,5 @@
 ---
-title: The Bright-Eyes TTM
+title: The Bright-Eyes TTM - A time-tagging module to democratize single-photon microscopy
 speaker: Eleonora Perego & Eli Slenders
 video: https://youtu.be/aQxKkF7O8i8
 description: LIBRE_hub seminar
@@ -11,7 +11,14 @@ header-img: images/seminars/eleonora_perego_pic.png
 
 <br>
 
-[![Eleonora Perego & Eli Slenders](http://img.youtube.com/vi/aQxKkF7O8i8/0.jpg)](https://youtu.be/aQxKkF7O8i8)
+<div class="thumbnail-container">
+  <a href="https://youtu.be/aQxKkF7O8i8">
+    <img class="thumbnail" src="http://img.youtube.com/vi/aQxKkF7O8i8/0.jpg" alt="Perego_Slenders">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 Fluorescence laser-scanning microscopy (LSM) is experiencing a revolution thanks to new single-photon (SP) array detectors, which give access to an entirely new set of single-photon information. We developed an open-source, low-cost, multi-channel time-tagging module (TTM) based on a field-programmable gate array that can tag in parallel multiple single-photon events, with 30 ps precision, and multiple synchronisation events, with 4 ns precision. We use the TTM to demonstrate live-cell super-resolved fluorescence lifetime image scanning microscopy and fluorescence lifetime fluctuation spectroscopy. We expect that our BrightEyes-TTM will support the microscopy community in spreading SP-LSM in many life science laboratories.

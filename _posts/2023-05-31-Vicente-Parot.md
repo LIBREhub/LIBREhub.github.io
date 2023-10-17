@@ -11,7 +11,14 @@ header-img: images/seminars/vicente_parot_pic.jpg
 
 <br>
 
-[![Vicente_Parot](http://img.youtube.com/vi/zzCq9pENfxI/0.jpg)](https://youtu.be/zzCq9pENfxI)
+<div class="thumbnail-container">
+  <a href="https://youtu.be/zzCq9pENfxI">
+    <img class="thumbnail" src="http://img.youtube.com/vi/zzCq9pENfxI/0.jpg" alt="Vicente_Parot">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 In this presentation, I will discuss several research projects that highlight the importance of precise illumination control in microscopy, particularly in high-speed multicolor imaging applications. I will begin by examining some common light sources and modulation methods used in microscopy. Then, I will present our implementation of a multimode, continuous-wave fiber laser illumination module specifically adapted for bioimaging researchers in Latin America, along with modifications we have made in comparison with similar designs. Additionally, I will highlight our progress in developing a versatile and affordable light control unit that offers manual and automated operation options for high-speed switching and independent current control of LED and fiber laser sources. 

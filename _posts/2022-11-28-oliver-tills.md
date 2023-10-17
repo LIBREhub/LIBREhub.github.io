@@ -1,5 +1,5 @@
 ---
-title: OpenVIM
+title: OpenVIM - An open-source approach to studying developing aquatic embryos
 speaker: Oliver Tills
 video: https://youtu.be/F75YpmcM4nE
 description: LIBRE_hub seminar
@@ -11,7 +11,14 @@ header-img: images/seminars/tills_talk_pic.jpg
 
 <br>
 
-[![Oliver_Tills](http://img.youtube.com/vi/F75YpmcM4nE/0.jpg)](https://youtu.be/F75YpmcM4nE) 
+<div class="thumbnail-container">
+  <a href="https://youtu.be/F75YpmcM4nE">
+    <img class="thumbnail" src="http://img.youtube.com/vi/F75YpmcM4nE/0.jpg" alt="Oliver_Tills">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 #### Overview
 Phenotyping remains a key bottleneck in many areas of biology, and this contrasts sharply with the automated and high-throughput approaches for molecular-omics. Embryos have high levels of temporal, spatial and functional diversity, making traditional approaches to phenotyping particularly suboptimal. Our lab develop tools to enable us to study the development of early life stages of a wide range of species, including snails, prawn and fish. We use approaches including 3D printing, computer vision, artificial intelligence and battery-powered electronics and are strong advocates for open-source.
