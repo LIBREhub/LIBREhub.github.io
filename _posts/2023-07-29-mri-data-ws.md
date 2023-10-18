@@ -11,7 +11,7 @@ header-img: images/workshops/MRI_2023_afiche.png
 
 <br>
 
-<img align="right" src="/images/workshops/MRI_2023_afiche.png" height=300>
+<img align="right" src="/images/workshops/MRI_2023_afiche.png" href="https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill" height=500>
 
 Estamos encantados de invitarlos a este taller práctico de dos días en el que se procesarán señales de resonancia magnética para formar una imagen, empleando software de código abierto. Los asistentes, al terminar este taller, estarán capacitados para:
 
