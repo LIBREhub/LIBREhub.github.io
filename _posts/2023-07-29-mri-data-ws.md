@@ -5,7 +5,7 @@ categories: newworkshop
 header-img: images/workshops/MRI_2023_afiche.png
 ---
 
-## MRI: Procesando tus propios datos
+# MRI: Procesando tus propios datos
 
 ### Taller Práctico | Fecha: 20-21 Noviembre, 2023 | Lugar: Santiago, Chile
 
