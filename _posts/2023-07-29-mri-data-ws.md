@@ -7,9 +7,11 @@ header-img: images/workshops/MRI_2023_afiche.png
 
 ## MRI: Procesando tus propios datos
 
-### Taller Práctico | Fecha: 20-21 Noviembre, 2023
+### Taller Práctico | Fecha: 20-21 Noviembre, 2023 | Lugar: Santiago, Chile
 
 <br>
+
+<img align="right" src="/images/workshops/MRI_2023_afiche.png" height=300>
 
 Estamos encantados de invitarlos a este taller práctico de dos días en el que se procesarán señales de resonancia magnética para formar una imagen, empleando software de código abierto. Los asistentes, al terminar este taller, estarán capacitados para:
 
@@ -19,9 +21,11 @@ Estamos encantados de invitarlos a este taller práctico de dos días en el que 
 4. Describir artefactos de off-resonance y utilizar algoritmos de corrección
 5. Calcular mapas cuantitativos.
 
-Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor complete el siguiente [**formulario**](https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill).
+Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor, complete el [**formulario**](https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill).
 
 **NOTA:** Tenemos financiamiento disponible para cubrir viajes y/o alojamiento de los participantes fuera de la región Metropolitana y de otros países.
+
+<br>
 
 ¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
 
