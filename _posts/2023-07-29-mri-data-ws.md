@@ -21,7 +21,9 @@ Estamos encantados de invitarlos a este taller práctico de dos días en el que 
 
 Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor complete el siguiente [**formulario**](https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill).
 
-¡Esperamos verlos en este taller e iniciar este emociante camino de las tecnología libres abiertas!
+**NOTA:** Tenemos financiamiento disponible para cubrir viajes y/o alojamiento de los participantes fuera de la región Metropolitana y de otros países.
+
+¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
 
 <br>
 
