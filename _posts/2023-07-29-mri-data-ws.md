@@ -19,7 +19,7 @@ Estamos encantados de invitarlos a este taller práctico de dos días en el que 
 4. Describir artefactos de off-resonance y utilizar algoritmos de corrección
 5. Calcular mapas cuantitativos.
 
-Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor complete el siguiente [formulario](https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill).
+Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor complete el siguiente [**formulario**](https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill).
 
 ¡Esperamos verlos en este taller e iniciar este emociante camino de las tecnología libres abiertas!
 
