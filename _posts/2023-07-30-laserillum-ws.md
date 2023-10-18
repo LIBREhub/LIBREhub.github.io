@@ -11,14 +11,14 @@ header-img: images/workshops/LLIM_2023_afiche.png
 
 <br>
 
-We are thrilled to invite you to an exciting hands-on workshop on building, using, and modifying our laser illumination module for microscopy that uses a blue (488nm) fiber-coupled laser diode and a speckle diffuser. Spaces are limited, so we encourage you to reserve your spot soon. To register or learn more about the workshop, please fill out [this form](https://forms.gle/p1hhrFmtSUmxEyZE7).
+We are thrilled to invite you to an exciting hands-on workshop on building, using, and modifying our laser illumination module for microscopy that uses a single color fiber-coupled laser diode and a speckle diffuser. Spaces are limited, so we encourage you to reserve your spot soon. To register or learn more about the workshop, please fill out [this form](https://forms.gle/p1hhrFmtSUmxEyZE7).
 
 We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
 
 **Please note:** This event was originally announced for Dec 14-15; now the schedule has been updated to Dec 11-12 due to conflict with other activities for the organizers. 
 
 <p align="center">
-<img src="{{site.baseurl}}/images/workshops/LLIM_2023_afiche.png" data-action="zoom">
+<img src="{{site.baseurl}}/images/workshops/LLIM_2023_afiche.jpg" data-action="zoom">
 </p>
 
 <br>
