@@ -18,7 +18,7 @@ We look forward to seeing you and embarking on this exciting journey together of
 **Please note:** This event was originally announced for Dec 14-15; now the schedule has been updated to Dec 11-12 due to conflict with other activities for the organizers. 
 
 <p align="center">
-<img src="{{site.baseurl}}/images/workshops/LLIM_2023_afiche.jpg" data-action="zoom">
+<a href="https://forms.gle/p1hhrFmtSUmxEyZE7" target="_blank"><img src="{{site.baseurl}}/images/workshops/LLIM_2023_afiche.jpg" height=500></a>
 </p>
 
 <br>
