@@ -5,27 +5,24 @@ categories: newworkshop
 header-img: images/workshops/MRI_2023_afiche.png
 ---
 
-## MRI: Processing your own data
+## MRI: Procesando tus propios datos
 
-### Hands-on workshop | Date: 20-21 November, 2023
-
-<br>
-
-We are thrilled to invite you to an exciting hands-on workshop on getting fundamental insights into MRI technology. The expected educational outcomes are:
-
-1. Implement simple reconstruction techniques, considering sampling frequency, field of view and other standard parameters.
-2. Know the existence of standard file formats for raw data and sequences.
-3. Use reconstruction software that implement parallel imaging and compressed sensing.
-4. use correction algorithms for motion and off-resonance.
-
-Spaces are limited, so we encourage you to reserve your spot soon. To register or learn more about the workshop, please fill out [this form](https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill).
-
-We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
-
-<p align="center">
-<img src="{{site.baseurl}}/images/workshops/MRI_2023_afiche.jpg" data-action="zoom">
-</p>
+### Taller Práctico | Fecha: 20-21 Noviembre, 2023
 
 <br>
 
-*Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more content related. All online activities are recorded and posted on [Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) with subtitle options for Spanish and Portuguese.*
+Estamos encantados de invitarlos a este taller práctico de dos días en el que se procesarán señales de resonancia magnética para formar una imagen, empleando software de código abierto. Los asistentes, al terminar este taller, estarán capacitados para:
+
+1. Emplear algoritmos de procesamiento y reconstrucción de señales utilizando el lenguaje de programación Julia
+2. Enumerar y emplear formatos de archivo de código abierto para los datos adquiridos y secuencias de pulsos
+3. Emplear algoritmos de reconstrucción para datos submuestreados
+4. Describir artefactos de off-resonance y utilizar algoritmos de corrección
+5. Calcular mapas cuantitativos.
+
+Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor complete el siguiente [formulario](https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill).
+
+¡Esperamos verlos en este taller e iniciar este emociante camino de las tecnología libres abiertas!
+
+<br>
+
+*Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canal de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
