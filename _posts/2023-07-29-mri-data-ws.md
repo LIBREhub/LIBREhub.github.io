@@ -23,11 +23,11 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 
 **NOTA:** Tenemos financiamiento disponible para cubrir viajes y/o alojamiento de los participantes fuera de la región Metropolitana y de otros países.
 
-<p align="center">
-<a href="https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill" target="_blank"><img src="/images/workshops/MRI_2023_afiche.png" height=400></a>
-</p>
-
 ¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
+
+<p align="center">
+<a href="https://docs.google.com/forms/d/1t6vIy6f927LOWd6t0XrYuNuV4qDPr5M6NuBx5VCz4Fo/prefill" target="_blank"><img src="/images/workshops/MRI_2023_afiche.png" height=500></a>
+</p>
 
 <br>
 
