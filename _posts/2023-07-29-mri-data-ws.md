@@ -21,13 +21,9 @@ Estamos encantados de invitarlos a este taller práctico presencial de dos días
 
 Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor, complete el **[formulario](https://forms.gle/3Y1QNy6M7iAviFjcA)**.
 
-<div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
-        <div style="text-align:center">
-           <p>
-           <strong>Nota:</strong> Tenemos financiamiento disponible para cubrir viajes y/o alojamiento de los participantes fuera de la región Metropolitana (en Chile) y de otros países.
-          </p>
-        </div>
-      </div>
+<p>
+<strong>Nota:</strong> Tenemos financiamiento disponible para cubrir viajes y/o alojamiento de los participantes fuera de la región Metropolitana (en Chile) y de otros países.
+</p>
 
 <span style="display: block; margin-bottom: 2em"></span>
 
@@ -35,39 +31,39 @@ El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
 
 **Día: Lunes 20 Noviembre 2023**
 
-| Hora | Actividad                         |
-|-----:|:---------------------------------:|
-|10:30 |Reception                          |
-|10:55 |Introduction to the workshop       |
-|11:00 |Fundamentals of the MRI signal I   |
-|11:45 |Fundamentals of the MRI signal II  |
-|12:30 |Lunch                              |
-|13:30 |Open Software                      |
-|14:15 |Simulation                         |
-|15:00 |Simulation hands-on                | 
-|16:00 |Break                              |
-|16:15 |Basic Signal Processing            | 
-|17:00 |Basic Signal Processing hands on   |
-|18:00 |Adjourn                            | 
+| Hora  | Actividad                         |
+|:-----:|:---------------------------------:|
+|10:30  |Reception                          |
+|10:55  |Introduction to the workshop       |
+|11:00  |Fundamentals of the MRI signal I   |
+|11:45  |Fundamentals of the MRI signal II  |
+|12:30  |Lunch                              |
+|13:30  |Open Software                      |
+|14:15  |Simulation                         |
+|15:00  |Simulation hands-on                | 
+|16:00  |Break                              |
+|16:15  |Basic Signal Processing            | 
+|17:00  |Basic Signal Processing hands on   |
+|18:00  |Adjourn                            | 
 
 <br>
 
 **Día: Martes 21 Noviembre 2023**
 
-| Hora | Actividad                                      |
-|-----:|:----------------------------------------------:|
-|09:15 |Undersampled reconstruction: parallel imaging   |
-|10:00 |Parallel imaging hands on                       |
-|10:45 |Break                                           |
-|11:00 |Undersampled reconstruction: compressed sensing |
-|11:45 |Compressed sensing hands on                     |
-|12:30 |Lunch                                           |
-|13:30 |Quantitative mapping                            |
-|14:15 |Quantitative mapping hands on                   | 
-|15:00 |Break                                           |
-|15:15 |Off-resonance correction                        | 
-|16:00 |Off-resonance correction hands on               |
-|16:45 |Adjourn                                         | 
+| Hora  | Actividad                                      |
+|:-----:|:----------------------------------------------:|
+|09:15  |Undersampled reconstruction: parallel imaging   |
+|10:00  |Parallel imaging hands on                       |
+|10:45  |Break                                           |
+|11:00  |Undersampled reconstruction: compressed sensing |
+|11:45  |Compressed sensing hands on                     |
+|12:30  |Lunch                                           |
+|13:30  |Quantitative mapping                            |
+|14:15  |Quantitative mapping hands on                   | 
+|15:00  |Break                                           |
+|15:15  |Off-resonance correction                        | 
+|16:00  |Off-resonance correction hands on               |
+|16:45  |Adjourn                                         | 
 
 
 ¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
