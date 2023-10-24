@@ -29,7 +29,7 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 
 El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
 
-**Día: Lunes 20 Noviembre 2023**
+**Día: Lunes 20 Noviembre 2023 | Lugar: Sala de clases AP102, Edificio de Aulas Las Pataguas**
 
 | Hora  | Actividad                         |
 |:-----:|:---------------------------------:|
@@ -37,7 +37,7 @@ El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
 |10:55  |Introduction to the workshop       |
 |11:00  |Fundamentals of the MRI signal I   |
 |11:45  |Fundamentals of the MRI signal II  |
-|12:30  |Lunch                              |
+|12:30  |Lunch (Included)                   |
 |13:30  |Open Software                      |
 |14:15  |Simulation                         |
 |15:00  |Simulation hands-on                | 
@@ -48,7 +48,7 @@ El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
 
 <br>
 
-**Día: Martes 21 Noviembre 2023**
+**Día: Martes 21 Noviembre 2023 | Lugar: Sala de estudios, Edificio Raúl Devés**
 
 | Hora  | Actividad                                      |
 |:-----:|:----------------------------------------------:|
@@ -57,7 +57,7 @@ El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
 |10:45  |Break                                           |
 |11:00  |Undersampled reconstruction: compressed sensing |
 |11:45  |Compressed sensing hands on                     |
-|12:30  |Lunch                                           |
+|12:30  |Lunch (Included)                                |
 |13:30  |Quantitative mapping                            |
 |14:15  |Quantitative mapping hands on                   | 
 |15:00  |Break                                           |
