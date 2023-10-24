@@ -1,7 +1,7 @@
 ---
 title: October 18 | MRI for everybody, everywhere
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/joseba_alonso_flyer.png
 ---
 
