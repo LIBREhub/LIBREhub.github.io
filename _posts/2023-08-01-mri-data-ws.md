@@ -29,7 +29,7 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 
 El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
 
-**Día: Lunes 20 Noviembre 2023 | Lugar: Sala de clases AP102, Edificio de Aulas Las Pataguas**
+**Día:** Lunes 20 Noviembre 2023 / **Lugar:** Sala de clases AP102, Edificio de Aulas Las Pataguas
 
 | Hora  | Actividad                         |
 |:-----:|:---------------------------------:|
@@ -48,7 +48,7 @@ El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
 
 <br>
 
-**Día: Martes 21 Noviembre 2023 | Lugar: Sala de estudios, Edificio Raúl Devés**
+**Día:** Martes 21 Noviembre 2023 / **Lugar:** Sala de estudios, Edificio Raúl Devés
 
 | Hora  | Actividad                                      |
 |:-----:|:----------------------------------------------:|
