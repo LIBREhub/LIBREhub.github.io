@@ -1,25 +1,35 @@
 ---
-title: October 18 | MRI for everybody, everywhere
+title: MRI for everybody, everywhere
+speaker: Joseba Alonso
+video: https://youtu.be/r8W94meIDZg
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/joseba_alonso_flyer.png
+header-img: images/seminars/alonso_talk_pic.jpg
 ---
 
 ## MRI for everybody, everywhere
 
 <br>
 
-Dear LIBRE hub community,
+<div class="thumbnail-container">
+  <a href="https://youtu.be/r8W94meIDZg">
+    <img class="thumbnail" src="http://img.youtube.com/vi/r8W94meIDZg/0.jpg" alt="Joseba_Alonso">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
-We invite you to the next LIBRE hub seminar on October 18 at 13.30 hrs (GMT-3 / Chile Time) via Zoom. For this session, we welcome Dr. Joseba Alonso to hear about "MRI for everybody, everywhere".
+#### Overview
+The virtues of MRI are abundant and far-reaching. However, MRI is accessible only to the privileged and not as often as desirable, mainly because they are expensive. In this talk, I will provide an overview of the state of the art of low-cost and portable MRI systems. They are based on low-field magnets and have to compensate for the loss in signal-to-noise ratio with smart engineering, pulse-sequence design, and reconstruction and data processing techniques. I will also present our latest results with a portable system, hard-tissue low-field imaging for dental MRI, and a high-performance open-source console for controlling low-field MRI systems
 
-**Speaker:** Joseba Alonso, Institute for Molecular Instrumentation and Imaging (i3M), Spanish National Research Council and Polytechnic University of Valencia.
+#### Speaker
+Joseba Alonso, Institute for Molecular Instrumentation and Imaging (i3M), Spanish National Research Council and Polytechnic University of Valencia.
 
-**Overview:** The virtues of MRI are abundant and far-reaching. However, MRI is accessible only to the privileged and not as often as desirable, mainly because they are expensive. In this talk, I will provide an overview of the state of the art of low-cost and portable MRI systems. They are based on low-field magnets and have to compensate for the loss in signal-to-noise ratio with smart engineering, pulse-sequence design, and reconstruction and data processing techniques. I will also present our latest results with a portable system, hard-tissue low-field imaging for dental MRI, and a high-performance open-source console for controlling low-field MRI systems.
+#### Repositories
+[Magnetic Resonance Imaging Laboratory - website](https://www.i3m-stim.i3m.upv.es/research/magnetic-resonance-imaging-laboratory-mrilab/)
 
-Please join our discussion on Zoom.
-
-Zoom Link: [bit.ly/LIBRE_hub_Seminars](https://bit.ly/LIBRE_hub_Seminars)  
+Negnevitsky, V., Vives-Gilabert, Y., Algarín, J. M., Craven-Brightman, L., Pellicer-Guridi, R., O’Reilly, T., Stockmann, J. P., Webb, A., Alonso, J., & Menküc, B. (2023). MaRCoS, an open-source electronic control system for low-field MRI. Journal of Magnetic Resonance, 350, 107424. [https://doi.org/10.1016/j.jmr.2023.107424](https://doi.org/10.1016/j.jmr.2023.107424‌)
 
 <br>
 
