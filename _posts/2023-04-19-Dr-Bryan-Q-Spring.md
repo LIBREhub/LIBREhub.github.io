@@ -1,6 +1,6 @@
 ---
 title: Low-cost femtosecond fiber laser system for multiphoton microscopy
-speaker: Bryan Q Spring, PhD
+speaker: Bryan Q Spring
 video: https://youtu.be/nflFju-ONlo
 description: LIBRE_hub seminar
 categories: seminar
