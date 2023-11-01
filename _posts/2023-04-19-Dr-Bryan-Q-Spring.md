@@ -4,7 +4,7 @@ speaker: Brian Spring
 video: https://youtu.be/nflFju-ONlo
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/brian_spring_pic.png
+header-img: images/seminars/bryan_spring_pic.png
 ---
 
 ## Development of a low-cost femtosecond fiber laser system for multiphoton microscopy
