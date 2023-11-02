@@ -11,7 +11,7 @@ header-img: images/workshops/LLIM_2023_afiche.png
 
 <br>
 
-We are thrilled to invite you to an exciting hands-on workshop where participants will learn how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. Spaces are limited, so we encourage you to reserve your spot soon. To register or learn more about the workshop, please fill out [**this form**](https://forms.gle/p1hhrFmtSUmxEyZE7).
+We are thrilled to invite you to an exciting hands-on workshop where participants will learn how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. Spaces are limited, and travel funds are limited, so we encourage you to reserve your spot soon. To register or learn more about the workshop, please fill out [**this form**](https://forms.gle/p1hhrFmtSUmxEyZE7).
 
 We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
 
