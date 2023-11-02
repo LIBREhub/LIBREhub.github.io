@@ -48,7 +48,7 @@ Monday, Dec 11: 09:30 to 18:00
 
 Tuesday, Dec 12: 09:30 to 18:00
 
-In-person event at [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3y5), Pontificia Universidad Católica de Chile
+In-person event at [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3y5), Pontificia Universidad Católica de Chile.
 
 ---
 
