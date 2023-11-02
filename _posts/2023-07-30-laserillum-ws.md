@@ -57,7 +57,7 @@ In-person event at [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3
 * LIBRE hub may cover some of the attendees' expenses to participate in the workshop, NOT including registration payments.
 * What can LIBRE hub pay for? The organization can only reimburse transportation or accommodation expenses, that are justified by the distance between the participant's origin location and the workshop location. 
 * How does it work? The financing method is reimbursement of approved expenses: you will need to pay for approved expenses, to then request their reimbursement. Reimbursement requests that are not previously approved in writing by the organization will not be processed.
-* How much can I be reimbursed? We have limited funds for attendees' expenses. Each applicant requesting funds will be informed of a max amount for reimbursement upon confirmation of their registration. Funds will be allocated and prioritized based on form information provided by applicants, and are subject to availability.
+* How much can I be reimbursed? We have limited funds for attendees' expenses. Each applicant requesting funds will be informed of a max amount for reimbursement upon confirmation of their registration. The assignment of funds will be subject to availability and prioritization with a selection process based on applicants' information.
 * What other general conditions are there?
   * Expenses must be backed up by a receipt matching the dates and locations of the workshop and of travel origin.
   * Expenses must be in the name of the person who is the registered participant in the workshop. Reimbursement requests will not be processed for expenses to the name of other persons, or in the name of a company or organization.
