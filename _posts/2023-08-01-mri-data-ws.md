@@ -3,6 +3,7 @@ title: November 20-21 | MRI - Processing your own data
 description: LIBRE hub workshop
 categories: newworkshop
 header-img: images/workshops/MRI_2023_afiche.png
+docu: https://librehub.github.io/MRI-processing-2023/
 ---
 
 # MRI: Procesando tus propios datos
