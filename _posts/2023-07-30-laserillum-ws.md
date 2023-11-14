@@ -32,7 +32,7 @@ These three components have an approximate cost over USD 200. The diode included
 
 Their bandwidths are not documented; other similar multimode laser diodes have a bandwidth of about 2 nm.
 
-**Laser Colors:** The default laser module in the workshop kit will be blue; If you have a color preference please justify your selection in the registration form under "3) Provide other impact indicators ...". If you would be interested in registering for assembling and keeping kits for more than one color, please submit the registration form again justifying the color and confirming your willingness to pay the registration fee for each kit independently. The assignment of colors and multiple kits will be subject to availability and prioritization with a selection process based on the impact statement.
+**Laser Colors:** The default laser module in the workshop kit will be blue; If you have a color preference please justify your selection in the registration form under "3) Provide other impact indicators ...". The assignment of colors will be subject to availability and prioritization with a selection process based on the impact statement.
 
 In the workshop, we will provide training on assembling and operating these elements safely, together with other additional low-cost elements in the kit, including:
 
