@@ -32,6 +32,7 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 
 ### Programa del taller (versión [actualizada](https://librehub.github.io/MRI-processing-2023/dev/)):
 
+<span style="display: block; margin-bottom: 2em"></span>
 
 **Día:** Lunes 20 Noviembre 2023 / **Lugar:** Sala de clases AP102, Edificio de Aulas Las Pataguas
 
@@ -73,6 +74,8 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 
 ### Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file)):
 
+<span style="display: block; margin-bottom: 2em"></span>
+
 <div id="map" style="width: 600px; height: 400px;"></div>
 
 <br>
@@ -80,7 +83,7 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 ¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
 
 <p align="center">
-<a href="https://forms.gle/3Y1QNy6M7iAviFjcA" target="_blank"><img src="/images/workshops/MRI_2023_afiche.png" height=500></a>
+<a><img src="/images/workshops/MRI_2023_afiche.png" height=500></a>
 </p>
 
 <br>
