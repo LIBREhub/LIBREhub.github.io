@@ -4,6 +4,7 @@ description: LIBRE hub workshop
 categories: newworkshop
 header-img: images/workshops/MRI_2023_afiche.png
 docu: https://librehub.github.io/MRI-processing-2023/
+layout: page
 ---
 
 # MRI: Procesando tus propios datos
@@ -28,7 +29,8 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 
 <span style="display: block; margin-bottom: 2em"></span>
 
-## Programa del taller (versión [actualizada](https://librehub.github.io/MRI-processing-2023/dev/)):
+### Programa del taller (versión [actualizada](https://librehub.github.io/MRI-processing-2023/dev/)):
+
 
 **Día:** Lunes 20 Noviembre 2023 / **Lugar:** Sala de clases AP102, Edificio de Aulas Las Pataguas
 
@@ -66,7 +68,8 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 |16:00  |Off-resonance correction hands on               |
 |16:45  |Adjourn                                         | 
 
-## Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file)):
+
+### Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file)):
 
 <div id="mriw" style="width: 600px; height: 400px;"></div>
 
