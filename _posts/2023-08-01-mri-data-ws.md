@@ -28,7 +28,7 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 
 <span style="display: block; margin-bottom: 2em"></span>
 
-El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
+## Programa del taller (versión [actualizada](https://librehub.github.io/MRI-processing-2023/dev/)):
 
 **Día:** Lunes 20 Noviembre 2023 / **Lugar:** Sala de clases AP102, Edificio de Aulas Las Pataguas
 
@@ -66,6 +66,11 @@ El programa del taller, *el cual está sujeto a cambios*, es el siguiente:
 |16:00  |Off-resonance correction hands on               |
 |16:45  |Adjourn                                         | 
 
+## Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file)):
+
+<div id="mriw" style="width: 600px; height: 400px;"></div>
+
+<br>
 
 ¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
 
