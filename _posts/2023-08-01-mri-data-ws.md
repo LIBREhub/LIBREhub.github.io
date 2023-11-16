@@ -21,12 +21,13 @@ Estamos encantados de invitarlos a este taller práctico presencial de dos días
 4. Describir artefactos de off-resonance y utilizar algoritmos de corrección
 5. Calcular mapas cuantitativos.
 
+<!--
 Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor, complete el **[formulario](https://forms.gle/3Y1QNy6M7iAviFjcA)**.
 
 <p>
 <strong>Nota:</strong> Tenemos financiamiento disponible para cubrir viajes y/o alojamiento de los participantes fuera de la región Metropolitana (en Chile) y de otros países.
 </p>
-
+-->
 <span style="display: block; margin-bottom: 2em"></span>
 
 ### Programa del taller (versión [actualizada](https://librehub.github.io/MRI-processing-2023/dev/)):
@@ -68,10 +69,11 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 |16:00  |Off-resonance correction hands on               |
 |16:45  |Adjourn                                         | 
 
+<span style="display: block; margin-bottom: 2em"></span>
 
 ### Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file)):
 
-<div id="mriw" style="width: 600px; height: 400px;"></div>
+<div id="map" style="width: 600px; height: 400px;"></div>
 
 <br>
 
