@@ -18,7 +18,7 @@ Bienvenido/a al Taller "Strobe Illumination for Bioimaging of Fast Processes". E
 - [Lugar del Taller](/workshops/SEMS_2023/place/)
 - [Galería de fotos](https://www.flickr.com/people/197037882@N02/)
 
-### Recursos para el Taller
+### Recursos del Taller
 
 - [Lista de materiales](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/3-level-station_BOM.html)
 - Instrucciones de ensamblaje:

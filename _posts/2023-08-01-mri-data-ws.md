@@ -8,11 +8,13 @@ docu: https://librehub.github.io/MRI-processing-2023/
 
 # MRI: Procesando tus propios datos
 
-### Taller Presencial | **Fecha:** 20-21 Noviembre, 2023 | **Lugar:** Santiago, Chile
+<img src="{{site.baseurl}}/images/others/MRI_workshop_participants.jpg" data-action="zoom">
 
-<br>
+### Información general
 
-Estamos encantados de invitarlos a este taller práctico presencial de dos días en el que se procesarán señales de resonancia magnética para formar una imagen, empleando software de código abierto. Los asistentes, al terminar este taller, estarán capacitados para:
+Bienvenido/a al Taller "MRI: Procesando tus propios datos". Este taller se llevó a cabo los días 20 y 21 de Noviembre del 2023 en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades fueron organizadas por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciadas por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
+
+En este taller práctico presencial, los asistentes aprendieron a:
 
 1. Emplear algoritmos de procesamiento y reconstrucción de señales utilizando el lenguaje de programación Julia
 2. Enumerar y emplear formatos de archivo de código abierto para los datos adquiridos y secuencias de pulsos
@@ -20,13 +22,10 @@ Estamos encantados de invitarlos a este taller práctico presencial de dos días
 4. Describir artefactos de off-resonance y utilizar algoritmos de corrección
 5. Calcular mapas cuantitativos.
 
-<!--
-Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor, complete el **[formulario](https://forms.gle/3Y1QNy6M7iAviFjcA)**.
+### Recursos del Taller
 
-<p>
-<strong>Nota:</strong> Tenemos financiamiento disponible para cubrir viajes y/o alojamiento de los participantes fuera de la región Metropolitana (en Chile) y de otros países.
-</p>
--->
+Todas las presentaciones y cuadernos de trabajo del taller se encuentran disponibles públicamente en este enlace: [https://librehub.github.io/MRI-processing-2023/dev/](https://librehub.github.io/MRI-processing-2023/dev/) 
+
 <span style="display: block; margin-bottom: 2em"></span>
 
 ### Programa del taller (versión [actualizada](https://librehub.github.io/MRI-processing-2023/dev/)):
@@ -79,8 +78,6 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 
 <br>
 
-¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
-
 <p align="center">
 <a><img src="/images/workshops/MRI_2023_afiche.png" height=500></a>
 </p>
@@ -88,3 +85,24 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 <br>
 
 *Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canal de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
+
+<!--
+
+### Taller Presencial | **Fecha:** 20-21 Noviembre, 2023 | **Lugar:** Santiago, Chile
+
+Estamos encantados de invitarlos a este taller práctico presencial de dos días en el que se procesarán señales de resonancia magnética para formar una imagen, empleando software de código abierto. Los asistentes, al terminar este taller, estarán capacitados para:
+
+1. Emplear algoritmos de procesamiento y reconstrucción de señales utilizando el lenguaje de programación Julia
+2. Enumerar y emplear formatos de archivo de código abierto para los datos adquiridos y secuencias de pulsos
+3. Emplear algoritmos de reconstrucción para datos submuestreados
+4. Describir artefactos de off-resonance y utilizar algoritmos de corrección
+5. Calcular mapas cuantitativos.
+
+Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor, complete el **[formulario](https://forms.gle/3Y1QNy6M7iAviFjcA)**.
+
+<p>
+<strong>Nota:</strong> Tenemos financiamiento disponible para cubrir viajes y/o alojamiento de los participantes fuera de la región Metropolitana (en Chile) y de otros países.
+</p>
+
+¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
+-->
