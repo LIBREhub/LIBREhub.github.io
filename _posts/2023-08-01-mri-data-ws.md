@@ -22,9 +22,11 @@ En este taller práctico presencial, los asistentes aprendieron a:
 4. Describir artefactos de off-resonance y utilizar algoritmos de corrección
 5. Calcular mapas cuantitativos.
 
+Puedes encontrar imágenes sobre este taller en nuestra <a href="https://www.flickr.com/photos/197037882@N02/albums">galeria (Flickr)</a>. **NOTA:** Si lo compartes en redes sociales, por favor, etiquétanos o incluye #LIBREhub en tus publicaciones.
+
 ### Recursos del Taller
 
-Todas las presentaciones y cuadernos de trabajo del taller se encuentran disponibles públicamente en este enlace: [https://librehub.github.io/MRI-processing-2023/dev/](https://librehub.github.io/MRI-processing-2023/dev/) 
+Todas las presentaciones y los cuadernos de trabajo del taller se encuentran disponibles públicamente en este enlace: [https://librehub.github.io/MRI-processing-2023/dev/](https://librehub.github.io/MRI-processing-2023/dev/) 
 
 <span style="display: block; margin-bottom: 2em"></span>
 
