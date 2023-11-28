@@ -22,7 +22,7 @@ En este taller práctico presencial, los asistentes aprendieron a:
 4. Describir artefactos de off-resonance y utilizar algoritmos de corrección
 5. Calcular mapas cuantitativos.
 
-Puedes encontrar imágenes sobre este taller en nuestra <a href="https://www.flickr.com/photos/197037882@N02/albums">galeria (Flickr)</a>. **NOTA:** Si lo compartes en redes sociales, por favor, etiquétanos o incluye #LIBREhub en tus publicaciones.
+Puedes encontrar imágenes sobre este taller en nuestra <a href="https://www.flickr.com/photos/197037882@N02/albums">galeria (Flickr)</a>. **NOTA:** Si compartes las imágenes en redes sociales, por favor, etiquétanos o incluye #LIBREhub en tus publicaciones.
 
 ### Recursos del Taller
 
