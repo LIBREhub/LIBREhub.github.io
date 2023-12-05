@@ -107,15 +107,17 @@ s.setAttribute('data-timestamp', +new Date());
        const ofm = L.layerGroup();
        const sems = L.layerGroup();
        const mri = L.layerGroup();
+       const laser = L.layerGroup();
       
-       const stem = L.marker([-33.50014, -70.61191]).bindPopup('Edif. Ciencia y Tecnología').addTo(sems);
+       const stem = L.marker([-33.50014, -70.61191]).bindPopup('Edif. Ciencia y Tecnología').addTo(laser);
        const psico = L.marker([-33.49675, -70.61027]).bindPopup('Edif. Psicología, Aulas AP403 y AP502');
        const patagua = L.marker([-33.49675, -70.61027]).bindPopup('Edif. Aulas Las Pataguas').addTo(mri);
        const ediY = L.marker([-33.49912, -70.61217]).bindPopup('Edif. Centro de Excelencia Docente');
-       const pergola = L.marker([-33.49977, -70.60950]).bindPopup('Casino Pérgola').addTo(mri);
+       const pergola = L.marker([-33.49977, -70.60950]).bindPopup('Casino Pérgola').addTo(laser);
        const lab = L.marker([-33.49982, -70.61382]).bindPopup('Laboratorio Docente de Ingeniería Eléctrica');
        const copper = L.marker([-33.49987, -70.61421]).bindPopup('Copper Café').addTo(sems);
        const ing = L.marker([-33.49956, -70.61253]).bindPopup('Edif. Raúl Devés').addTo(mri);
+       const civil = L.marker([-33.498705347896404, -70.61344716117644]).bindPopup('Edif. Construcción Civil').addTo(laser);
 
        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                	    maxZoom: 19,
@@ -124,7 +126,7 @@ s.setAttribute('data-timestamp', +new Date());
        const map = L.map('map', {
                    center: [-33.4985, -70.6104],
                    zoom: 16,
-                   layers: [tiles, mri]
+                   layers: [tiles, laser]
                    });
     </script>
 

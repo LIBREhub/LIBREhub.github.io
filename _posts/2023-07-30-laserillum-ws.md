@@ -51,6 +51,12 @@ Tuesday, Dec 12: 09:30 to 18:00
 
 In-person event at [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3y5), Pontificia Universidad Católica de Chile.
 
+<span style="display: block; margin-bottom: 2em"></span>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<span style="display: block; margin-bottom: 2em"></span>
+
 ---
 
 ### Update: General expense reimbursement conditions
