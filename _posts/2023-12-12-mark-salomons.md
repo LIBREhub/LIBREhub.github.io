@@ -4,7 +4,7 @@ speaker: Mark Salomons
 video: 
 description: LIBRE_hub seminar
 categories: newseminar
-header-img: images/seminars/salomons_talk_pic.jpg
+header-img: images/seminars/salomons_talk_pic.png
 ---
 
 ## NanoMi, a platform for open source electron microscopy
