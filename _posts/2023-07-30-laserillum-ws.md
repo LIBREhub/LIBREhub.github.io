@@ -3,6 +3,7 @@ title: December 11-12 | Low-Cost Laser Illumination for Microscopy
 description: LIBRE hub workshop
 categories: newworkshop
 header-img: images/workshops/LLIM_2023_afiche.png
+docu: https://librehub.github.io/fiber-coupled-laser-illumination/
 ---
 
 ## Low-Cost Laser Illumination for Microscopy
