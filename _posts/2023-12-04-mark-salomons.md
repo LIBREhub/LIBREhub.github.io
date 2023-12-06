@@ -6,7 +6,7 @@ categories: newseminar
 header-img: images/seminars/salomons_talk_pic.png
 ---
 
-## NanoMi, a platform for open source electron microscopy
+# NanoMi, a platform for open source electron microscopy
 
 <!--
 <br>
@@ -20,18 +20,18 @@ header-img: images/seminars/salomons_talk_pic.png
   </a>
 </div>
 -->
+<br>
 
-#### Overview
+## Overview
 At the National Research Council of Canada we are building an open source transmission electron microscope. We have designed and built all of our own hardware, electronics and software and want to share it with the community to further the development. It uses electrostatic lenses and a 50 kV source and I will present some recent results and the unique capabilities of the setup.
 
-#### Speaker
+## Speaker
 Mark Salomons, P.Eng. Developmental and Analytical Microscopy Team Lead. Nanotechnology Research Centre. National Research Council of Canada, Government of Canada.
 
-#### Seminar information
+## Seminar information
 
-**Date:** Wednesday, December 20th at 12:30 Chile time (GMT-3)
-
-**Link Zoom:** http://bit.ly/LIBRE_hub_Seminars
+* **Date:** Wednesday, December 20th at 12:30 Chile time (GMT-3)
+* **Link Zoom:** [http://bit.ly/LIBRE_hub_Seminars](http://bit.ly/LIBRE_hub_Seminars)
 
 <br>
 
