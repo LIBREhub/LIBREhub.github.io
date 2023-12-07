@@ -43,6 +43,38 @@ In the workshop, we will provide training on assembling and operating these elem
 
 ---
 
+### Actualización: Horarios del Taller 
+
+| Hora | Día 1 - Lunes 11 de Diciembre | Lugar |
+|---|---|---|
+| 9:30 - 10:00 | Registro y Desayuno | Edificio CC, piso 5 |
+| 10:00 - 10:45 | Bienvenida y Presentación del Taller / Instructores y Participantes | C508 |
+| 10:45 - 11:30 | Introducción a LIBRE hub / Open Hardware for Bioimaging | C508 |
+| 11:30 - 11:40 | Break | |
+| 11:40 - 12:15 | Introducción al Diseño abierto en módulos de iluminación | C508 |
+| 12:15 - 13:00 | Capacitación de seguridad Láser | |
+| 13:00 - 14:30 | Almuerzo | Casino |
+| 14:30 - 15:50 | Ensamblaje de lente sin difusor | C502 |
+| 15:50 - 16:00 | Break | |
+| 16:00 - 17:00 | Ensamblaje de caja y electronica | |
+| 17:00 - 18:00 | Ensamblaje de ventilador | |
+    
+| Hora | Día 2 - Martes 12 de Diciembre | Lugar |
+|---|---|---|
+| 9:30 - 10:00 | Registro y café | Edificio CC, piso 5 |
+| 10:00 - 10:30 | Revisión de avances y dudas | C508 |
+| 10:30 - 11:30 | Ajuste de distancia focal y acoplamiento óptico | C508 |
+| 11:30 - 11:40 | Break | |
+| 11:40 - 13:00 | Ajustes de homogeneización, motor y difusor | |
+| 13:00 - 14:30 | Almuerzo | Casino |
+| 14:30 - 14:50 | Extensiones de módulo láser e integración a otros dispositivos | C508 |
+| 14:50 - 15:20 | Demostración de módulos láser usando microscopio OpenFlexure | |
+| 15:20 - 15:30 | Break | |
+| 15:30 - 16:15 | Visita al FabLab IDI e Instituto de Ingeniería Biológica y Médica | Pisos 6 y 7, Edificio </br> Ciencia y Tecnología |
+| 16:15 - 17:00 | Networking | |
+     
+---
+
 ### Update: Preliminary schedule 
 
 Monday, Dec 11: 09:30 to 18:00
