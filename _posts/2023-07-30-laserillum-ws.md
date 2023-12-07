@@ -18,32 +18,9 @@ We look forward to seeing you and embarking on this exciting journey together of
 
 ---
 
-### Update: Technical information
-
-The workshop kit includes:
-
-1. Laser diode coupled to multimode optical fiber with a 105μm core and 2m length,
-1. Metal heat sink,
-1. Current source for the laser diode.
-
-These three components have an approximate cost over USD 200. The diode included in the kit may be:
-* 405 nm, 300 mW (violet),
-* 488 nm, 55 mW (blue, typically used for green fluorescence excitation), or
-* 638 nm, 700 mW (red).
-
-Their bandwidths are not documented; other similar multimode laser diodes have a bandwidth of about 2 nm.
-
-**Laser Colors:** The default laser module in the workshop kit will be blue; If you have a color preference please justify your selection in the registration form under "3) Provide other impact indicators ...". The assignment of colors will be subject to availability and prioritization with a selection process based on the impact statement.
-
-In the workshop, we will provide training on assembling and operating these elements safely, together with other additional low-cost elements in the kit, including:
-
-4. Additional electronics to power the laser,
-1. Collimation of the laser beam,
-1. Support pieces for holding the laser module and optical fiber,
-
----
-
 ### Actualización: Ubicación y Horarios del Taller 
+
+<br>
 
 Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3y5), Pontificia Universidad Católica de Chile.
 
@@ -81,6 +58,31 @@ Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavt
 | 15:30 - 16:15 | Visita al FabLab IDI e Instituto de Ingeniería Biológica y Médica | Pisos 6 y 7, Edificio </br> Ciencia y Tecnología |
 | 16:15 - 17:00 | Networking | |
      
+---
+
+### Update: Technical information
+
+The workshop kit includes:
+
+1. Laser diode coupled to multimode optical fiber with a 105μm core and 2m length,
+1. Metal heat sink,
+1. Current source for the laser diode.
+
+These three components have an approximate cost over USD 200. The diode included in the kit may be:
+* 405 nm, 300 mW (violet),
+* 488 nm, 55 mW (blue, typically used for green fluorescence excitation), or
+* 638 nm, 700 mW (red).
+
+Their bandwidths are not documented; other similar multimode laser diodes have a bandwidth of about 2 nm.
+
+**Laser Colors:** The default laser module in the workshop kit will be blue; If you have a color preference please justify your selection in the registration form under "3) Provide other impact indicators ...". The assignment of colors will be subject to availability and prioritization with a selection process based on the impact statement.
+
+In the workshop, we will provide training on assembling and operating these elements safely, together with other additional low-cost elements in the kit, including:
+
+4. Additional electronics to power the laser,
+1. Collimation of the laser beam,
+1. Support pieces for holding the laser module and optical fiber,
+
 ---
 
 ### Update: General expense reimbursement conditions
