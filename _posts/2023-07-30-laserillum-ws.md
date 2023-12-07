@@ -43,7 +43,15 @@ In the workshop, we will provide training on assembling and operating these elem
 
 ---
 
-### Actualización: Horarios del Taller 
+### Actualización: Ubicación y Horarios del Taller 
+
+Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3y5), Pontificia Universidad Católica de Chile.
+
+<span style="display: block; margin-bottom: 2em"></span>
+
+<div id="map" style="width: 600px; height: 400px;"></div>
+
+<span style="display: block; margin-bottom: 2em"></span>
 
 | Hora | Día 1 - Lunes 11 de Diciembre | Lugar |
 |---|---|---|
@@ -73,22 +81,6 @@ In the workshop, we will provide training on assembling and operating these elem
 | 15:30 - 16:15 | Visita al FabLab IDI e Instituto de Ingeniería Biológica y Médica | Pisos 6 y 7, Edificio </br> Ciencia y Tecnología |
 | 16:15 - 17:00 | Networking | |
      
----
-
-### Update: Preliminary schedule 
-
-Monday, Dec 11: 09:30 to 18:00
-
-Tuesday, Dec 12: 09:30 to 18:00
-
-In-person event at [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3y5), Pontificia Universidad Católica de Chile.
-
-<span style="display: block; margin-bottom: 2em"></span>
-
-<div id="map" style="width: 600px; height: 400px;"></div>
-
-<span style="display: block; margin-bottom: 2em"></span>
-
 ---
 
 ### Update: General expense reimbursement conditions
