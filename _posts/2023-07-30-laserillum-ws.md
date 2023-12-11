@@ -12,15 +12,19 @@ docu: https://librehub.github.io/fiber-coupled-laser-illumination/
 
 <br>
 
-We are thrilled to invite you to an exciting hands-on workshop where participants will learn how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. Spaces are limited, and travel funds are limited, so we encourage you to reserve your spot soon. Please register using [this form](https://forms.gle/p1hhrFmtSUmxEyZE7).
+We are thrilled to invite you to an exciting hands-on workshop where participants will learn how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. <!--Spaces are limited, and travel funds are limited, so we encourage you to reserve your spot soon. Please register using [this form](https://forms.gle/p1hhrFmtSUmxEyZE7).-->
 
 We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
 
 ---
 
-### Actualización: Ubicación y Horarios del Taller 
+### Actualización:
 
-<br>
+### Instrucciones de Ensamblaje 
+
+Las instrucciones de ensamblaje que se utilizará para este taller las pueden encontrar en el siguiente enlace: [https://librehub.github.io/fiber-coupled-laser-illumination/](https://librehub.github.io/fiber-coupled-laser-illumination/)
+
+### Ubicación y Horarios del Taller 
 
 Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3y5), Pontificia Universidad Católica de Chile.
 
@@ -32,7 +36,7 @@ Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavt
 
 | Hora | Día 1 - Lunes 11 de Diciembre | Lugar |
 |---|---|---|
-| 9:30 - 10:00 | Registro y Desayuno | Edificio CC, piso 5 |
+| 9:30 - 10:00 | Registro y Desayuno | Edificio Construccion Civil, Piso 5 |
 | 10:00 - 10:45 | Bienvenida y Presentación del Taller / Instructores y Participantes | C508 |
 | 10:45 - 11:30 | Introducción a LIBRE hub / Open Hardware for Bioimaging | C508 |
 | 11:30 - 11:40 | Break | |
@@ -46,7 +50,7 @@ Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavt
     
 | Hora | Día 2 - Martes 12 de Diciembre | Lugar |
 |---|---|---|
-| 9:30 - 10:00 | Registro y café | Edificio CC, piso 5 |
+| 9:30 - 10:00 | Registro y café | Edificio Construccion Civil, Piso 5 |
 | 10:00 - 10:30 | Revisión de avances y dudas | C508 |
 | 10:30 - 11:30 | Ajuste de distancia focal y acoplamiento óptico | C508 |
 | 11:30 - 11:40 | Break | |
@@ -55,7 +59,7 @@ Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavt
 | 14:30 - 14:50 | Extensiones de módulo láser e integración a otros dispositivos | C508 |
 | 14:50 - 15:20 | Demostración de módulos láser usando microscopio OpenFlexure | |
 | 15:20 - 15:30 | Break | |
-| 15:30 - 16:15 | Visita al FabLab IDI e Instituto de Ingeniería Biológica y Médica | Pisos 6 y 7, Edificio </br> Ciencia y Tecnología |
+| 15:30 - 16:15 | Visita al FabLab IDI e Instituto de Ingeniería Biológica y Médica | Edificio Ciencia y Tecnología, Pisos 6 y 7 |
 | 16:15 - 17:00 | Networking | |
      
 ---
