@@ -43,10 +43,11 @@ Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavt
 | 11:40 - 12:15 | Introducción al Diseño abierto en módulos de iluminación | C508 |
 | 12:15 - 13:00 | Capacitación de seguridad Láser | |
 | 13:00 - 14:30 | Almuerzo | Casino |
-| 14:30 - 15:50 | Ensamblaje de lente sin difusor | C502 |
-| 15:50 - 16:00 | Break | |
-| 16:00 - 17:00 | Ensamblaje de caja y electronica | |
-| 17:00 - 18:00 | Ensamblaje de ventilador | |
+| 14:30 - 15:40 | Ensamblaje de lente sin difusor | C502 |
+| 15:40 - 16:50 | Ensamblaje de ventilador | C502 |
+| 16:50 - 17:00 | Break |  |
+| 17:00 - 18:00 | Ensamblaje de caja y electrónica | C502 |
+
     
 | Hora | Día 2 - Martes 12 de Diciembre | Lugar |
 |---|---|---|
