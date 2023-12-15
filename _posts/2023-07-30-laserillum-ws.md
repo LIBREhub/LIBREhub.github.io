@@ -14,15 +14,13 @@ docu: https://librehub.github.io/fiber-coupled-laser-illumination/
 
 ### General Information
 
-Welcome to the site of "Low-Cost Laser Illumination for Microscopy" workshop, an exciting hands-on workshop where participants learned how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. This event was held on December 11 and 12, 2023, in [San Joaquin] campus (https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Catolica de Chile. The [LIBRE hub](https://librehub.github.io/people/) team sponsored by [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/) was in charge of this workshop.
+Welcome to the site of "Low-Cost Laser Illumination for Microscopy" workshop, an exciting hands-on workshop where participants learned how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. This event was held on December 11 and 12, 2023, in [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/) campus, Pontificia Universidad Catolica de Chile. The [LIBRE hub](https://librehub.github.io/people/) team sponsored by [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/) was in charge of this workshop.
 
 <!--Spaces are limited, and travel funds are limited, so we encourage you to reserve your spot soon. Please register using [this form](https://forms.gle/p1hhrFmtSUmxEyZE7).
 
 We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
 
 -->
-
----
 
 ### Assembly instructions
 
