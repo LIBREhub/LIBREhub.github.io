@@ -2,24 +2,23 @@
 title: NanoMi, a platform for open source electron microscopy
 speaker: Mark Salomons
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/salomons_talk_pic.png
 ---
 
 # NanoMi, a platform for open source electron microscopy
 
-<!--
 <br>
 
 <div class="thumbnail-container">
-  <a href="https://youtu.be/r8W94meIDZg">
-    <img class="thumbnail" src="http://img.youtube.com/vi/r8W94meIDZg/0.jpg" alt="Joseba_Alonso">
+  <a href="https://youtu.be/0qwgrALTLbQ">
+    <img class="thumbnail" src="http://img.youtube.com/vi/0qwgrALTLbQ/0.jpg" alt="Mark_Salomons">
     <div class="overlay">
       <span class="text">Watch video</span>
     </div>
   </a>
 </div>
--->
+
 <br>
 
 ## Overview
@@ -27,11 +26,6 @@ At the National Research Council of Canada we are building an open source transm
 
 ## Speaker
 Mark Salomons, P.Eng. Developmental and Analytical Microscopy Team Lead. Nanotechnology Research Centre. National Research Council of Canada, Government of Canada.
-
-## Seminar information
-
-* **Date:** Wednesday, December 20th at 12:30 Chile time (GMT-3)
-* **Link Zoom:** [http://bit.ly/LIBRE_hub_Seminars](http://bit.ly/LIBRE_hub_Seminars)
 
 <br>
 
