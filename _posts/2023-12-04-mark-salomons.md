@@ -1,6 +1,7 @@
 ---
 title: NanoMi, a platform for open source electron microscopy
 speaker: Mark Salomons
+video: https://youtu.be/0qwgrALTLbQ
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/salomons_talk_pic.png
