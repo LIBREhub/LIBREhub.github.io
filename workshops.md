@@ -5,7 +5,7 @@ permalink: /workshops/
 
 # **Workshops**
 <br>
-<!--
+
 ## Future Workshops
 <br>
 <div class="content list">
@@ -41,7 +41,7 @@ permalink: /workshops/
   {% endfor %}
 </div>
 <br>
--->
+
 ## Past Workshops
 <br>
 <div class="content list">

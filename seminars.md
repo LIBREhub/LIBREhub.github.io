@@ -4,7 +4,7 @@ permalink: /seminars/
 ---
 # **Seminars Series**
 <br>
-<!--
+
 ## Future Seminars
 <br>
 <div class="content list">
@@ -37,7 +37,7 @@ permalink: /seminars/
   {% endfor %}
 </div>
 <br>
--->
+
 ## Past Seminars
 <br>
 <div class="content list">
