@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Certification
-permalink: /certificates/LIM23/
+permalink: /LIM/2023/certificate/
 ---
 
 ## ¡Gracias por tu participación!
