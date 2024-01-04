@@ -24,7 +24,7 @@ We look forward to seeing you and embarking on this exciting journey together of
 
 ### Assembly instructions
 
-The assembly instructions, bill of materials, and source files can be found on the following link: [https://librehub.github.io/fiber-coupled-laser-illumination/](https://librehub.github.io/fiber-coupled-laser-illumination/)
+The assembly instructions, bill of materials, and source files can be found on the following link: [https://librehub.github.io/fiber-coupled-laser-illumination/](https://librehub.github.io/fiber-coupled-laser-illumination/) (in spanish).
  
 ### Technical information
 
