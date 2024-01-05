@@ -8,7 +8,7 @@ docu: https://librehub.github.io/fiber-coupled-laser-illumination/
 
 # Low-Cost Laser Illumination for Microscopy
 
-### Hands-on workshop | Date: 11-12 December, 2023
+<img src="{{site.baseurl}}/images/workshop/Taller_LIM_2023.jpg" data-action="zoom">
 
 <br>
 
@@ -21,6 +21,8 @@ Welcome to the site of "Low-Cost Laser Illumination for Microscopy" workshop, an
 We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
 
 -->
+
+Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (Flickr)</a> to see the pictures from this workshop. **NOTE:** If you share them on social media, please, use #LIBREhub on the description or tag us on your posts.
 
 ### Assembly instructions
 
