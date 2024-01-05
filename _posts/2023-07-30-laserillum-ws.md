@@ -8,7 +8,7 @@ docu: https://librehub.github.io/fiber-coupled-laser-illumination/
 
 # Low-Cost Laser Illumination for Microscopy
 
-<img src="{{site.baseurl}}/images/workshop/Taller_LIM_2023.jpg" data-action="zoom">
+<img src="{{site.baseurl}}/images/workshops/Taller_LIM_2023.jpg" data-action="zoom">
 
 <br>
 
