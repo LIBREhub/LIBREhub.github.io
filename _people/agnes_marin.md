@@ -1,7 +1,7 @@
 ---
 name: Agnes Marian
 position: communication
-avatar: agnes_profile.jpg
+avatar: agnes_profile_2024.jpg
 email: 
 ---
 

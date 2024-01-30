@@ -1,7 +1,7 @@
 ---
 name: Pablo Irarrazaval
 position: pi
-avatar: pablo_profile.jpg
+avatar: pablo_profile_2024.jpg
 email: pim@uc.cl
 ---
 

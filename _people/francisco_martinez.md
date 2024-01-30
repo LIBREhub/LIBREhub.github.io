@@ -1,7 +1,7 @@
 ---
 name: Francisco Martinez
 position: fellow
-avatar: francisco_profile.png
+avatar: francisco_profile_2024.jpg
 email: 
 ---
 

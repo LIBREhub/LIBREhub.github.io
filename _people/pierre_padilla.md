@@ -1,7 +1,7 @@
 ---
 name: Pierre Padilla
 position: fellow
-avatar: pierre_profile.jpg
+avatar: pierre_profile_2024.jpg
 email: 
 ---
 

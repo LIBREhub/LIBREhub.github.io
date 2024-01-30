@@ -1,12 +1,24 @@
 ---
 title: Planktoscope, a democratized high-throughput imaging platform for quatifying plankton 
 speaker: Adam Larson
+video: https://youtu.be/sYeOYFSi45A
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/adam_larson_flyer.png
 ---
 
-# Planktoscope: A democratized high-throughput imaging platform for quatifying plankton abundance and diversity
+# Planktoscope: A democratized high-throughput imaging platform for quantifying plankton abundance and diversity
+
+<br>
+
+<div class="thumbnail-container">
+  <a href="https://youtu.be/sYeOYFSi45A">
+    <img class="thumbnail" src="http://img.youtube.com/vi/sYeOYFSi45A/0.jpg" alt="Adam_Larson">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 <br>
 
@@ -16,6 +28,14 @@ Planktoscope is an open-source microscope platform that dramatically enhances ou
 ### Speaker
 Adam Larson, PhD. Bioengineering, Stanford University.
 
+<br>
+<img src="{{site.baseurl}}/images/seminars/adam_larson_flyer.png" data-action="zoom">
+
+<br>
+
+*Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more content related. All seminars are recorded and posted on [Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) with subtitle options for Spanish and Portuguese.*
+
+<!--
 ### Seminar information
 **Date:** Wednesday, January 24th, 2023
 
@@ -26,10 +46,4 @@ Adam Larson, PhD. Bioengineering, Stanford University.
 **Meeting ID:** 986 4004 4004 
 
 **Passcode:** 815884 
-
-<br>
-<img src="{{site.baseurl}}/images/seminars/adam_larson_flyer.png" data-action="zoom">
-
-<br>
-
-*Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more content related. All seminars are recorded and posted on [Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) with subtitle options for Spanish and Portuguese.*
+-->
