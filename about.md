@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <figure><center>
-  <img width="500" src="/images/people/LIBREHub_PIs_2024.JPG">
+  <img width="500" src="/images/people/LIBREHub_PIs_2024.jpg">
 </center></figure>
 
 ### About us

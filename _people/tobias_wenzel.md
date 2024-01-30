@@ -1,7 +1,7 @@
 ---
 name: Tobias Wenzel
 position: pi
-avatar: tobias_profile_2024.jpg
+avatar: tobias_profile_2024.jpeg
 email: tobias.wenzel@uc.cl
 ---
 
