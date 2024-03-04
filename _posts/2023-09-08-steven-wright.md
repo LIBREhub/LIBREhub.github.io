@@ -4,7 +4,7 @@ speaker: Steven Wright
 video: https://youtu.be/QCb3-_tFzz4
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/steve_wright_pic.jpg
+header-img: images/seminars/steven_wright_flyer.png
 ---
 
 ## Simpler MRI: An MRI scanner using the Diligent Analog Discovery 2 and more

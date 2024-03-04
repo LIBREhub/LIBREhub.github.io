@@ -4,7 +4,7 @@ speaker: Joseba Alonso
 video: https://youtu.be/r8W94meIDZg
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/alonso_talk_pic.jpg
+header-img: images/seminars/joseba_alonso_flyer.png
 ---
 
 ## MRI for everybody, everywhere
