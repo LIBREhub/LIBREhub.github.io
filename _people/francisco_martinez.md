@@ -7,7 +7,7 @@ email:
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Electronic Engineer, Pontificia Universidad Catolica de Chile_<br>
+_Technology Fellow, Pontificia Universidad Catolica de Chile_<br>
 
 <i class="fa fa-envelope-o"></i> francisco.martinezca@postgrado.uv.cl
 
