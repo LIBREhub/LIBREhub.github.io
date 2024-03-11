@@ -4,7 +4,7 @@ speaker:
 video: 
 description: LIBRE_hub seminar
 categories: newseminar
-header-img: images/others/coming_soon.jpg
+header-img: images/others/LH_coming_soon.png
 ---
 
 # 2024 Seminar Series
