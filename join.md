@@ -8,8 +8,6 @@ permalink: /join/
 ¿Te entusiasma el código abierto y la tecnología científica? ¿Estás disponible para un trabajo en un entorno de investigación dinámico? Entonces estas oportunidades te podrían interesar:
 
 <p align="center">
-<img src="{{site.baseurl}}/images/others/afiche_PIM.png" data-action="zoom">
-<br>
 <img src="{{site.baseurl}}/images/others/afiche_VP.png" data-action="zoom">
 </p>
 <br>
@@ -21,6 +19,9 @@ Para postular a estos puestos, por favor, envíe su currículum vitae y una cart
 *Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canal de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
 
 <!--
+<img src="{{site.baseurl}}/images/others/afiche_PIM.png" data-action="zoom">
+<br>
+
 <div>
     <img class="marginauto" src="/images/others/mountain_chile.jpg" alt="centered image" />
 </div>
