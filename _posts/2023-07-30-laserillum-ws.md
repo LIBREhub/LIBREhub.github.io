@@ -17,12 +17,13 @@ Welcome to the site of "Low-Cost Laser Illumination for Microscopy" workshop, an
 <!--Spaces are limited, and travel funds are limited, so we encourage you to reserve your spot soon. Please register using [this form](https://forms.gle/p1hhrFmtSUmxEyZE7).
 
 We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
-
 -->
 
 Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (Flickr)</a> to see the pictures from this workshop. **NOTE:** If you share them on social media, please, use #LIBREhub on the description or tag us on your posts.
 
 ### Assembly instructions
+
+Concepts and principles about laser illumination and safety training information can be found [here](https://drive.google.com/drive/folders/1QTRUQOaPS-kU_WN59v3CSVmsA0kYJBET?usp=sharing).
 
 The assembly instructions, bill of materials, and source files can be found on the following link: [https://librehub.github.io/fiber-coupled-laser-illumination/](https://librehub.github.io/fiber-coupled-laser-illumination/).
  
@@ -53,11 +54,11 @@ In the workshop, we will provide training on assembling and operating these elem
 
 Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavtF89p3y5), Pontificia Universidad Católica de Chile.
 
+<!--
 <span style="display: block; margin-bottom: 2em"></span>
-
 <div id="map" style="width: 600px; height: 400px;"></div>
-
 <span style="display: block; margin-bottom: 2em"></span>
+-->
 
 | Hora | Día 1 - Lunes 11 de Diciembre | Lugar |
 |---|---|---|
