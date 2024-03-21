@@ -17,7 +17,7 @@ Bienvenido/a al Taller "Microscopio OpenFlexure: Desarrollo y aplicaciones". Est
 En esta sección compartimos algunos recursos del Taller y las actividades programadas:
 
 - [Programa](/workshops/OFM_2022/program/)
-- [Lugar del Taller](/workshops/OFM_2022/place/)
+<!-- - [Lugar del Taller](/workshops/OFM_2022/place/)-->
 - [Recursos para el Taller](/workshops/OFM_2022/resources/)
 
 Para estar en contacto y en comunidad:
