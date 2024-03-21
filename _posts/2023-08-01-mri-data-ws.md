@@ -72,11 +72,12 @@ Todas las presentaciones y los cuadernos de trabajo del taller se encuentran dis
 
 <span style="display: block; margin-bottom: 2em"></span>
 
-### Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file)):
+Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))
 
+<!--
 <span style="display: block; margin-bottom: 2em"></span>
-
 <div id="map" style="width: 600px; height: 400px;"></div>
+-->
 
 <br>
 
