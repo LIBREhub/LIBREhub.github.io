@@ -8,6 +8,8 @@ docu: https://librehub.github.io/fiber-coupled-laser-illumination/
 
 # Low-Cost Laser Illumination for Microscopy
 
+<br>
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel" style="height:450px; width:750px;">
           <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -44,6 +46,8 @@ docu: https://librehub.github.io/fiber-coupled-laser-illumination/
   </a>
 
 </div>
+
+<br>
 
 ### General Information
 
