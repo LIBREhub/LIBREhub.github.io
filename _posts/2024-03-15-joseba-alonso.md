@@ -1,13 +1,24 @@
 ---
 title: Imagen por resonancia magnética de bajo coste en la práctica
 speaker: Joseba Alonso, Teresa Guallart-Naval
-video:
+video: https://youtu.be/xoCLIr5nK4Q
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/josebalonso_teresaguallart_flyer.png
+header-img: images/seminars/alonso_talk_pic_1.jpg
 ---
 
 ## Imagen por resonancia magnética de bajo coste en la práctica
+
+<br>
+
+<div class="thumbnail-container">
+  <a href="https://youtu.be/xoCLIr5nK4Q">
+    <img class="thumbnail" src="http://img.youtube.com/vi/xoCLIr5nK4Q/0.jpg" alt="Joseba_Alonso">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 <br>
 
