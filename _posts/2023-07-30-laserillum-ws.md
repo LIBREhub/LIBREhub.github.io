@@ -8,7 +8,42 @@ docu: https://librehub.github.io/fiber-coupled-laser-illumination/
 
 # Low-Cost Laser Illumination for Microscopy
 
-<img src="{{site.baseurl}}/images/workshops/Taller_LIM_2023.jpg" data-action="zoom">
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="height:450px; width:750px;">
+          <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" style="height:450px; width:750px;">
+    
+  <div class="item active">
+    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2023.jpg" alt="workshop"></a>
+  </div>
+    
+  <div class="item">
+    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2023_1.jpg" alt="workshop"></a>
+  </div>
+
+  <div class="item">
+    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2023_2.jpg" alt="workshop"></a>
+  </div>   
+  
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+</div>
 
 ### General Information
 
