@@ -1,5 +1,5 @@
 ---
-title: Strobe-Enhanced Microscopy Stage
+title: Strobe-Enhanced Microscopy Stage 2023
 description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/SEMS_2023_afiche.png
