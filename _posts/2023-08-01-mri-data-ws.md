@@ -78,6 +78,7 @@ Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-m
 
 <p float="center">
   <img src="/images/workshops/MRI_2023_ES.png" height=500 align='left'>
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/images/workshops/MRI_2023_EN.png" height=500 align='center'>
 </p>
 
