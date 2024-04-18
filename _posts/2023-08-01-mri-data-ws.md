@@ -74,15 +74,9 @@ Todas las presentaciones y los cuadernos de trabajo del taller se encuentran dis
 
 Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))
 
-<!--
-<span style="display: block; margin-bottom: 2em"></span>
-<div id="map" style="width: 600px; height: 400px;"></div>
--->
-
-<br>
-
 <p align="center">
-<a><img src="/images/workshops/MRI_2023_afiche.png" height=500></a>
+      <img src="/images/workshops/MRI_2023_ES.png" align="left">
+      <img src="/images/workshops/MRI_2023_EN.png" align="right">
 </p>
 
 <br>
@@ -108,4 +102,12 @@ Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. P
 </p>
 
 ¡Esperamos verlos pronto en este taller y que inicien este emocionante camino de las tecnologías libres y abiertas!
+
+<br>
+
+<p align="center">
+<a><img src="/images/workshops/MRI_2023_afiche.png" height=500></a>
+</p>
+
+<br>
 -->

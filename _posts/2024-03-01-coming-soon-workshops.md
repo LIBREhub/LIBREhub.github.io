@@ -1,7 +1,6 @@
 ---
 title: 2024 Hands-on workshops 
 speaker: 
-video: 
 description: LIBRE_hub seminar
 categories: newworkshop
 header-img: images/others/LH_coming_soon.png
