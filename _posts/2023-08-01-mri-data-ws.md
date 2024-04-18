@@ -75,8 +75,8 @@ Todas las presentaciones y los cuadernos de trabajo del taller se encuentran dis
 Mapa del campus San Joaquin (version [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))
 
 <p align="center">
-      <img src="/images/workshops/MRI_2023_ES.png" align="left">
-      <img src="/images/workshops/MRI_2023_EN.png" align="right">
+      <img src="/images/workshops/MRI_2023_ES.png" align="left" height=400>
+      <img src="/images/workshops/MRI_2023_EN.png" align="right" height=400>
 </p>
 
 <br>
