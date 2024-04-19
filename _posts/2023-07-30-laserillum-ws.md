@@ -158,7 +158,9 @@ Modules in this workshop will use the diodes described in the following referenc
 Li, Hongquan, et al. "Squid: simplifying quantitative imaging platform development and deployment." _bioRxiv_ (2020): 2020-12. <br>
 [doi](https://doi.org/10.1101/2020.12.28.424613), [pdf](https://www.biorxiv.org/content/10.1101/2020.12.28.424613v1), [web](https://squid-imaging.org/), [Github](https://github.com/prakashlab/squid-tracking).
 
----
+<br>
+
+<!--
 
 **Please note:** This event was originally announced for Dec 14-15; now the schedule has been updated to Dec 11-12 due to conflict with other activities in the organization team. 
 
@@ -167,5 +169,6 @@ Li, Hongquan, et al. "Squid: simplifying quantitative imaging platform developme
 </p>
 
 <br>
+-->
 
 *Subscribe to the [LIBRE_hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) for more content related. All online activities are recorded and posted on [Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) with subtitle options for Spanish and Portuguese.*
