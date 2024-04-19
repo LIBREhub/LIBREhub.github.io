@@ -128,6 +128,7 @@ Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavt
 | 15:30 - 16:15 | Visita al FabLab IDI e Instituto de Ingeniería Biológica y Médica | Edificio Ciencia y Tecnología, Pisos 6 y 7 |
 | 16:15 - 17:00 | Networking | |
 
+<!--
 ### Update: General expense reimbursement conditions
 
 * LIBRE hub may cover some of the attendees' expenses to participate in the workshop, NOT including registration payments.
@@ -139,6 +140,16 @@ Evento presencial en el [Campus San Joaquín](https://maps.app.goo.gl/Bi68UDyavt
   * Expenses must be in the name of the person who is the registered participant in the workshop. Reimbursement requests will not be processed for expenses to the name of other persons, or in the name of a company or organization.
   * Reimbursement will be provided in Chilean peso (CLP) or US dollars (USD), any requests in other currencies will be reimbursed in USD using exchange rates defined by the Central Bank of Chile.
   * Reimbursements requested after the workshop begins will take ~4 weeks to process, and will be payed by bank transfer.
+-->
+
+<span style="display: block; margin-bottom: 2em"></span>
+
+<p float="center">
+  <img src="/images/workshops/LCLM_2023_ES.png" height=500 align='left'>
+  <img src="/images/workshops/LCLM_2023_EN.png" height=500 align='right'>
+</p>
+
+<br>
 
 ### References
 
