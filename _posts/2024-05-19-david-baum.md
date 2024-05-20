@@ -1,5 +1,5 @@
 ---
-title: May 28 - NeuriGUI, visualization and processing electrophysiological signals in real-time
+title: May 28 - NeuriGUI, visualization and processing of electrophysiological signals in real-time
 speaker: David Baum
 video:
 description: LIBRE_hub seminar
