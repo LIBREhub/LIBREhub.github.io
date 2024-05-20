@@ -1,9 +1,9 @@
 ---
 title: May 15 - PhasorPy developments and its applications
 speaker: Leonel Malacrida
-video: 
+video: https://youtu.be/CbmDNjwo_sg?feature=shared
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/leonel_malacrida_flyer.png
 ---
 
