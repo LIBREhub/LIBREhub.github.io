@@ -3,7 +3,7 @@ title: May 28 - NeuriGUI, visualization and processing of electrophysiological s
 speaker: David Baum
 video:
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/david_baum_flyer.jpg
 ---
 
