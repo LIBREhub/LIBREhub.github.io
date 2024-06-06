@@ -3,7 +3,7 @@ title: June 25 - Open source FPGA tools for building research devices
 speaker: Edmund Humenberger
 video:
 description: LIBRE_hub seminar
-categories: seminar
+categories: newseminar
 header-img: images/seminars/edmund_humenberger_flyer.jpg
 ---
 
