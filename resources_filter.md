@@ -90,7 +90,7 @@ permalink: /resources_filter/
   }
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 30px;  /* Increased gap for more space between posts */
   }
   .grid-item {
@@ -105,7 +105,7 @@ permalink: /resources_filter/
     align-items: center;
   }
   .post-image {
-    width: 100%;
+    width: 60%;
     height: 200px; /* Reduced height for smaller images */
     object-fit: cover;
   }
