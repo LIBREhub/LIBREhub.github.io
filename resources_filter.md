@@ -91,7 +91,7 @@ permalink: /resources_filter/
   .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
+    gap: 30px;  /* Increased gap for more space between posts */
   }
   .grid-item {
     border: 1px solid #ccc;
@@ -106,7 +106,8 @@ permalink: /resources_filter/
   }
   .post-image {
     width: 100%;
-    height: auto;
+    height: 200px; /* Reduced height for smaller images */
+    object-fit: cover;
   }
   .post-content {
     padding: 15px;
