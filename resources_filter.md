@@ -90,8 +90,9 @@ permalink: /resources_filter/
   }
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 30px;  /* Increased gap for more space between posts */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    row-gap: 30px;  /* Increased row gap for more space between rows */
+    column-gap: 20px;  /* Default column gap */
   }
   .grid-item {
     border: 1px solid #ccc;
@@ -105,7 +106,7 @@ permalink: /resources_filter/
     align-items: center;
   }
   .post-image {
-    width: 60%;
+    width: 100%;
     height: 200px; /* Reduced height for smaller images */
     object-fit: cover;
   }
