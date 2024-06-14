@@ -94,7 +94,8 @@ permalink: /resources_filter/
   }
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: auto auto auto;
+    /*grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));*/
     row-gap: 30px;  /* Increased row gap for more space between rows */
     column-gap: 20px;  /* Default column gap */
   }
