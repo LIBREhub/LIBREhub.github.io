@@ -94,10 +94,14 @@ permalink: /resources_filter/
   }
   .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto auto;
-    /*grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));*/
+    /*grid-template-columns: auto auto auto auto;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));*/
     /* row-gap: 30px;  /* Increased row gap for more space between rows */
     /* column-gap: 20px;  /* Default column gap */
+    grid-template-columns: 100px 50px 100px;
+    grid-template-rows: 80px auto 80px; 
+    column-gap: 10px;
+    row-gap: 15px;
   }
   .grid-item {
     border: 1px solid #ccc;
