@@ -94,10 +94,10 @@ permalink: /resources_filter/
   }
   .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto;
     /*grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));*/
-    row-gap: 30px;  /* Increased row gap for more space between rows */
-    column-gap: 20px;  /* Default column gap */
+    /* row-gap: 30px;  /* Increased row gap for more space between rows */
+    /* column-gap: 20px;  /* Default column gap */
   }
   .grid-item {
     border: 1px solid #ccc;
@@ -112,7 +112,7 @@ permalink: /resources_filter/
   }
   .post-image {
     width: 100%;
-    height: 200px; /* Reduced height for smaller images */
+    height: 300px; /* Reduced height for smaller images */
     object-fit: cover;
   }
   .post-content {
