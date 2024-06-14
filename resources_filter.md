@@ -98,8 +98,7 @@ permalink: /resources_filter/
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));*/
     /* row-gap: 30px;  /* Increased row gap for more space between rows */
     /* column-gap: 20px;  /* Default column gap */
-    grid-template-columns: 100px 50px 100px;
-    grid-template-rows: 80px auto 80px; 
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     column-gap: 10px;
     row-gap: 15px;
   }
