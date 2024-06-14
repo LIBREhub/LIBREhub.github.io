@@ -2,34 +2,18 @@
 title: Resources
 permalink: /resources_filter/
 ---
-# **Seminars Series**
+# **Resources**
 <br>
 
 <div class="btn-group">
-  <button class="btn btn-default" onclick="filterSeminars('all')">All</button>
-  <button class="btn btn-default" onclick="filterSeminars('newseminar')">Future Seminars</button>
-  <button class="btn btn-default" onclick="filterSeminars('seminar')">Past Seminars</button>
+  <button class="btn btn-default" onclick="filterPost('all')">All</button>
+  <button class="btn btn-default" onclick="filterPost('seminar')">Seminars</button>
+  <button class="btn btn-default" onclick="filterPost('workshop')">Workshops</button>
 </div>
 
 <br><br>
 
-<div id="seminars" class="grid-container">
-  <div class="grid-item newseminar">
-    {% for post in site.posts %}
-      {% if post.categories contains 'newseminar' %}
-        <div class="list-item">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}" class="post-image">
-            <div class="post-content">
-              <h3 class="post-title">{{ post.title }}</h3>
-              <p class="list-post-title">{{ post.content | strip_html | truncatewords:30 }}</p>
-              <p class="list-detail" style="font-size: 0.87em;">Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
-            </div>
-          </a>
-        </div>
-      {% endif %}
-    {% endfor %}
-  </div>
+<div id="posts" class="grid-container">
   <div class="grid-item seminar">
     {% for post in site.posts %}
       {% if post.categories contains 'seminar' %}
@@ -50,19 +34,43 @@ permalink: /resources_filter/
       {% endif %}
     {% endfor %}
   </div>
+  <div class="grid-item workshop">
+    {% for post in site.posts %}
+      {% if post.categories contains 'workshop' %}
+        <div class="list-item">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <div class="row">
+              <div class="col-sm-4">
+                <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+              </div>
+              <div class="col-sm-8">
+                <h3 class="post-title">{{ post.title }}</h3>
+                <p class="list-post-title">{{ post.content | strip_html | truncatewords:30 }}</p>
+                <p class="list-detail" style="font-size: 1.2em;">
+                  <a class="documentation" href="{{ post.docu }}"><i class="fa fa-book"></i> Documentation</a>
+                </p>
+                <p class="list-detail" style="font-size: 0.87em;">Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+              </div>
+            </div>
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 
 <script>
-  function filterSeminars(category) {
-    var seminars = document.getElementById("seminars").children;
-    for (var i = 0; i < seminars.length; i++) {
+  function filterPost(category) {
+    var posts = document.getElementById("posts").children;
+    for (var i = 0; i < posts.length; i++) {
+      var post = posts[i];
       if (category === 'all') {
-        seminars[i].style.display = 'block';
+        post.style.display = 'block';
       } else {
-        if (seminars[i].classList.contains(category)) {
-          seminars[i].style.display = 'block';
+        if (post.classList.contains(category)) {
+          post.style.display = 'block';
         } else {
-          seminars[i].style.display = 'none';
+          post.style.display = 'none';
         }
       }
     }
@@ -126,6 +134,13 @@ permalink: /resources_filter/
     text-decoration: none;
   }
   .video:hover {
+    text-decoration: underline;
+  }
+  .documentation {
+    color: #337ab7;
+    text-decoration: none;
+  }
+  .documentation:hover {
     text-decoration: underline;
   }
 </style>
