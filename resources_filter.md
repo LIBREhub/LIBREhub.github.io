@@ -97,10 +97,14 @@ permalink: /resources_filter/
     /*grid-template-columns: auto auto auto auto;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));*/
     /* row-gap: 30px;  /* Increased row gap for more space between rows */
-    /* column-gap: 20px;  /* Default column gap */
+    /* column-gap: 20px;  /* Default column gap 
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     column-gap: 10px;
     row-gap: 15px;
+    */
+    grid-gap: 10px 15px;
+    grid-template-columns: repeat(3, 1fr 2fr);
+    grid-template-rows: repeat(2, 100px auto 20%);
   }
   .grid-item {
     border: 1px solid #ccc;
