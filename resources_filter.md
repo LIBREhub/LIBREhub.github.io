@@ -2,101 +2,97 @@
 title: Resources
 permalink: /resources_filter/
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Blog Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        #filters {
-            margin-bottom: 20px;
-        }
-        .filter-button {
-            padding: 10px 15px;
-            margin: 5px;
-            cursor: pointer;
-            border: none;
-            background-color: #007BFF;
-            color: white;
-            border-radius: 5px;
-        }
-        .filter-button.active {
-            background-color: #0056b3;
-        }
-        #blog-posts {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-        }
-        .post {
-            border: 1px solid #ccc;
-            padding: 10px;
-            border-radius: 5px;
-            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-        }
-        .hidden {
-            display: none;
-        }
-    </style>
-</head>
-<body>
-    <div id="filters">
-        <button class="filter-button active" data-category="all">All</button>
-        <button class="filter-button" data-category="category1">Category 1</button>
-        <button class="filter-button" data-category="category2">Category 2</button>
-        <!-- Add more buttons for categories as needed -->
-    </div>
-    <div id="blog-posts">
-        <!-- Blog posts will be loaded here dynamically -->
-    </div>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var filterButtons = document.querySelectorAll('.filter-button');
-            var postsContainer = document.getElementById('blog-posts');
-            
-            // Function to fetch and display posts
-            function fetchAndDisplayPosts(category) {
-                fetch('posts.json')
-                    .then(response => response.json())
-                    .then(posts => {
-                        postsContainer.innerHTML = ''; // Clear previous posts
-                        posts.forEach(post => {
-                            if (category === 'all' || post.category === category) {
-                                var postElement = document.createElement('div');
-                                postElement.classList.add('post');
-                                postElement.setAttribute('data-category', post.category);
-                                postElement.innerHTML = `
-                                    <h2>${post.title}</h2>
-                                    <p>${post.content}</p>
-                                `;
-                                postsContainer.appendChild(postElement);
-                            }
-                        });
-                    });
-            }
-            
-            // Initial fetch and display all posts
-            fetchAndDisplayPosts('all');
+---
+title: Seminars
+permalink: /seminars/
+---
+# **Seminars Series**
+<br>
 
-            filterButtons.forEach(function(button) {
-                button.addEventListener('click', function() {
-                    // Remove active class from all buttons
-                    filterButtons.forEach(function(btn) {
-                        btn.classList.remove('active');
-                    });
+<!-- Filter buttons -->
+<div class="filter-buttons">
+  <button id="future-seminars-btn" onclick="showFutureSeminars()">Future Seminars</button>
+  <button id="past-seminars-btn" onclick="showPastSeminars()">Past Seminars</button>
+</div>
+<br>
 
-                    // Add active class to the clicked button
-                    button.classList.add('active');
+<!-- Future Seminars Section -->
+<div id="future-seminars" class="content list">
+  {% for post in site.posts %}
+     {% if post.categories contains 'newseminar' %}
+          <div class="list-item">
+            <p class="list-post-title">
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                  <div class="row">
+                        <div class="col-sm-4">
+                            <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+                        </div>
+                        <div class="col-sm-8">
+                            <h3 class="post-title">
+                                {{ post.title }}
+                            </h3>
+                            <p class="list-post-title">
+                              {{ post.content | strip_html | truncatewords:30 }}
+                            </p>
+                            <p class="list-detail" style="font-size: 0.87em;">
+                              Posted on {{ post.date | date: "%B %-d, %Y" }}
+                            </p>
+                        </div>                    
+                  </div>
+                  <hr/>
+              </a>
+            </p>
+          </div>
+     {% endif %}  
+  {% endfor %}
+</div>
+<br>
 
-                    // Fetch and display posts based on selected category
-                    var selectedCategory = button.getAttribute('data-category');
-                    fetchAndDisplayPosts(selectedCategory);
-                });
-            });
-        });
-    </script>
-</body>
-</html>
+<!-- Past Seminars Section -->
+<div id="past-seminars" class="content list" style="display: none;">
+  {% for post in site.posts %}
+     {% if post.categories contains 'seminar' %}
+          <div class="list-item">
+            <p class="list-post-title">
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                  <div class="row">
+                        <div class="col-sm-4">
+                            <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+                        </div>
+                        <div class="col-sm-8">
+                            <h3 class="post-title">
+                                {{ post.title }}
+                            </h3>
+                            <p class="list-post-title">
+                              <strong>Speaker:</strong>  {{ post.speaker }}
+                            </p>
+                            <p class="list-post-title">
+                              {{ post.content | strip_html | truncatewords:30 }}
+                            </p>
+                            <p class="list-detail" style="font-size: 1.2em;">
+                              <a class="video" href="{{ post.video }}"><i class="fa fa-youtube"></i> Watch now</a>
+                            </p>
+                            <p class="list-detail" style="font-size: 0.87em;">
+                              Posted on {{ post.date | date: "%B %-d, %Y" }}
+                            </p>
+                        </div>                    
+                  </div>
+                  <hr/>
+              </a>
+            </p>
+          </div>         
+     {% endif %}
+  {% endfor %}
+</div>
+
+<script>
+function showFutureSeminars() {
+  document.getElementById('future-seminars').style.display = 'block';
+  document.getElementById('past-seminars').style.display = 'none';
+}
+
+function showPastSeminars() {
+  document.getElementById('future-seminars').style.display = 'none';
+  document.getElementById('past-seminars').style.display = 'block';
+}
+</script>
