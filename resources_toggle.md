@@ -14,6 +14,20 @@ permalink: /resources_toggle/
   });
 </script>
 
+### **Publications**
+
+<p class="toggle-text">Click to toggle Publications</p>
+
+<div class="content list" style="display: none;">
+  {% for post in site.publications %}
+    <div class="list-item">
+      <p class="list-post-title">
+        - {{ post.title }} (<small>{{ post.date | date: "%m/%d/%y" }}</small>)
+      </p>
+    </div>
+  {% endfor %}
+</div>
+
 ### **Workshops**
 
 <p class="toggle-text">Click to toggle Workshops</p>
