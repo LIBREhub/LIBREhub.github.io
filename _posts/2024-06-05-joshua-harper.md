@@ -3,7 +3,7 @@ title: June 18 - Building the OSI2ONE MRI Scanner in Paraguay
 speaker: Joshua Harper
 video:
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/joshua_harper_flyer.jpg
 ---
 
