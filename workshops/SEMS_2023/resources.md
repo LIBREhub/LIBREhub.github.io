@@ -12,7 +12,7 @@ permalink: /workshops/SEMS_2023/resources/
 
 - [Lista de materiales](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/3-level-station_BOM.html)
 - Instrucciones de ensamblaje:
-  [Stages](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/) y [Pumps e interface](https://librehub.github.io/syringe-pumps-and-controller/)
+  [Stages](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/) y [Pumps e interface](https://wenzel-lab.github.io/syringe-pumps-and-controller/)
 - [Instalación de software](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/software-installation.html)
 - [Uso del software](https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage//usage.html)
 
