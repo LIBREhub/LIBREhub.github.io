@@ -2,7 +2,6 @@
 name: Francisco Martinez
 position: alumni
 avatar: francisco_profile_2024.jpg
-email: 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

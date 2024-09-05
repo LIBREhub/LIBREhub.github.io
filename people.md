@@ -71,6 +71,7 @@ permalink: /people/
 | [Claudia Tapia](https://librehub.github.io/people/claudia_tapia/index.html) | Project Manager (2022 - 2023) | 
 | [Tomas Astudillo](https://librehub.github.io/people/tomas_astudillo/index.html) | Technology Fellow (2023) |
 | Martin Pérez | Software Developer (2023) |
+| [Francisco Matrínez](https://librehub.github.io/people/francisco_martinez/index.html) | Technology Fellow (2023 - 2024) |
 
 {% endif %}
 {% endfor %}
