@@ -1,6 +1,6 @@
 ---
 name: Francisco Martinez
-position: fellow
+position: alumni
 avatar: francisco_profile_2024.jpg
 email: 
 ---
