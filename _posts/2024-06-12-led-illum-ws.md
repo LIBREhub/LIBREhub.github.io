@@ -4,6 +4,8 @@ description: LIBRE hub workshop
 categories: newworkshop
 header-img: images/workshops/LLIM_2024_afiche.jpg
 docu:
+redirect_from:
+  - /2024/06/12/LLIM-WS-2024.html
 ---
 
 # Modular Color LED Illumination for Microscopy
