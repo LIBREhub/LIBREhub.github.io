@@ -30,9 +30,9 @@ The workshop kit includes:
 1. Current source,
 1. Manual intensity adjustment knob. 
 
-These components have an approximate cost over USD 50. The kit will contain a single LED of one color. The LED included in the kit may be UV (~400nm), blue (~490nm), green (~530nm), amber (~568nm), red (~630nm), or white. Their bandwidths are not well documented; other similar LEDs have a bandwidth of about 40 nm.
+These components have an approximate cost over USD 50. The kit will contain a single LED of one color. Optionally we can provide an additional LED in white or alternative colors, subject to preferences and availability. The LED module in the kit has been tested with UV (~400nm), blue (~490nm), green (~530nm), amber (~568nm), red (~630nm), or white. Their bandwidths are not well documented; other similar LEDs have a bandwidth of about 40 nm.
 
-**LED Colors:** The default LED module in the workshop kit will be blue; If you have a color preference please justify your selection in the registration form (submit again if necessary) under "3) Provide other impact indicators ...". 
+**LED Colors:** The default LED module in the workshop kit will be blue; If you have a color preference or a specific application need please justify your selection in the registration form (submit again if necessary) under "3) Provide other impact indicators ...". 
 
 In the workshop, we will provide training on assembling and operating these elements safely, together with other additional low-cost elements as part of the kit, and all tools needed for assembly and testing.
 
