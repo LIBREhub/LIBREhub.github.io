@@ -41,25 +41,24 @@ sass:
 
 # Scopes
 defaults:
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "pages"
     values:
       layout:       "page"
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "posts"
     values:
       layout:       "post"
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "people"
     values:
       layout:       "profile"
 
+plugins:
+  - jekyll-redirect-from
 
 collections:
   people:
