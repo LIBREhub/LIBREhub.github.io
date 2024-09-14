@@ -4,6 +4,8 @@ description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/LLIM_2023_afiche.png
 docu: https://librehub.github.io/fiber-coupled-laser-illumination/
+redirect_from:
+  - /2023/07/30/laserillum-ws.html
 ---
 
 # Low-Cost Laser Illumination for Microscopy
