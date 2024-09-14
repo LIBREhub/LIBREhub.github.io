@@ -8,23 +8,17 @@ redirect_from:
   - /2024/06/12/LLIM-WS-2024.html
 ---
 
-# Modular Color LED Illumination for Microscopy
+## Modular Color LED Illumination for Microscopy
 
-Bienvenido/a al Taller "Modular Color LED Illumination for Microscopy". Este taller se llevará a cabo el día 11 de Octubre del 2024 en el Campus [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile. Asimismo, estas actividades son organizadas por el equipo de [LIBRE hub](https://librehub.github.io/people/) y auspiciadas por [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
-
-<img align="center" src="/images/workshops/LLIM_2024_afiche.jpg" height=500>
-
-Los espacios son limitados, por lo que sugerimos registrarse lo antes posible. Para registrarse y tener más información acerca del taller, por favor, complete el siguiente formulario:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfn30AhfX_Xnd6RyLppuFFXkeYN2DH28DXQFB06LPda8sp62g/viewform?embedded=true" width="640" height="3184" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+### Hands-on workshop | Date: October 11, 2024 | Location: [San Joaquin campus](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile
 
 <br>
 
-### Código de conducta y Reglamento
+We are thrilled to invite you to an exciting hands-on workshop where participants will learn how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. Spaces are limited, and travel funds are limited, so we encourage you to reserve your spot soon. Please register using [this form](https://forms.gle/47WS9HtJJj3Si5is7).
 
-Al aceptar su participación, usted acepta cumplir con el [Código de conducta](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) y el [Reglamento UC](https://www.ing.uc.cl/electrica/wp-content/uploads/2020/09/reglamento-laboratorio-de-fabricacin-de-ingeniera-elctrica-fablabv3.pdf). LIBRE hub, como iniciativa de la UC que promueve el Hardware Abierto, se adhiere a las normas y las recomendaciones del [Gathering for Open Science Hardware (GOSH)](https://openhardware.science/) y la Pontificia Universidad Católica de Chile.
+We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
 
-**IMPORTANTE:** Por favor, lea la información brindada en su totalidad antes de asistir al taller.
+<img align="center" src="/images/workshops/LLIM_2024_afiche.jpg" height=500>
 
 ---
 
@@ -41,6 +35,9 @@ Al aceptar su participación, usted acepta cumplir con el [Código de conducta](
   * Reimbursements requested after the workshop begins will take ~4 weeks to process, and will be payed by bank transfer.
 
 ---
-<br>
 
-*Suscribete a nuestra [lista de correos de LIBRE hub](https://mailchi.mp/2efa11be3d6b/libre_hub) para recibir más contenido relacionado. Todas nuestras actividades virtuales son grabadas y publicadas en nuetro [canal de Youtube](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) con opción de subtítulos automáticos en Español y Portugués.*
+### Code of Conduct
+
+LIBRE hub, a Pontificia Universidad Católica de Chile initiative promoting Open Hardware, adheres to the [UC Code of Conduct](https://www.uc.cl/codigo-de-honor/), the [CZI Code of Conduct](https://chanzuckerberg.github.io/open-science/CODE_OF_CONDUCT.html), and the [GOSH Code of Conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/), which promote open access, collaboration, and transparency in science. By participating, you agree to abide by these standards.
+
+*Subscribe to our [LIBRE hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) to receive more related content. All our activities are recorded and published on our [Youtube channel](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) where they can be accessed with automatic subtitles in Spanish and Portuguese.*
