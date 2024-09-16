@@ -3,27 +3,41 @@ title: Resources
 permalink: /sources/
 ---
 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $('.toggle-text').click(function() {
+      $(this).next('.content').slideToggle();
+    });
+  });
+</script>
+
 # **Resources**
-<br>
 
 The Resources section is a comprehensive and curated collection of publications, source files, tools, and educational materials designed to support research and development of open-source bioimaging technologies. Explore the wide array of resources to accelerate your projects and contribute to the growing open-source community.
 
-<details>
-  <summary><strong>Publications</strong></summary>
+### **Publications**
+<p class="toggle-text">Click to read content</p>
 
-  ## **2023**
-  _Open hardware: From DIY trend to global transformation in access to laboratory equipment_<br>
-  Wenzel T (2023). PLOS Biology 21(1): e3001931. ([Article](https://doi.org/10.1371/journal.pbio.3001931))
+<div class="content list" style="display: none;">
+  
+  <h4>2023</h4>
+  <p>
+    Open hardware: From DIY trend to global transformation in access to laboratory equipment. Wenzel T (2023). PLOS Biology 21(1): e3001931. (<a href="https://doi.org/10.1371/journal.pbio.3001931">Article</a>)
+  </p>
 
-  ## **2022**
-  _Open Hardware in Science: The Benefits of Open Electronics_<br>
-  Oellermann, M., Price-Whelan, A. M., Diego, O., Seabra, R., Wenzel, T., Haley Pace Wilson, & Tanner, R. L. (2022). Integrative and Comparative Biology, Volume 62, Issue 4, October 2022, Pages 1061–1075. ([Article](https://doi.org/10.1093/icb/icac043))
+  <h4>2022</h4>
+  <p>
+    Open Hardware in Science: The Benefits of Open Electronics. Oellermann, M., Price-Whelan, A. M., Diego, O., Seabra, R., Wenzel, T., Haley Pace Wilson, & Tanner, R. L. (2022). Integrative and Comparative Biology, Volume 62, Issue 4, October 2022, Pages 1061–1075. (<a href="https://doi.org/10.1093/icb/icac043">Article</a>)
+  </p>
 
-  ## **2020**
-  _Standardisation of Practices in Open Source Hardware_<br>
-  Bonvoisin, J., Molloy, J., Häuer, M., & Wenzel, T. (2020). Journal of Open Hardware, 4(1). ([Article](https://doi.org/10.5334/joh.22))
+  <h4>2020</h4>
+  <p>
+    Standardisation of Practices in Open Source Hardware Bonvoisin, J., Molloy, J., Häuer, M., & Wenzel, T. (2020). Journal of Open Hardware, 4(1). (<a href="https://doi.org/10.5334/joh.22">Article</a>)
+  </p>
+</div>
 
-</details>
+<hr>
 
 ### **Workshops**
 
