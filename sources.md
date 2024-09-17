@@ -32,6 +32,7 @@ permalink: /sources/
 The Resources section is a comprehensive and curated collection of publications, source files, tools, and educational materials designed to support research and development of open-source bioimaging technologies. Explore the wide array of resources to accelerate your projects and contribute to the growing open-source community.
 
 ### **Publications**
+
 <p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
@@ -83,12 +84,19 @@ The Resources section is a comprehensive and curated collection of publications,
 
 ### **Workshops**
 
-<div class="content list">
+<p class="toggle-text">Show more</p>
+
+<div class="content list" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
   {% for post in site.posts %}
     {% if post.categories contains 'workshop' %}
-    <div class="list-item">
+    <div class="list-item" style="text-align: center;">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <!-- Assuming each post has an image thumbnail, you can reference the thumbnail like this -->
+        <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}" alt="{{ post.title }}" style="width: 100%; height: auto; max-width: 250px;">
+      </a>
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
+        <small>{{ post.date | date: "%m/%d/%y" }}</small>
       </p>
     </div>
     {% endif %}
