@@ -86,37 +86,48 @@ The Resources section is a comprehensive and curated collection of publications,
 
 <p class="toggle-text">Show more</p>
 
-<div class="content list" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-  {% for post in site.posts %}
-    {% if post.categories contains 'workshop' %}
-    <div class="list-item" style="text-align: center;">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <!-- Assuming each post has an image thumbnail, you can reference the thumbnail like this -->
-        <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}" alt="{{ post.title }}" style="width: 100%; height: auto; max-width: 250px;">
-      </a>
-      <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
-        <small>{{ post.date | date: "%m/%d/%y" }}</small>
-      </p>
-    </div>
-    {% endif %}
-  {% endfor %}
+<div class="content list" style="display: none;">
+  <div class="content list" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'workshop' %}
+      <div class="list-item" style="text-align: center;">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <!-- Assuming each post has an image thumbnail, you can reference the thumbnail like this -->
+          <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}" alt="{{ post.title }}" style="width: 100%; height: auto; max-width: 250px;">
+        </a>
+        <p class="list-post-title">
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
+          <small>{{ post.date | date: "%m/%d/%y" }}</small>
+        </p>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 
 <hr>
 
 ### **Seminars**
 
-<div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains 'seminar' %}
-    <div class="list-item">
-      <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
-      </p>
-    </div>
-    {% endif %}
-  {% endfor %}
+<p class="toggle-text">Show more</p>
+
+<div class="content list" style="display: none;">
+  <div class="content list" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'seminar' %}
+      <div class="list-item" style="text-align: center;">
+        <a href="{{ post.video }}" target="_blank">
+          <!-- Assuming each post has an image thumbnail -->
+          <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}" alt="{{ post.title }}" style="width: 100%; height: auto; max-width: 250px;">
+        </a>
+        <p class="list-post-title">
+          <a href="{{ post.video }}" target="_blank">{{ post.title }}</a><br>
+          <small>{{ post.date | date: "%m/%d/%y" }}</small>
+        </p>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 
 <hr>
