@@ -91,12 +91,12 @@ The Resources section is a comprehensive and curated collection of publications,
     {% for post in site.posts %}
       {% if post.categories contains 'workshop' %}
       <div class="list-item" style="text-align: center;">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <!-- Assuming each post has an image thumbnail, you can reference the thumbnail like this -->
-          <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}" alt="{{ post.title }}" style="width: 100%; height: auto; max-width: 250px;">
+        <a href="{{ post.docu }}" target="_blank">
+          <!-- Assuming each post has an image thumbnail -->
+          <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}" alt="{{ post.title }}" alt="{{ post.title }}" style="width: 100%; height: auto; max-width: 250px;">
         </a>
         <p class="list-post-title">
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
+          <a href="{{ post.docu }}" target="_blank">{{ post.title }}</a><br>
           <small>{{ post.date | date: "%m/%d/%y" }}</small>
         </p>
       </div>
@@ -132,6 +132,35 @@ The Resources section is a comprehensive and curated collection of publications,
 
 <hr>
 
-### **Other resources**
+### **3D Printing**
+<p class="toggle-text">Show more</p>
 
+<div class="content list" style="display: none;">
+
+  <div class="content list" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <!-- Thingiverse Designs -->
+    <div class="list-item" style="text-align: center;">
+      <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">
+        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 100%; height: auto; max-width: 250px;">
+      </a>
+      <p class="list-post-title">
+        <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">Designs on Thingiverse</a>
+      </p>
+    </div>
+    <!-- Printables Designs -->
+    <div class="list-item" style="text-align: center;">
+      <a href="https://www.printables.com/de/@WenzelLab" target="_blank">
+        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 100%; height: auto; max-width: 250px;">
+      </a>
+      <p class="list-post-title">
+        <a href="https://www.printables.com/de/@WenzelLab" target="_blank">Designs on Printables</a>
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<!--  
+### **Other resources**
 [GitBuilding for Beginners](https://librehub.github.io/gitbuilding-for-beginners/) - User guide to implement and deploy a GitBuilding website.
+-->
