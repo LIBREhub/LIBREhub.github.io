@@ -15,6 +15,18 @@ permalink: /sources/
   });
 </script>
 
+<style>
+  .toggle-text {
+    cursor: pointer;
+    color: #007BFF; /* Default color */
+    transition: color 0.3s ease; /* Smooth transition for color change */
+  }
+
+  .toggle-text:hover {
+    color: #FF5733; /* Color when hovered */
+  }
+</style>
+
 # **Resources**
 
 The Resources section is a comprehensive and curated collection of publications, source files, tools, and educational materials designed to support research and development of open-source bioimaging technologies. Explore the wide array of resources to accelerate your projects and contribute to the growing open-source community.
@@ -63,7 +75,7 @@ The Resources section is a comprehensive and curated collection of publications,
 
   <!-- Row 3, Column 1 -->
   <iframe width="100%" height="200" src="https://www.youtube.com/embed/fFFRetXSQK0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+
   </div>
 </div>
 
