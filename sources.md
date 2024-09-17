@@ -9,8 +9,6 @@ permalink: /sources/
     $('.toggle-text').click(function() {
       var content = $(this).next('.content');
       content.slideToggle();
-      
-      // Toggle the text between "Show more" and "Show less"
       if (content.is(':visible')) {
         $(this).text('Show more');
       } else {
@@ -43,6 +41,21 @@ The Resources section is a comprehensive and curated collection of publications,
   <p>
     Standardisation of Practices in Open Source Hardware Bonvoisin, J., Molloy, J., Häuer, M., & Wenzel, T. (2020). Journal of Open Hardware, 4(1). (<a href="https://doi.org/10.5334/joh.22">Article</a>)
   </p>
+</div>
+
+<hr>
+
+### **Tutorials**
+
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+  <!-- Video 1 -->
+  <iframe width="300" height="200" src="https://www.youtube.com/embed/nc4b_7pL66U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <!-- Video 2 -->
+  <iframe width="300" height="200" src="https://www.youtube.com/embed/0zF3DSOCBSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <!-- Video 3 -->
+  <iframe width="300" height="200" src="https://www.youtube.com/embed/22zVn0-YkIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <hr>
