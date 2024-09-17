@@ -7,7 +7,15 @@ permalink: /sources/
 <script>
   $(document).ready(function() {
     $('.toggle-text').click(function() {
-      $(this).next('.content').slideToggle();
+      var content = $(this).next('.content');
+      content.slideToggle();
+      
+      // Toggle the text between "Show more" and "Show less"
+      if (content.is(':visible')) {
+        $(this).text('Show more');
+      } else {
+        $(this).text('Show less');
+      }
     });
   });
 </script>
@@ -17,7 +25,7 @@ permalink: /sources/
 The Resources section is a comprehensive and curated collection of publications, source files, tools, and educational materials designed to support research and development of open-source bioimaging technologies. Explore the wide array of resources to accelerate your projects and contribute to the growing open-source community.
 
 ### **Publications**
-<p class="toggle-text">Click to read content</p>
+<p class="toggle-text" style="cursor: pointer;">Show more</p>
 
 <div class="content list" style="display: none;">
   
