@@ -9,11 +9,8 @@ permalink: /sources/
     $('.toggle-text').click(function() {
       var content = $(this).next('.content');
       content.slideToggle();
-      if (content.is(':visible')) {
-        $(this).text('Show more');
-      } else {
-        $(this).text('Show less');
-      }
+      if (content.is(':visible')) {$(this).text('Show more');}
+      else {$(this).text('Show less');}
     });
   });
 </script>
@@ -23,7 +20,7 @@ permalink: /sources/
 The Resources section is a comprehensive and curated collection of publications, source files, tools, and educational materials designed to support research and development of open-source bioimaging technologies. Explore the wide array of resources to accelerate your projects and contribute to the growing open-source community.
 
 ### **Publications**
-<p class="toggle-text" style="cursor: pointer;">Show more</p>
+<p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
   
@@ -47,15 +44,27 @@ The Resources section is a comprehensive and curated collection of publications,
 
 ### **Tutorials**
 
-<div style="display: flex; gap: 20px; justify-content: space-between;">
-  <!-- Video 1 -->
-  <iframe width="300" height="200" src="https://www.youtube.com/embed/nc4b_7pL66U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="toggle-text">Show more</p>
+
+<div class="content list" style="display: none;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   
-  <!-- Video 2 -->
-  <iframe width="300" height="200" src="https://www.youtube.com/embed/0zF3DSOCBSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <!-- Row 1, Column 1 -->
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/nc4b_7pL66U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <!-- Row 1, Column 2 -->  
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/0zF3DSOCBSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <!-- Row 2, Column 1 -->
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/22zVn0-YkIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <!-- Row 2, Column 2 -->
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/Hgo2NIhxlEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <!-- Row 3, Column 1 -->
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/fFFRetXSQK0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-  <!-- Video 3 -->
-  <iframe width="300" height="200" src="https://www.youtube.com/embed/22zVn0-YkIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
 
 <hr>
