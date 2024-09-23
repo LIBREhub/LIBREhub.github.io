@@ -9,11 +9,16 @@ permalink: /sources/
     $('.toggle-text').click(function() {
       var content = $(this).next('.content');
       content.slideToggle();
-      if (content.is(':visible')) {$(this).text('Show more');}
-      else {$(this).text('Show less');}
+
+      if ($(this).text() === 'Show more') {
+        $(this).text('Show less');
+      } else {
+        $(this).text('Show more');
+      }
     });
   });
 </script>
+
 
 <style>
   .toggle-text {
@@ -51,6 +56,36 @@ The Resources section is a comprehensive and curated collection of publications,
   <p>
     Standardisation of Practices in Open Source Hardware Bonvoisin, J., Molloy, J., Häuer, M., & Wenzel, T. (2020). Journal of Open Hardware, 4(1). (<a href="https://doi.org/10.5334/joh.22">Article</a>)
   </p>
+</div>
+
+<hr>
+
+### **3D Printing - Tools and Accessories**
+<p class="toggle-text">Show more</p>
+
+<div class="content list" style="display: none;">
+
+  <div class="content list" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <!-- Thingiverse Designs -->
+    <div class="list-item" style="text-align: center;">
+      <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">
+        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 150px; height: 200px;">
+      </a>
+      <p class="list-post-title">
+        <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">Designs on Thingiverse</a>
+      </p>
+    </div>
+    <!-- Printables Designs -->
+    <div class="list-item" style="text-align: center;">
+      <a href="https://www.printables.com/de/@WenzelLab" target="_blank">
+        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 150px; height: 200px;">
+      </a>
+      <p class="list-post-title">
+        <a href="https://www.printables.com/de/@WenzelLab" target="_blank">Designs on Printables</a>
+      </p>
+    </div>
+  </div>
+
 </div>
 
 <hr>
@@ -132,33 +167,38 @@ The Resources section is a comprehensive and curated collection of publications,
 
 <hr>
 
-### **3D Printing**
+### **BioImaging Communities**
+
 <p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
+  
+  <p>
+    Global BioImaging Network (<a href="https://globalbioimaging.org/">Website</a>)
+  </p>
 
-  <div class="content list" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-    <!-- Thingiverse Designs -->
-    <div class="list-item" style="text-align: center;">
-      <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">
-        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 350px; height: 200px;">
-      </a>
-      <p class="list-post-title">
-        <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">Designs on Thingiverse</a>
-      </p>
-    </div>
-    <!-- Printables Designs -->
-    <div class="list-item" style="text-align: center;">
-      <a href="https://www.printables.com/de/@WenzelLab" target="_blank">
-        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 350px; height: 200px;">
-      </a>
-      <p class="list-post-title">
-        <a href="https://www.printables.com/de/@WenzelLab" target="_blank">Designs on Printables</a>
-      </p>
-    </div>
-  </div>
+  <p>
+   BioImaging North America (<a href="https://www.bioimagingnorthamerica.org/">Website</a>)
+  </p>
+
+  <p>
+   Latin America BioImaging (<a href="https://labi.lat/">Website</a>)
+  </p>
+
+  <p>
+   African BioImaging Consortium (<a href="https://www.africanbioimaging.org/">Website</a>)
+  </p>
+
+  <p>
+   Focal Plane Network (<a href="https://focalplane.biologists.com/">Website</a>)
+  </p>
+
+  <p>
+   Scientific Community Image Forum (<a href="https://forum.image.sc/">Website</a>)
+  </p>
 
 </div>
+
 
 <!--  
 ### **Other resources**
