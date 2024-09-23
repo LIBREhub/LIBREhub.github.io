@@ -66,15 +66,6 @@ Discover our tools, accessories, and instrumentation for bioimaging that can be 
 <div class="content list" style="display: none;">
 
   <div class="content list" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-    <!-- Thingiverse Designs -->
-    <div class="list-item" style="text-align: center;">
-      <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">
-        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 100%; height: auto; max-width: 250px;">
-      </a>
-      <p class="list-post-title">
-        <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">Designs on Thingiverse</a>
-      </p>
-    </div>
     <!-- Printables Designs -->
     <div class="list-item" style="text-align: center;">
       <a href="https://www.printables.com/de/@WenzelLab" target="_blank">
@@ -82,6 +73,15 @@ Discover our tools, accessories, and instrumentation for bioimaging that can be 
       </a>
       <p class="list-post-title">
         <a href="https://www.printables.com/de/@WenzelLab" target="_blank">Designs on Printables</a>
+      </p>
+    </div>
+    <!-- Thingiverse Designs -->
+    <div class="list-item" style="text-align: center;">
+      <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">
+        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 100%; height: auto; max-width: 250px;">
+      </a>
+      <p class="list-post-title">
+        <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">Designs on Thingiverse</a>
       </p>
     </div>
   </div>
