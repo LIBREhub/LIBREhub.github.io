@@ -33,11 +33,10 @@ permalink: /sources/
 </style>
 
 # **Resources**
-
 The Resources section is a comprehensive and curated collection of publications, source files, tools, and educational materials designed to support research and development of open-source bioimaging technologies. Explore the wide array of resources to accelerate your projects and contribute to the growing open-source community.
 
 ### **Publications**
-
+Explore recent publications that showcase the principales and impact of open-source hardware in science.
 <p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
@@ -60,7 +59,8 @@ The Resources section is a comprehensive and curated collection of publications,
 
 <hr>
 
-### **3D Printing - Tools and Accessories**
+### **3D Printing**
+Discover our tools, accessories, and instrumentation for bioimaging that can be digitally manufactured.
 <p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
@@ -69,7 +69,7 @@ The Resources section is a comprehensive and curated collection of publications,
     <!-- Thingiverse Designs -->
     <div class="list-item" style="text-align: center;">
       <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">
-        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 200px; height: 200px;">
+        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 200px; height: 180px;">
       </a>
       <p class="list-post-title">
         <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">Designs on Thingiverse</a>
@@ -78,7 +78,7 @@ The Resources section is a comprehensive and curated collection of publications,
     <!-- Printables Designs -->
     <div class="list-item" style="text-align: center;">
       <a href="https://www.printables.com/de/@WenzelLab" target="_blank">
-        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 200px; height: 200px;">
+        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 200px; height: 180px;">
       </a>
       <p class="list-post-title">
         <a href="https://www.printables.com/de/@WenzelLab" target="_blank">Designs on Printables</a>
@@ -91,7 +91,7 @@ The Resources section is a comprehensive and curated collection of publications,
 <hr>
 
 ### **Tutorials**
-
+Learn from a variety of tutorials how to design, implement, and mantain your scientific instrumentation.
 <p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
@@ -118,7 +118,7 @@ The Resources section is a comprehensive and curated collection of publications,
 <hr>
 
 ### **Workshops**
-
+Engage with hands-on workshops focused on scientific instrumentation and analysis techniques.
 <p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
@@ -143,7 +143,7 @@ The Resources section is a comprehensive and curated collection of publications,
 <hr>
 
 ### **Seminars**
-
+Discover seminars featuring state-of-the-art technologies and key discussions on software and hardware development.
 <p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
@@ -168,7 +168,7 @@ The Resources section is a comprehensive and curated collection of publications,
 <hr>
 
 ### **BioImaging Communities**
-
+Connect with bioimaging communities from across the globe that share resources and expertise.
 <p class="toggle-text">Show more</p>
 
 <div class="content list" style="display: none;">
