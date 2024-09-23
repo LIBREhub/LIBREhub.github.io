@@ -69,7 +69,7 @@ The Resources section is a comprehensive and curated collection of publications,
     <!-- Thingiverse Designs -->
     <div class="list-item" style="text-align: center;">
       <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">
-        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 150px; height: 200px;">
+        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 200px; height: 200px;">
       </a>
       <p class="list-post-title">
         <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">Designs on Thingiverse</a>
@@ -78,7 +78,7 @@ The Resources section is a comprehensive and curated collection of publications,
     <!-- Printables Designs -->
     <div class="list-item" style="text-align: center;">
       <a href="https://www.printables.com/de/@WenzelLab" target="_blank">
-        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 150px; height: 200px;">
+        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 200px; height: 200px;">
       </a>
       <p class="list-post-title">
         <a href="https://www.printables.com/de/@WenzelLab" target="_blank">Designs on Printables</a>
