@@ -69,7 +69,7 @@ Discover our tools, accessories, and instrumentation for bioimaging that can be 
     <!-- Thingiverse Designs -->
     <div class="list-item" style="text-align: center;">
       <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">
-        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 200px; height: 180px;">
+        <img src="/images/thingiverse-thumbnail.png" alt="Thingiverse Designs" style="width: 100%; height: auto; max-width: 250px;">
       </a>
       <p class="list-post-title">
         <a href="https://www.thingiverse.com/libre-hub/designs" target="_blank">Designs on Thingiverse</a>
@@ -78,7 +78,7 @@ Discover our tools, accessories, and instrumentation for bioimaging that can be 
     <!-- Printables Designs -->
     <div class="list-item" style="text-align: center;">
       <a href="https://www.printables.com/de/@WenzelLab" target="_blank">
-        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 200px; height: 180px;">
+        <img src="/images/printables-thumbnail.png" alt="Printables Designs" style="width: 100%; height: auto; max-width: 250px;">
       </a>
       <p class="list-post-title">
         <a href="https://www.printables.com/de/@WenzelLab" target="_blank">Designs on Printables</a>
