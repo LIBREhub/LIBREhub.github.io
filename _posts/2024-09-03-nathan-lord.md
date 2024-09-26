@@ -1,9 +1,9 @@
 ---
-title: September 26th - Optogenetic control of Nodal signaling patterns
+title: Optogenetic control of Nodal signaling patterns
 speaker: Nathan Lord
 video:
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/nathan_lord_flyer.jpg
 ---
 
