@@ -1,7 +1,7 @@
 ---
 title: Optogenetic control of Nodal signaling patterns
 speaker: Nathan Lord
-video:
+video: https://youtu.be/1T2DsbmQuRg?feature=shared
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/nathan_lord_flyer.jpg
