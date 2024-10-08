@@ -4,7 +4,7 @@ speaker: Joseba Alonso, Teresa Guallart-Naval
 video: https://youtu.be/xoCLIr5nK4Q
 description: LIBRE_hub seminar
 categories: seminar
-header-img: images/seminars/alonso_talk_pic_1.jpg
+header-img: images/seminars/josebalonso_teresaguallart_flyer.jpg
 ---
 
 ## Imagen por resonancia magnética de bajo coste en la práctica
