@@ -11,6 +11,30 @@ redirect_from:
 ## Modular Color LED Illumination for Microscopy
 
 ### Hands-on workshop | Date: October 11, 2024
+#### Agenda: 
+| Hora         | Actividad                                                | Lugar             |
+|--------------|----------------------------------------------------------|--------------------|
+| 8:30 - 9:00  | Registro                                                 | FABLAB Dilab      |
+| 9:00 - 9:45  | LIBRE hub / Open Hardware for Bioimaging                 |                    |
+| 9:45 - 10:30 | Presentación del Taller / Instructores y Participantes |                    |
+| 10:30 - 10:40| Break                                                   |                    |
+| 10:40 - 11:15| Introducción a diseño abierto de iluminación  LED      |                    |
+| 11:15 - 12:30| Cables, soldadura, conexiones                           |                    |
+| 12:30 - 14:00| Almuerzo                                                | Casino Rocknrolla  |
+| 14:00 - 15:10| Ensamblaje de componentes                               | FABLAB Dilab      |
+| 15:10 - 15:20| Break                                                   |                    |
+| 15:20 - 16:30| Regulación de componentes ópticos                        |                    |
+| 16:30 - 17:15| Extensión e integración de módulos LED                  |                    |
+| 17:15 - 18:00| Visita a IIBM y networking                             |                    |
+
+---
+
+#### Instrucciones de ensamblado: 
+
+Las instrucciones que seguiremos en el taller están disponibles [en este link](https://librehub.github.io/LED_workshop/2024-10-11%20Instrucciones%20taller%20LED.pdf), y una lista detallada de materiales [aquí](https://librehub.github.io/LED_workshop/BOM.xlsx). 
+
+---
+
 #### Location: [San Joaquin campus](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile
 
 We are thrilled to invite you to an exciting hands-on workshop where participants will learn how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. Spaces are limited, and travel funds are limited, so we encourage you to reserve your spot soon. Please register using [this form](https://forms.gle/47WS9HtJJj3Si5is7).
