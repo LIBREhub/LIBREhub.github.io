@@ -12,6 +12,7 @@ redirect_from:
 
 ### Hands-on workshop | Date: October 11, 2024
 #### Agenda: 
+
 | Hora         | Actividad                                                | Lugar             |
 |--------------|----------------------------------------------------------|--------------------|
 | 8:30 - 9:00  | Registro                                                 | FABLAB Dilab      |
