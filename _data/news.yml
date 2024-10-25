@@ -1,32 +1,41 @@
-- date: 2024-06-05
-  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/06/05/edmund-humenberger.html" target="_blank">Open source FPGA tools for building research devices</a>
+- date: 2024-10-24
+  details: 2024 LIBRE Hub Workshop | December 16 | <a href="https://librehub.github.io/2024/10/24/low-cost-MRI.html" target="_blank">Advances in the Low-Cost MRI Project for Accessible Imaging</a>
 
-- date: 2024-06-05
-  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/06/05/joshua-harper.html" target="_blank">Building the OSI2ONE MRI Scanner in Paraguay</a>
+- date: 2024-10-23
+  details: 2024 LIBRE Hub Seminar | November 29 | <a href="https://librehub.github.io/2024/10/07/kevin-uning.html" target="_blank">Open Raman Microscopy</a>
 
-- date: 2024-04-17
-  details: 2024 LIBRE Hub Workshop | <a href="https://librehub.github.io/2024/04/17/SEMS-WS-2024.html" target="_blank">Strobe Illumination for Bioimaging of Fast Processes</a>
+- date: 2024-10-22
+  details: 2024 LIBRE Hub Seminar | November 20 | <a href="https://librehub.github.io/2024/10/02/marcelo-andia.html" target="_blank">Sometimes more is not better - The case of medical imaging</a>
 
-- date: 2024-04-03
-  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/05/19/david-baum.html" target="_blank">NeuriGUI, visualization and processing of electrophysiological signals in real-time</a>
+#- date: 2024-06-05
+#  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/06/05/edmund-humenberger.html" target="_blank">Open source FPGA tools for building research devices</a>
 
-- date: 2024-04-03
-  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/04/03/leonel-malacrida.html" target="_blank">PhasorPy developments and its applications</a>
+#- date: 2024-06-05
+#  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/06/05/joshua-harper.html" target="_blank">Building the OSI2ONE MRI Scanner in Paraguay</a>
 
-- date: 2024-03-18
-  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/03/15/joseba-alonso.html" target="_blank">Imagen por resonancia magnética de bajo coste en la práctica</a>
+#- date: 2024-04-17
+#  details: 2024 LIBRE Hub Workshop | <a href="https://librehub.github.io/2024/04/17/SEMS-WS-2024.html" target="_blank">Strobe Illumination for Bioimaging of Fast Processes</a>
 
-- date: 2024-01-17
-  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/01/17/adam-larson.html" target="_blank">Planktoscope, a high-throughput imaging platform for quantifying plankton abundance</a>
+#- date: 2024-04-03
+#  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/05/19/david-baum.html" target="_blank">NeuriGUI, visualization and processing of electrophysiological signals in real-time</a>
+
+#- date: 2024-04-03
+#  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/04/03/leonel-malacrida.html" target="_blank">PhasorPy developments and its applications</a>
+
+#- date: 2024-03-18
+#  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/03/15/joseba-alonso.html" target="_blank">Imagen por resonancia magnética de bajo coste en la práctica</a>
+
+#- date: 2024-01-17
+#  details: 2024 LIBRE Hub Seminar | <a href="https://librehub.github.io/2024/01/17/adam-larson.html" target="_blank">Planktoscope, a high-throughput imaging platform for quantifying plankton abundance</a>
 
 #- date: 2023-12-04
 #  details: 2023 LIBRE Hub Seminar | <a href="https://librehub.github.io/2023/12/04/mark-salomons.html" target="_blank">NanoMi, a platform for open source electron microscopy</a>
 
-- date: 2023-10-14
-  details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/2023/07/30/laserillum-ws.html" target="_blank">Low-Cost Laser Illumination for Microscopy</a>
+#- date: 2023-10-14
+#  details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/2023/07/30/laserillum-ws.html" target="_blank">Low-Cost Laser Illumination for Microscopy</a>
 
-- date: 2023-10-13
-  details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/2023/08/01/mri-data-ws.html" target="_blank">MRI - Processing your own data</a>
+#- date: 2023-10-13
+#  details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/2023/08/01/mri-data-ws.html" target="_blank">MRI - Processing your own data</a>
 
 #- date: 2023-09-13
 #  details: 2023 LIBRE Hub Seminar | <a href="https://librehub.github.io/2023/09/12/joseba-alonso.html" target="_blank">MRI for everybody, everywhere</a>
@@ -34,23 +43,14 @@
 #- date: 2023-09-08
 #  details: 2023 LIBRE Hub Seminar | <a href="https://librehub.github.io/2023/09/08/steven-wright.html" target="_blank">Simpler MRI - An MRI scanner using the Diligent Analog Discovery 2 and more</a>
 
-- date: 2023-08-01
-  details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/napari-LatAm-workshop-2023/intro.html" target="_blank">Introduction napari for Bioimage Analysis</a>
+#- date: 2023-08-01
+#  details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/napari-LatAm-workshop-2023/intro.html" target="_blank">Introduction napari for Bioimage Analysis</a>
 
 #- date: 2023-07-25
 #  details: 2023 LIBRE Hub Seminar | <a href="https://librehub.github.io/2023/07/23/microfluidics-seminar-chile.html" target="_blank">First Gathering on Microfluidics Research in Chile</a>
 
-- date: 2023-07-24
-  details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/2023/07/21/strobeillum-ws.html" target="_blank">Strobe Illumination for Bioimaging of Fast Processes</a>
-
-- date: 2021-11-23
-  details: We are on the <a href="https://www.uc.cl/noticias/fundacion-de-mark-zuckerberg-y-priscilla-chan-premia-a-investigadores-chilenos/" target="_blank">UC news</a>!
-
-- date: 2021-11-22
-  details: We are on the <a href="https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2021/11/22/cientificos-chilenos-son-reconocidos-por-la-fundacion-de-mark-zuckerberg-y-priscilla-chan.shtml" target="_blank">Chilean press</a>!
-
-- date: 2021-11-20
-  details: LIBRE Hub is a new grantee of the <a href="https://chanzuckerberg.com/imaging/latin-american-hub-for-bioimaging-through-open-hardware/" target="_blank">CZI Expanding Global Access to Bioimaging</a> award.
+#- date: 2023-07-24
+#  details: 2023 LIBRE Hub Workshop | <a href="https://librehub.github.io/2023/07/21/strobeillum-ws.html" target="_blank">Strobe Illumination for Bioimaging of Fast Processes</a>
 
 #- date: 2022-12-12
 #  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/5vRhLVZTxKI" target="_blank">Open Source Imaging Initiative</a>
@@ -87,3 +87,13 @@
   
 #- date: 2022-05-23
 #  details: 2022 LIBRE Hub Seminars | <a href="https://youtu.be/ivhmaaL3dRM" target="_blank">UC2 Microscope</a>
+
+- date: 2021-11-23
+  details: We are on the <a href="https://www.uc.cl/noticias/fundacion-de-mark-zuckerberg-y-priscilla-chan-premia-a-investigadores-chilenos/" target="_blank">UC news</a>!
+
+- date: 2021-11-22
+  details: We are on the <a href="https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2021/11/22/cientificos-chilenos-son-reconocidos-por-la-fundacion-de-mark-zuckerberg-y-priscilla-chan.shtml" target="_blank">Chilean press</a>!
+
+- date: 2021-11-20
+  details: LIBRE Hub is a new grantee of the <a href="https://chanzuckerberg.com/imaging/latin-american-hub-for-bioimaging-through-open-hardware/" target="_blank">CZI Expanding Global Access to Bioimaging</a> award.
+
