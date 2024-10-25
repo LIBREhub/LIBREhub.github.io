@@ -8,6 +8,8 @@ docu:
 
 # Advances in the Low-Cost MRI Project for Accessible Imaging
 
+<br>
+
 ### General Information
 
 We are thrilled to invite you to an exciting workshop where we will describe and discuss the current state of development of our low-cost MRI system. This system leverages existing open-source designs engineered to make medical imaging more accessible, especially in low-resource settings. Our team will showcase the design and manufacturing of various components: main field, gradient coils and amplifiers, RF coil and amplifier, shimming, and console.
