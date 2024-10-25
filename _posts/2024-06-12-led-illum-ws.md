@@ -8,7 +8,54 @@ redirect_from:
   - /2024/06/12/LLIM-WS-2024.html
 ---
 
-## Modular Color LED Illumination for Microscopy
+# Modular Color LED Illumination for Microscopy
+
+<br>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="height:450px; width:750px;">
+          <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" style="height:450px; width:750px;">
+    
+  <div class="item active">
+    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2024.jpg" alt="workshop"></a>
+  </div>
+    
+  <div class="item">
+    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2024_1.jpg" alt="workshop"></a>
+  </div>
+
+  <div class="item">
+    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2024_2.jpg" alt="workshop"></a>
+  </div>   
+  
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+</div>
+
+<br>
+
+### General Information
+
+Welcome to the site of "Modular Color LED Illumination for Microscopy" workshop, an exciting hands-on workshop where participants learned how to build and use a low-cost, modular LED laser light source for microscopy. This event was held on October 11, 2024, in [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/) campus, Pontificia Universidad Catolica de Chile, and was organized by the [LIBRE hub](https://librehub.github.io/people/) team with support from [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
+
+Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (Flickr)</a> to see the pictures from this workshop. **NOTE:** If you share them on social media, please, use #LIBREhub on the description or tag us on your posts.
 
 ### Hands-on workshop | Date: October 11, 2024
 #### Agenda: 
@@ -38,11 +85,15 @@ Las instrucciones que seguiremos en el taller están disponibles [en este link](
 
 #### Location: [San Joaquin campus](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile
 
+<!--
+
 We are thrilled to invite you to an exciting hands-on workshop where participants will learn how to build and use a low-cost, modular fiber-coupled laser light source for microscopy. Spaces are limited, and travel funds are limited, so we encourage you to reserve your spot soon. Please register using [this form](https://forms.gle/47WS9HtJJj3Si5is7).
 
 We look forward to seeing you and embarking on this exciting journey together of open-source technologies!
 
 <img align="center" src="/images/workshops/LLIM_2024_afiche.jpg" height=500>
+
+-->
 
 ---
 
