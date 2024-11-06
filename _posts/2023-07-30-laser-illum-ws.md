@@ -12,7 +12,7 @@ redirect_from:
 
 <br>
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel" style="height:450px; width:750px;">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -21,18 +21,18 @@ redirect_from:
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" style="height:450px; width:750px;">
+  <div class="carousel-inner">
     
   <div class="item active">
-    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2023.jpg" alt="workshop"></a>
+    <a target="_blank"><img src="/images/workshops/Taller_LIM_2023.jpg" alt="workshop"></a>
   </div>
     
   <div class="item">
-    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2023_1.jpg" alt="workshop"></a>
+    <a target="_blank"><img src="/images/workshops/Taller_LIM_2023_1.jpg" alt="workshop"></a>
   </div>
 
   <div class="item">
-    <a target="_blank"><img style="max-width:100%;" src="/images/workshops/Taller_LIM_2023_2.jpg" alt="workshop"></a>
+    <a target="_blank"><img src="/images/workshops/Taller_LIM_2023_2.jpg" alt="workshop"></a>
   </div>   
   
   </div>
