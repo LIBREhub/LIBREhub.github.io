@@ -374,6 +374,22 @@ tbody tr:nth-child(odd) th {
 
 }
 
+.carousel-inner {
+  width: 100%;
+  height: auto; /* Allow height to adjust based on content */
+}
+
+.carousel-inner .item {
+  display: flex; /* Use flexbox to center images vertically */
+  justify-content: center; /* Center images horizontally */
+  align-items: center; /* Center images vertically */
+}
+
+.carousel-inner img {
+  max-width: 100%; /* Ensure image is responsive */
+  height: auto; /* Maintain aspect ratio */
+}
+
 .w3-container {
   background: #f0f8ff;
   padding: 25px;
