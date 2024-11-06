@@ -255,6 +255,7 @@ pre code {
 img {
   display: block;
   max-width: 100%;
+  height: auto; /* Ensure images are responsive */
   margin: 0 0 1rem;
   border-radius: 5px;
 }
@@ -283,14 +284,24 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
 }
 
-.container {
-  max-width: 40rem;
-//  padding: 2rem 1.5rem;
-  margin-left:  auto;
-  margin-right: auto;
+// .container {
+//   max-width: 40rem;
+// //  padding: 2rem 1.5rem;
+//   margin-left:  auto;
+//   margin-right: auto;
 
-  @media (min-width: 40rem){
-//    padding: 5rem 1rem;
+//   @media (min-width: 40rem){
+// //    padding: 5rem 1rem;
+//   }
+// }
+
+.container {
+  max-width: 100%; /* Allow container to stretch */
+  padding: 0 15px; /* Add some padding */
+  margin: auto;
+
+  @media (min-width: 768px) {
+    max-width: 40rem; /* Set max width for larger screens */
   }
 }
 
@@ -353,6 +364,25 @@ tbody tr:nth-child(odd) th {
     }
   }
 
+  .carousel {
+    height: 450px;
+    
+    @media (max-width: 768px) {
+      height: 300px; /* Adjust height for smaller screens */
+    }
+  }
+
+}
+
+.w3-container {
+  background: #f0f8ff;
+  padding: 25px;
+  border-radius: 10px;
+  border: 1px solid #5d8aa8;
+
+  @media (max-width: 768px) {
+    padding: 15px; /* Less padding on smaller screens */
+  }
 }
 
 .page {
@@ -534,6 +564,14 @@ tbody tr:nth-child(odd) th {
   // fix menu scroll along x axis
   .navbar-nav {
     margin-right: 15px;
+  }
+
+  .carousel {
+    height: 300px; /* Smaller height on mobile */
+  }
+
+  .w3-container {
+    padding: 15px; /* Less padding for mobile */
   }
 }
 
