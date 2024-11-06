@@ -1,5 +1,5 @@
 ---
-title: Pushing boundaries- A path to commercializing open hardware
+title: Pushing boundaries - A path to commercializing open hardware
 speaker: Aquiles Carattino
 video:
 description: LIBRE_hub seminar
