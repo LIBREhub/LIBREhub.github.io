@@ -376,13 +376,16 @@ tbody tr:nth-child(odd) th {
 
 .carousel-inner {
   width: 100%;
-  height: auto; /* Allow height to adjust based on content */
 }
 
 .carousel-inner .item {
-  display: flex; /* Use flexbox to center images vertically */
-  justify-content: center; /* Center images horizontally */
-  align-items: center; /* Center images vertically */
+  display: none; /* Hide all items initially */
+  width: 100%; /* Full width */
+  height: auto; /* Height adjusts based on the image */
+}
+
+.carousel-inner .item.active {
+  display: block; /* Show the active item */
 }
 
 .carousel-inner img {
