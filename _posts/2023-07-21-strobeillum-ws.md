@@ -4,6 +4,8 @@ description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/SEMS_2023_afiche.png
 docu: https://wenzel-lab.github.io/strobe-enhanced-microscopy-stage/
+redirect_from:
+  - /2023/06/02/strobeillum-ws.html
 ---
 
 ## Taller "Strobe Illumination for Bioimaging of Fast Processes"
