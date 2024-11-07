@@ -59,7 +59,11 @@ Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (
 
 ### Fundamentals of LED illumination
 
-<iframe width="100%" height="200" src="https://youtu.be/HJIJut-Y3NQ?feature=shared" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=HJIJut-Y3NQ">
+    <img class="thumbnail" src="http://img.youtube.com/vi/HJIJut-Y3NQ/0.jpg" alt="Vicente_Parot">
+  </a>
+</div>
 
 ### Assembly instructions
 
