@@ -11,6 +11,17 @@ header-img: images/seminars/joshua_harper_flyer.jpg
 
 <br>
 
+<div class="thumbnail-container">
+  <a href="https://youtu.be/NiABwvTVwp8?feature=shared">
+    <img class="thumbnail" src="http://img.youtube.com/vi/NiABwvTVwp8/0.jpg" alt="Joshua_Harper">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
+<br>
+
 ### Overview
 The Open Source Imaging Initiative has recently released a fully open source low field MRI scanner called the OSI2ONE. We are currently building this system at the Universidad Paraguayo Alemana in Asuncion, Paraguay for a neuroimaging project at a clinic in Bolivia. I will discuss the process of construction, important considerations before you build, and future work planned with this device.
 

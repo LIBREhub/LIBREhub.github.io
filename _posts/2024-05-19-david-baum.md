@@ -1,13 +1,24 @@
 ---
 title: NeuriGUI, visualization and processing of electrophysiological signals in real-time
 speaker: David Baum
-video:
+video: https://www.youtube.com/watch?v=izg771xex8A
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/david_baum_flyer.jpg
 ---
 
 ## A modular, free and open source graphical interface for visualizing and processing electrophysiological signals in real-time
+
+<br>
+
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=izg771xex8A">
+    <img class="thumbnail" src="http://img.youtube.com/vi/izg771xex8A/0.jpg" alt="David_Baum">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
 
 <br>
 

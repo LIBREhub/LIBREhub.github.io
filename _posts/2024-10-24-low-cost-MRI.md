@@ -20,10 +20,6 @@ Please register using this form:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScYfUAg5NAJ86AedKOM3JRCp7BENNRDP6wAglx0wFJ5O3biLQ/viewform?usp=sf_link" width="640" height="3184" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<!--
-<img align="center" src="/images/workshops/MRI_2024_afiche.jpg" height=500>
--->
-
 <br>
 
 ### Code of Conduct

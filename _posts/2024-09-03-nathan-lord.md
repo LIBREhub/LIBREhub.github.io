@@ -10,6 +10,17 @@ header-img: images/seminars/nathan_lord_flyer.jpg
 ## Optogenetic control of Nodal signaling patterns
 <br>
 
+<div class="thumbnail-container">
+  <a href="https://youtu.be/1T2DsbmQuRg?feature=shared">
+    <img class="thumbnail" src="http://img.youtube.com/vi/1T2DsbmQuRg/0.jpg" alt="Nathan_Lord">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
+<br>
+
 ### Overview
 Embryos issue instructions to their cells in the form of patterns of signaling activity. Within these patterns, the distribution of signaling in time and space directs the fate of embryonic cells. Tools to perturb developmental signaling with high resolution in space and time can help reveal how these patterns are decoded to make appropriate fate decisions. In this talk, I will present new optogenetic reagents and an experimental pipeline for creating designer Nodal signaling patterns in live zebrafish embryos. Our improved optoNodal reagents eliminate dark activity and improve response kinetics, without sacrificing dynamic range. We adapted an ultra-widefield microscopy platform for parallel light patterning in up to 36 embryos and demonstrated precise spatial control over Nodal signaling activity and downstream gene expression. Using this system, we demonstrate that patterned Nodal activation can initiate specification and internalization movements of endodermal precursors. Further, we used patterned illumination to generate synthetic signaling patterns in Nodal signaling mutants, rescuing several characteristic developmental defects. This study establishes an experimental toolkit for systematic exploration of Nodal signaling patterns in live embryos.
 

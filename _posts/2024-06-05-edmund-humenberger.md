@@ -11,6 +11,17 @@ header-img: images/seminars/edmund_humenberger_flyer.jpg
 
 <br>
 
+<div class="thumbnail-container">
+  <a href="https://youtu.be/ubsKtwSmw-g?feature=shared">
+    <img class="thumbnail" src="http://img.youtube.com/vi/ubsKtwSmw-g/0.jpg" alt="Edmund_Humenberger">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
+<br>
+
 ### Overview
 Edmund will present why to use FPGAs when building scientific instruments, when and why to use open source FPGA tools, the history of their development, their development status, currently supported FPGA families and functions, current developments in design languages and tools, the community, freely available design blocks, and possible future developments.
 

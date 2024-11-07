@@ -57,6 +57,10 @@ Welcome to the site of "Modular Color LED Illumination for Microscopy" workshop,
 
 Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (Flickr)</a> to see the pictures from this workshop. **NOTE:** If you share them on social media, please, use #LIBREhub on the description or tag us on your posts.
 
+### Fundamentals of LED illumination
+
+<iframe width="100%" height="200" src="https://youtu.be/HJIJut-Y3NQ?feature=shared" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Assembly instructions
 
 The assembly instructions can be found on the following [link](https://librehub.github.io/LED_workshop/2024-10-11%20Instrucciones%20taller%20LED.pdf) and the bill or materials [here](https://librehub.github.io/LED_workshop/BOM.xlsx)
