@@ -4,7 +4,7 @@ speaker: Marcelo Andia
 video:
 description: LIBRE_hub seminar
 categories: newseminar
-header-img: images/seminars/marcelo_andia_flyer.jpg
+header-img: images/seminars/marcelo_andia_flyer_1.jpg
 ---
 
 ## Sometimes more is not better: The case of medical imaging
@@ -18,7 +18,7 @@ Dr. Marcelo Andia. Director of the Biomedical Imaging Center UC. Deputy Director
 
 ### Seminar Information
 
-**Date:** 12:00 - 20 November 2024 (GMT-3)
+**Date:** 12:20 - 20 November 2024 (GMT-3)
 
 **Platform:**
 - **Teams:** [Join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTYxOWFkYjYtNWVlNC00MGE4LWEyNDAtNTc1ODYzZTg2ZGM4%40thread.v2/0?context=%7b%22Tid%22%3a%225ff5d9fa-f83f-4ac1-a4d2-eb48ea0a00d2%22%2c%22Oid%22%3a%22b066b156-36d2-4bf1-8723-85ab0bba4b91%22%7d)
