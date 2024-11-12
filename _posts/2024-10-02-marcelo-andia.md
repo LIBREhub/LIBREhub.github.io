@@ -4,7 +4,7 @@ speaker: Marcelo Andia
 video:
 description: LIBRE_hub seminar
 categories: newseminar
-header-img: images/seminars/marcelo_andia_flyer_1.jpg
+header-img: images/seminars/marcelo_andia_flyer_2.jpg
 ---
 
 ## Sometimes more is not better: The case of medical imaging
