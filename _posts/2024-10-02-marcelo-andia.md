@@ -3,7 +3,7 @@ title: November 20th - Sometimes more is not better. The case of medical imaging
 speaker: Marcelo Andia
 video:
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/marcelo_andia_flyer.jpg
 ---
 

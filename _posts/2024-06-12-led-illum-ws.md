@@ -103,6 +103,15 @@ In the workshop, we will provide training on assembling and operating these elem
 | 16:30 - 17:15| Extensión e integración de módulos LED                  |                    |
 | 17:15 - 18:00| Visita a IIBM y networking                             |                    |
 
+<span style="display: block; margin-bottom: 2em"></span>
+
+<p float="center">
+  <img src="/images/workshops/LIM_2024_ES.png" height=500 align='left'>
+  <img src="/images/workshops/LIM_2024_EN.png" height=500 align='right'>
+</p>
+
+<br>
+
 <!--
 
 #### Location: [San Joaquin campus](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/), Pontificia Universidad Católica de Chile
