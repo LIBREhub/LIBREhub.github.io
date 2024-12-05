@@ -22,6 +22,23 @@ Please register using this form:
 
 <br>
 
+### Día: 16 de Diciembre, 2024 | Lugar: Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín.
+
+### Agenda: 
+
+| Hora         | Sesion                                                   | Contenido                                                       |
+|--------------|----------------------------------------------------------|-----------------------------------------------------------------|
+| 9:00 - 9:15  | Recepción                                                |                                                                 |
+| 9:15 - 9:30  | Introducción al proyecto LIBRE hub                       | Presentación de principales objetivos y logros del proyecto.|
+| 9:30 - 10:00 | Bienvenida y Motivación                                  | Introducción y motivación para el desarrollo de sistemas de resonancia magnética de bajo costo (Low-cost MRI).| 
+| 10:00 - 10:30| Panorama General                                         | Estado del arte en resonancia magnética de bajo costo y presentación del proyecto OSII.|
+| 10:30 - 10:50| Campo Principal                                          | Descripción del campo principal del sistema OSII, medición de campo magnético y técnicas de shimming.| 
+| 10:50 - 11:20| Coffee Break                                             |                                                                     |
+| 12:30 - 14:00| Consola                                                  | Implementación y resultados utilizando Red Pitaya y OCRA.|
+| 14:00 - 15:10| Sistema RF                                               | Diseño e implementación del sistema de transmisión y recepción de señal RF.|
+| 15:10 - 15:20| Gradientes                                               | Construcción y alimentación de gradientes: diseños del sistema OSII y desafíos asociados.|
+| 15:20 - 16:30| Impactos Esperado y Cierre                               | Alcance potencial de esta tecnología y los principales desafíos futuros.|
+
 ### Code of Conduct
 
 LIBRE hub, a Pontificia Universidad Católica de Chile initiative promoting Open Hardware, adheres to the [UC Code of Conduct](https://www.uc.cl/codigo-de-honor/), the [CZI Code of Conduct](https://chanzuckerberg.github.io/open-science/CODE_OF_CONDUCT.html), and the [GOSH Code of Conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/), which promote open access, collaboration, and transparency in science. By participating, you agree to abide by these standards.
