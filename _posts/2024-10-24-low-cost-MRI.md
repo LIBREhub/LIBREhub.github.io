@@ -16,15 +16,11 @@ We are thrilled to invite you to an exciting workshop where we will describe and
 
 This event will be held on December 16, 2024, in [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/) campus, Pontificia Universidad Catolica de Chile, and is organized by the [LIBRE hub](https://librehub.github.io/people/) team with support from [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
-Please register using this form:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScYfUAg5NAJ86AedKOM3JRCp7BENNRDP6wAglx0wFJ5O3biLQ/viewform?usp=sf_link" width="640" height="3184" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 <br>
 
-### Día: 16 de Diciembre, 2024 | Lugar: Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín.
+### Agenda:
 
-### Agenda: 
+**Lugar:** Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín - **MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
 
 | Hora         | Sesion                                                   | Contenido                                                       |
 |--------------|----------------------------------------------------------|-----------------------------------------------------------------|
@@ -46,3 +42,9 @@ LIBRE hub, a Pontificia Universidad Católica de Chile initiative promoting Open
 <br>
 
 *Subscribe to our [LIBRE hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) to receive more related content. All our activities are recorded and published on our [Youtube channel](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) where they can be accessed with automatic subtitles in Spanish and Portuguese.*
+
+<!--
+Please register using this form:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScYfUAg5NAJ86AedKOM3JRCp7BENNRDP6wAglx0wFJ5O3biLQ/viewform?usp=sf_link" width="640" height="3184" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+-->
