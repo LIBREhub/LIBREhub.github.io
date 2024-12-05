@@ -20,7 +20,7 @@ This event will be held on December 16, 2024, in [San Joaquin](https://www.uc.cl
 
 ### Agenda:
 
-**Lugar:** Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín - **MAPA UC (Para descargar en [PDF](https://vidauniversitaria.uc.cl/395-mapa-campussj-2022/file))**
+**Lugar:** Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín - **[Google Maps](https://maps.app.goo.gl/6tEQac63fs5Y9hqW9)**
 
 | Hora         | Sesion                                                   | Contenido                                                       |
 |--------------|----------------------------------------------------------|-----------------------------------------------------------------|
