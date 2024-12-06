@@ -1,9 +1,9 @@
 ---
-title: November 29th - A modular Raman spectroscopy setup with an open-source controller
+title: A modular Raman spectroscopy setup with an open-source controller
 speaker: Kevin Uning
 video:
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/kevin_uning_flyer.jpg
 ---
 
