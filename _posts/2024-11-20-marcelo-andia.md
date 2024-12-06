@@ -1,13 +1,24 @@
 ---
 title: Sometimes more is not better. The case of medical imaging
 speaker: Marcelo Andia
-video:
+video: https://www.youtube.com/watch?v=w0k1h4QQmMg
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/marcelo_andia_flyer.jpg
 ---
 
 ## Sometimes more is not better: The case of medical imaging
+<br>
+
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=w0k1h4QQmMg">
+    <img class="thumbnail" src="http://img.youtube.com/vi/w0k1h4QQmMg/0.jpg" alt="Marcelo_Andia">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
 <br>
 
 ### Overview
