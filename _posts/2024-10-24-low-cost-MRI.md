@@ -16,13 +16,11 @@ We are thrilled to invite you to an exciting workshop where we will describe and
 
 This event will be held on December 16, 2024, in [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/) campus, Pontificia Universidad Catolica de Chile, and is organized by the [LIBRE hub](https://librehub.github.io/people/) team with support from [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
-<br>
-
 ### Agenda:
 
 **Lugar:** Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín - **[Google Maps](https://maps.app.goo.gl/6tEQac63fs5Y9hqW9)**
 
-| Hora         | Sesion                                        | Contenido                                                       |Expositor(a)   |
+| Hora         | Sesión                                        | Contenido                                                       | Expositor(a)  |
 |--------------|-----------------------------------------------|-----------------------------------------------------------------|---------------|
 | 9:00 - 9:15  | Recepción                                     |                                                                 |               |
 | 9:15 - 9:30  | Introducción al proyecto LIBRE hub            | Presentación de principales objetivos y logros del proyecto.    | Tobias Wenzel |
