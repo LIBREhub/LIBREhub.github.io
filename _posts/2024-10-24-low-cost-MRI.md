@@ -28,10 +28,12 @@ This event will be held on December 16, 2024, in [San Joaquin](https://www.uc.cl
 | 10:00 - 10:30| Panorama General                              | Estado del arte en resonancia magnética de bajo costo y presentación del proyecto OSII.| Victor Ramírez |
 | 10:30 - 10:50| Campo Principal                               | Descripción del campo principal del sistema OSII, medición de campo magnético y técnicas de shimming.| Iñaki Gacitúa 
 | 10:50 - 11:20| Coffee Break                                  |                                                                     |
-| 12:30 - 14:00| Consola                                       | Implementación y resultados utilizando Red Pitaya y OCRA.| Sofía Urzúa |
-| 14:00 - 15:10| Sistema RF                                    | Diseño e implementación del sistema de transmisión y recepción de señal RF.| Vicente Corvalán |
-| 15:10 - 15:20| Gradientes                                    | Construcción y alimentación de gradientes: diseños del sistema OSII y desafíos asociados.| Juan José García |
-| 15:20 - 16:30| Impactos Esperado y Cierre                    | Alcance potencial de esta tecnología y los principales desafíos futuros.| Cristian Trejos |
+| 11:20 - 11:40| Consola                                       | Implementación y resultados utilizando Red Pitaya y OCRA.| Sofía Urzúa |
+| 11:40 - 12:00| Sistema RF                                    | Diseño e implementación del sistema de transmisión y recepción de señal RF.| Vicente Corvalán |
+| 12:00 - 12:20| Gradientes                                    | Construcción y alimentación de gradientes: diseños del sistema OSII y desafíos asociados.| Juan José García |
+| 12:20 - 12:50| Impactos Esperado y Cierre                    | Alcance potencial de esta tecnología y los principales desafíos futuros.| Cristian Trejos |
+
+**NOTA: El almuerzo no está incluído**
 
 ### Code of Conduct
 
