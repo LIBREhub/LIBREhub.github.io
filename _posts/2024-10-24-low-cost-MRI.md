@@ -1,7 +1,7 @@
 ---
 title: Advances in the Low-Cost MRI Project for Accessible Imaging 2024
 description: LIBRE hub workshop
-categories: newworkshop
+categories: workshop
 header-img: images/workshops/MRI_2024_afiche.jpg
 docu:
 ---
