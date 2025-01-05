@@ -1,5 +1,5 @@
 ---
-title: OpenFlexure Microscope
+title: OpenFlexure Microscope 2022
 description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/OFM_2022_afiche.png

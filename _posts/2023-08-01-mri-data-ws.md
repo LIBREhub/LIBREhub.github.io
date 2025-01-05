@@ -1,5 +1,5 @@
 ---
-title: MRI - Processing your own data
+title: MRI - Processing your own data 2023
 description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/MRI_2023_afiche.png

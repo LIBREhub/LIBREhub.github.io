@@ -8,17 +8,17 @@ docu:
 
 # Advances in the Low-Cost MRI Project for Accessible Imaging
 
-<br>
+<img src="{{site.baseurl}}/images/others/Low_MRI_workshop_participants.jpg" data-action="zoom">
 
 ### General Information
 
-We are thrilled to invite you to an exciting workshop where we will describe and discuss the current state of development of our low-cost MRI system. This system leverages existing open-source designs engineered to make medical imaging more accessible, especially in low-resource settings. Our team will showcase the design and manufacturing of various components: main field, gradient coils and amplifiers, RF coil and amplifier, shimming, and console.
+Welcome to the site of "Advances in the Low-Cost MRI Project for Accessible Imaging", an exciting workshop where we described and discussed the current state of development of our low-cost MRI system. This system leverages existing open-source designs engineered to make medical imaging more accessible, especially in low-resource settings. Our team showcased the design and manufacturing of various components: main field, gradient coils and amplifiers, RF coil and amplifier, shimming, and console.
 
-This event will be held on December 16, 2024, in [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/) campus, Pontificia Universidad Catolica de Chile, and is organized by the [LIBRE hub](https://librehub.github.io/people/) team with support from [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
+This event was held on December 16, 2024, in [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/) campus, Pontificia Universidad Catolica de Chile, and was organized by the [LIBRE hub](https://librehub.github.io/people/) team with support from [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
-### Agenda:
+### Program:
 
-**Lugar:** Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín - **[Google Maps](https://maps.app.goo.gl/6tEQac63fs5Y9hqW9)**
+**Place:** Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín - **[Google Maps](https://maps.app.goo.gl/6tEQac63fs5Y9hqW9)**
 
 | Hora         | Sesión                                        | Contenido                                                       | Expositor(a)  |
 |--------------|-----------------------------------------------|-----------------------------------------------------------------|---------------|

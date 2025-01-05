@@ -1,5 +1,5 @@
 ---
-title: Low-Cost Laser Illumination for Microscopy
+title: Low-Cost Laser Illumination for Microscopy 2023
 description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/LLIM_2023_afiche.png
