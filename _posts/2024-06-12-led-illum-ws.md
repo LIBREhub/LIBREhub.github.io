@@ -67,7 +67,7 @@ Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (
 
 ### Assembly instructions
 
-The assembly instructions can be found on the following [link](https://librehub.github.io/taller-iluminacion-LED/) and the bill or materials [here](https://librehub.github.io/taller-iluminacion-LED/Componentes.html). There is also a video tutorial to guide step-by-step to assemble your modular illumination source:
+The assembly instructions can be found on the following [link](https://librehub.github.io/taller-iluminacion-LED/Instrucciones.html) and the bill or materials [here](https://librehub.github.io/taller-iluminacion-LED/Componentes.html). There is also a video tutorial to guide step-by-step to assemble your modular illumination source:
 
 <div class="thumbnail-container">
   <a href="https://www.youtube.com/watch?v=WCRBXNT_IMo">
