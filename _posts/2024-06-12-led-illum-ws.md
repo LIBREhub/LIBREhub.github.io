@@ -3,7 +3,7 @@ title: Modular Color LED Illumination for Microscopy 2024
 description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/LLIM_2024_afiche.jpg
-docu: https://librehub.github.io/LED_workshop/2024-10-11%20Instrucciones%20taller%20LED.pdf
+docu: https://librehub.github.io/taller-iluminacion-LED/
 redirect_from:
   - /2024/06/12/LLIM-WS-2024.html
 ---
@@ -67,7 +67,13 @@ Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (
 
 ### Assembly instructions
 
-The assembly instructions can be found on the following [link](https://librehub.github.io/LED_workshop/2024-10-11%20Instrucciones%20taller%20LED.pdf) and the bill or materials [here](https://librehub.github.io/LED_workshop/BOM.xlsx)
+The assembly instructions can be found on the following [link](https://librehub.github.io/taller-iluminacion-LED/) and the bill or materials [here](https://librehub.github.io/taller-iluminacion-LED/Componentes.html). There is also a video tutorial to guide step-by-step to assemble your modular illumination source:
+
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=WCRBXNT_IMo">
+    <img class="thumbnail" src="http://img.youtube.com/vi/WCRBXNT_IMo/0.jpg" alt="Vicente_Parot">
+  </a>
+</div>
 
 ### Technical information
 
