@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Certification
-permalink: /certificates/SEMS2024/
+permalink: /certificates/LowCostMRI_2024/
 ---
 
 ## ¡Gracias por tu participación!
