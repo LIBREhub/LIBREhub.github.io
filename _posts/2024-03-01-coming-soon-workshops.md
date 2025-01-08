@@ -1,12 +1,12 @@
 ---
-title: 2024 Hands-on workshops 
+title: 2025 Hands-on workshops 
 speaker: 
 description: LIBRE_hub seminar
 categories: newworkshop-disabled
 header-img: images/others/LH_coming_soon.png
 ---
 
-# 2024 Hands-on workshops
+# 2025 Hands-on workshops
 
 <br>
 
