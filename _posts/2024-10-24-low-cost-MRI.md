@@ -31,7 +31,7 @@ This event was held on December 16, 2024, in [San Joaquin](https://www.uc.cl/uni
 | 11:20 - 11:40| Consola                                       | Implementación y resultados utilizando Red Pitaya y OCRA.| Sofía Urzúa |
 | 11:40 - 12:00| Sistema RF                                    | Diseño e implementación del sistema de transmisión y recepción de señal RF.| Vicente Corvalán |
 | 12:00 - 12:20| Gradientes                                    | Construcción y alimentación de gradientes: diseños del sistema OSII y desafíos asociados.| Juan José García |
-| 12:20 - 12:50| Impactos Esperados y Cierre                   | Alcance potencial de esta tecnología y los principales desafíos futuros.| Cristian Trejos |
+| 12:20 - 12:50| Impactos Esperados y Cierre                   | Alcance potencial de esta tecnología y los principales desafíos futuros.| Cristian Tejos |
 
 **NOTA: El almuerzo no está incluído**
 
