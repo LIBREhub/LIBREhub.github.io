@@ -20,18 +20,18 @@ This event was held on December 16, 2024, in [San Joaquin](https://www.uc.cl/uni
 
 **Place:** Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín - **[Google Maps](https://maps.app.goo.gl/6tEQac63fs5Y9hqW9)**
 
-| Hora         | Sesión                                        | Contenido                                                       | Expositor(a)  |
-|--------------|-----------------------------------------------|-----------------------------------------------------------------|---------------|
-| 9:00 - 9:15  | Recepción                                     |                                                                 |               |
-| 9:15 - 9:45  | Bienvenida y Motivación                       | Introducción y motivación para el desarrollo de sistemas de resonancia magnética de bajo costo (Low-cost MRI).| Pablo Irarrázaval |
-| 9:45 - 10:15 | Panorama General                              | Estado del arte en resonancia magnética de bajo costo y presentación del proyecto OSII.| Victor Ramírez |
-| 10:15 - 10:35| Campo Principal                               | Descripción del campo principal del sistema OSII, medición de campo magnético y técnicas de shimming.| Iñaki Gacitúa |
-| 10:35 - 10:50| Introducción al proyecto LIBRE hub            | Presentación de principales objetivos y logros del proyecto.    | Tobias Wenzel |
-| 10:50 - 11:20| Coffee Break                                  |                                                                     |
-| 11:20 - 11:40| Consola                                       | Implementación y resultados utilizando Red Pitaya y OCRA.| Sofía Urzúa |
-| 11:40 - 12:00| Sistema RF                                    | Diseño e implementación del sistema de transmisión y recepción de señal RF.| Vicente Corvalán |
-| 12:00 - 12:20| Gradientes                                    | Construcción y alimentación de gradientes: diseños del sistema OSII y desafíos asociados.| Juan José García |
-| 12:20 - 12:50| Impactos Esperados y Cierre                   | Alcance potencial de esta tecnología y los principales desafíos futuros.| Cristian Tejos |
+| Hora         | Sesión| Contenido |Grabación |  Expositor(a)  |
+|--------------|-------|-----------|----------|----------------|
+| 9:00 - 9:15  | Recepción |          |               |        |
+| 9:15 - 9:45  | Bienvenida y Motivación | Introducción y motivación para el desarrollo de sistemas de resonancia magnética de bajo costo (Low-cost MRI).| [Disponible](https://www.youtube.com/watch?v=XB50j2n6kkg&t=135s) | Pablo Irarrázaval |
+| 9:45 - 10:15 | Panorama General| Estado del arte en resonancia magnética de bajo costo y presentación del proyecto OSII.| | Victor Ramírez |
+| 10:15 - 10:35| Campo Principal| Descripción del campo principal del sistema OSII, medición de campo magnético y técnicas de shimming.| | Iñaki Gacitúa |
+| 10:35 - 10:50| Introducción al proyecto LIBRE hub  | Presentación de principales objetivos y logros del proyecto. | | Tobias Wenzel |
+| 10:50 - 11:20| Coffee Break |          |               |        |
+| 11:20 - 11:40| Consola | Implementación y resultados utilizando Red Pitaya y OCRA.| | Sofía Urzúa |
+| 11:40 - 12:00| Sistema RF | Diseño e implementación del sistema de transmisión y recepción de señal RF.| | Vicente Corvalán |
+| 12:00 - 12:20| Gradientes | Construcción y alimentación de gradientes: diseños del sistema OSII y desafíos asociados.| | Juan José García |
+| 12:20 - 12:50| Impactos Esperados y Cierre | Alcance potencial de esta tecnología y los principales desafíos futuros.| | Cristian Tejos |
 
 **NOTA: El almuerzo no está incluído**
 
