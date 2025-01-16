@@ -2,7 +2,7 @@
 title: 2025 Hands-on workshops 
 speaker: 
 description: LIBRE_hub seminar
-categories: newworkshop-disabled
+categories: newworkshop
 header-img: images/others/LH_coming_soon.png
 ---
 
