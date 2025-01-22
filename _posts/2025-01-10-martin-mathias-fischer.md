@@ -3,7 +3,7 @@ title: Insights into BioImaging Innovation
 speaker: Martin Fischer and Mathias Fischer
 video:
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/martin_mathias_fischer.png
 ---
 

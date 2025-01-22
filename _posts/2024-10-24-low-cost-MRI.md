@@ -41,6 +41,13 @@ LIBRE hub, a Pontificia Universidad Católica de Chile initiative promoting Open
 
 <br>
 
+<p float="center">
+  <img src="/images/workshops/LowMRI_ES_2024.png" height=500 align='left'>
+  <img src="/images/workshops/LowMRI_EN_2024.png" height=500 align='right'>
+</p>
+
+<br>
+
 *Subscribe to our [LIBRE hub mailing list](https://mailchi.mp/2efa11be3d6b/libre_hub) to receive more related content. All our activities are recorded and published on our [Youtube channel](https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw) where they can be accessed with automatic subtitles in Spanish and Portuguese.*
 
 <!--
