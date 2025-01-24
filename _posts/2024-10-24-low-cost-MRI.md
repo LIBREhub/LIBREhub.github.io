@@ -16,6 +16,8 @@ Welcome to the site of "Advances in the Low-Cost MRI Project for Accessible Imag
 
 This event was held on December 16, 2024, in [San Joaquin](https://www.uc.cl/universidad/nuestros-campus/san-joaquin/) campus, Pontificia Universidad Catolica de Chile, and was organized by the [LIBRE hub](https://librehub.github.io/people/) team with support from [Chang Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/).
 
+Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (Flickr)</a> to see the pictures from this workshop. **NOTE:** If you share them on social media, please, use #LIBREhub on the description or tag us on your posts.
+
 ### Program:
 
 **Place:** Sala de Clases, Departamento de Ingeniería Eléctrica, Primer Piso, Campus San Joaquín - **[Google Maps](https://maps.app.goo.gl/6tEQac63fs5Y9hqW9)**
