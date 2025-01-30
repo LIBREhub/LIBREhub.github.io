@@ -3,7 +3,7 @@ title: Advances in the Low-Cost MRI Project for Accessible Imaging 2024
 description: LIBRE hub workshop
 categories: workshop
 header-img: images/workshops/MRI_2024_afiche.jpg
-docu:
+docu: https://librehub.github.io/2024/10/24/low-cost-MRI.html
 ---
 
 # Advances in the Low-Cost MRI Project for Accessible Imaging

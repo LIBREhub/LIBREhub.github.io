@@ -1,7 +1,7 @@
 ---
 title: Insights into BioImaging Innovation
 speaker: Martin Fischer and Mathias Fischer
-video:
+video: https://librehub.github.io/2025/01/10/martin-mathias-fischer.html
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/martin_mathias_fischer.png
@@ -13,6 +13,18 @@ header-img: images/seminars/martin_mathias_fischer.png
 We are pleased to invite you to the next LIBRE Hub seminars, which will take place on **January 17th at 12:30 PM** (GMT-3, Chile time) via Teams:
 
 ### "The Builders Working Group of BioImaging North America (BINA)"
+<br>
+
+<div class="thumbnail-container">
+  <a href="hhttps://www.youtube.com/watch?v=feXzIYrSC0w">
+    <img class="thumbnail" src="http://img.youtube.com/vi/feXzIYrSC0w/0.jpg" alt="Martin_Fischer">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
+<br>
 
 **Speaker:** Martin C. Fischer, Ph.D., Research Professor, Departments of Chemistry and Physics, Duke University.
 
