@@ -72,7 +72,7 @@ permalink: /people/
 | [Tomas Astudillo](https://librehub.github.io/people/tomas_astudillo/index.html) | Technology Fellow (2023) |
 | Martin Pérez | Software Fellow (2023) |
 | [Francisco Martínez](https://librehub.github.io/people/francisco_martinez/index.html) | Technology Fellow (2023 - 2024) |
-| [Agnes Marin](https://librehub.github.io/people/agnes_marin/index.html) | Communications Manager (2023 - 2024) |
+| [Agnes Marian](https://librehub.github.io/people/agnes_marian/index.html) | Communications Manager (2023 - 2024) |
 | [Joaquin Acosta](https://librehub.github.io/people/joaquin_acosta/index.html) | Software Fellow (2024) |
 
 {% endif %}
