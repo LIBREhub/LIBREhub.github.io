@@ -31,6 +31,18 @@ We are pleased to invite you to the next LIBRE Hub seminars, which will take pla
 **Overview:** The BINA Builders Working Group aims to create a diverse and inclusive community of builders, adopters, and users of custom microscopes and microscopy tools. Currently, many of these techniques are developed in research groups and, despite their tremendous usefulness to the broader community, few get disseminated or adopted outside the developing group. The Builders Working Group wants to bring together builders, adopters, users, and industrial representatives to publicize and discuss microscope designs and tools, exchange build information for existing designs, and provide a forum to incubate new design ideas. I will discuss initiation and the current status of this community effort.
 
 ### "Cost-effective, open-source light shutters with Arduino control"
+<br>
+
+<div class="thumbnail-container">
+  <a href="hhttps://www.youtube.com/watch?v=LwiI1VFJBCI">
+    <img class="thumbnail" src="http://img.youtube.com/vi/LwiI1VFJBCI/0.jpg" alt="Mathias_Fischer">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
+<br>
 
 **Speaker:** Mathias S. Fischer, Department of Mechanical Engineering, North Carolina State University
 

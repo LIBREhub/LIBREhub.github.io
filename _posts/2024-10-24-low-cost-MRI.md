@@ -27,8 +27,8 @@ Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (
 | 9:00 - 9:15  | Recepción |          |               |        |
 | 9:15 - 9:45  | Bienvenida y Motivación | Introducción y motivación para el desarrollo de sistemas de resonancia magnética de bajo costo (Low-cost MRI).| [Disponible](https://youtu.be/XB50j2n6kkg?si=DWabMY13NINTvxrz) | Pablo Irarrázaval |
 | 9:45 - 10:15 | Panorama General| Estado del arte en resonancia magnética de bajo costo y presentación del proyecto OSII.| [Disponible](https://youtu.be/HBagwTIDuI4?si=0ya1HNMviMle4FRD)| Victor Ramírez |
-| 10:15 - 10:35| Campo Principal| Descripción del campo principal del sistema OSII, medición de campo magnético y técnicas de shimming.| | Iñaki Gacitúa |
-| 10:35 - 10:50| Introducción al proyecto LIBRE hub  | Presentación de principales objetivos y logros del proyecto. | | Tobias Wenzel |
+| 10:15 - 10:35| Campo Principal| Descripción del campo principal del sistema OSII, medición de campo magnético y técnicas de shimming.| [Disponible](https://youtu.be/eLSEUU-29pA?si=eA6_1FSh4aQZBJFp) | Iñaki Gacitúa |
+| 10:35 - 10:50| Introducción al proyecto LIBRE hub  | Presentación de principales objetivos y logros del proyecto. | - | Tobias Wenzel |
 | 10:50 - 11:20| Coffee Break |          |               |        |
 | 11:20 - 11:40| Consola | Implementación y resultados utilizando Red Pitaya y OCRA.| | Sofía Urzúa |
 | 11:40 - 12:00| Sistema RF | Diseño e implementación del sistema de transmisión y recepción de señal RF.| | Vicente Corvalán |

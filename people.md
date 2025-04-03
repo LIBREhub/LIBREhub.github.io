@@ -66,6 +66,12 @@ permalink: /people/
 
 <br>
 
+<figure><center>
+  <img width="500" src="/images/people/LIBREHub_Team_2025.jpg">
+</center></figure>
+
+<br>
+
 | Who are they | When were they here |
 | :------------- |:-------------|
 | [Claudia Tapia](https://librehub.github.io/people/claudia_tapia/index.html) | Project Manager (2022 - 2023) | 
