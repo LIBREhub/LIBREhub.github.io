@@ -38,6 +38,15 @@ permalink: /people/
  {% elsif role == 'communication' %}
 <h3>Communications</h3>
  {% elsif role == 'alumni' %}
+
+<br>
+
+<figure><center>
+  <img width="500" src="/images/people/LIBREHub_Team_2025.jpg">
+</center></figure>
+
+<br>
+
 <h3>Past Members</h3>
 {% endif %}
 </div>
@@ -63,14 +72,6 @@ permalink: /people/
 <hr>
 
 {% else %}
-
-<br>
-
-<figure><center>
-  <img width="500" src="/images/people/LIBREHub_Team_2025.jpg">
-</center></figure>
-
-<br>
 
 | Who are they | When were they here |
 | :------------- |:-------------|
