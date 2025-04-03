@@ -1,17 +1,19 @@
 ---
-title: 3D Printed Lenses | Rapid prototyping and low-cost microscopy for the life sciences
+title: Open SPM | A Modular Framework for Scanning Probe Microscopy
 speaker: Liam Rooney
 video: 
 description: LIBRE_hub seminar
 categories: newseminar
-header-img: images/seminars/liam_rooney_flyer.png
+header-img: images/seminars/marcos_penedo_flyer.png
 ---
 
-## 3D Printed Lenses: Rapid prototyping and low-cost microscopy for the life sciences
+## Open SPM: A Modular Framework for Scanning Probe Microscopy
 <br>
 
 **Overview:** 
-High-quality glass lenses are commonplace in the design of optical instrumentation used across the biosciences. However, research-grade glass lenses are often costly, delicate and, depending on the prescription, can involve intricate and lengthy manufacturing - even more so in bioimaging applications. This seminar will outline 3D printing as a viable low-cost alternative for the manufacture of high-performance optical elements, where I will also discuss the creation of the world’s first fully 3D printed microscope and other implementations of 3D printed lenses. Our 3D printed lenses were generated using consumer-grade 3D printers and pose a 225x materials cost-saving compared to glass optics. Moreover, they can be produced in any lab or home environment and offer great potential for education and outreach. Following performance validation, our 3D printed optics were implemented in the production of a fully 3D printed microscope and demonstrated in histological imaging applications. We also applied low-cost fabrication methods to exotic lens geometries to enhance resolution and contrast across spatial scales and reveal new biological structures. Across these applications, our findings showed that 3D printed lenses are a viable substitute for commercial glass lenses, with the advantage of being relatively low-cost, accessible, and suitable for use in optical instruments. Combining 3D printed lenses with open-source 3D printed microscope chassis designs opens the doors for low-cost applications for rapid prototyping, low-resource field diagnostics, and the creation of cheap educational tools.
+OpenSPM aims to democratize innovation in the field of scanning probe microscopy (SPM), which is currently dominated by a few proprietary, closed systems that limit user-driven development. Our platform includes a high-speed OpenAFM head and base optimized for small cantilevers, an OpenAFM controller, a high-voltage amplifier, and interfaces compatible with several commercial AFM systems such as the Bruker Multimode, Nanosurf DriveAFM, Witec Alpha SNOM, Zeiss FIB-SEM XB550, and Nenovision Litescope. We have created a fully documented and community-driven OpenSPM platform, with training resources and sourcing information, which has already enabled the construction of more than 15 systems outside our lab. The controller is integrated with open-source tools like Gwyddion, HDF5, and Pycroscopy. We have also engaged external companies, two of which are integrating our controller into their products or interfaces.
+
+We see growing interest in applying parts of the OpenSPM platform to related techniques such as correlated microscopy, nanoindentation, and scanning electron/confocal microscopy. To support this, we are developing more generic and modular software, alongside a structured development workflow. A key feature of the OpenSPM system is its Python-based API, which makes the platform fully scriptable and ideal for AI and machine learning applications. This enables, for instance, automatic control and optimization of PID parameters, setpoints, and experiment workflows. With a growing contributor base and industry involvement, OpenSPM is well positioned to become a global, open platform for next-generation SPM innovation.
 
 **Speaker:** Marcos Penedo Garcia. Senior scientist, Laboratory for Bio- and Nano-Instrumentation, École Polytechnique Fédérale de Lausanne, Switzerland
 
