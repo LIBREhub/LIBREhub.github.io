@@ -4,7 +4,7 @@ speaker: Liam Rooney
 video: 
 description: LIBRE_hub seminar
 categories: newseminar
-header-img: images/seminars/marcos_penedo_flyer.png
+header-img: images/seminars/marcos-penedo-flyer.png
 ---
 
 ## Open SPM: A Modular Framework for Scanning Probe Microscopy
