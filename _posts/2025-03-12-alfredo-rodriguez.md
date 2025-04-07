@@ -1,7 +1,7 @@
 ---
 title: Resonancia Magnética y Detección Remota
 speaker: Alfredo Rodriguez
-video: 
+video: https://youtu.be/0xY-EzCQhHs 
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/alfredo_rodriguez_flyer.png
