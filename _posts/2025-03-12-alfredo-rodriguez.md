@@ -10,6 +10,17 @@ header-img: images/seminars/alfredo_rodriguez_flyer.png
 ## Resonancia Magnética y Detección Remota: No se Necesita Estar tan Cerca
 <br>
 
+<div class="thumbnail-container">
+  <a href="hhttps://www.youtube.com/watch?v=0xY-EzCQhHs">
+    <img class="thumbnail" src="http://img.youtube.com/vi/0xY-EzCQhHs/0.jpg" alt="Alfredo_Rodriguez">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
+<br>
+
 **Resumen:** 
 La resonancia magnética nuclear está basada en el fenómeno del magnetismo nuclear que más aplicaciones ha encontrado para el estudio de enfermedades humanas. Usualmente la señal de RM es recibida y transmitida a distancias cercanas al objeto del que se quiere obtener una imagen. Otra alternativa es emitir y recibir la misma señal de manera remota haciendo uso de guías de onda. Este enfoque tiene la ventaja que se puede aplicar a altos campos magnéticos, la absorción de energía es menor, además es posible cubrir mayores regiones de interés y comodidad para el paciente. Por otro lado, sufre de baja calidad de imagen en algunos casos. En esta ocasión hablaremos de nuestra experiencia haciendo uso de este enfoque empleando una guía de ondas abierta y metamateriales tanto para
 sistemas clínicos como preclínicos de IRM.
