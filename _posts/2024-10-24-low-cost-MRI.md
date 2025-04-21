@@ -30,7 +30,7 @@ Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (
 | 10:15 - 10:35| Campo Principal| Descripción del campo principal del sistema OSII, medición de campo magnético y técnicas de shimming.| [Disponible](https://youtu.be/eLSEUU-29pA?si=eA6_1FSh4aQZBJFp) | Iñaki Gacitúa |
 | 10:35 - 10:50| Introducción al proyecto LIBRE hub  | Presentación de principales objetivos y logros del proyecto. | - | Tobias Wenzel |
 | 10:50 - 11:20| Coffee Break |          |               |        |
-| 11:20 - 11:40| Consola | Implementación y resultados utilizando Red Pitaya y OCRA.| [Disponible](https://youtu.be/s-_wbssOHIE?feature=shared) | Sofía Urzúa |
+| 11:20 - 11:40| Consola | Implementación y resultados utilizando Red Pitaya y OCRA.| [Disponible](https://youtu.be/s-_wbssOHIE?feature=shared) | Sofía Urzúa y Nicolás Seguel |
 | 11:40 - 12:00| Sistema RF | Diseño e implementación del sistema de transmisión y recepción de señal RF.| | Vicente Corvalán |
 | 12:00 - 12:20| Gradientes | Construcción y alimentación de gradientes: diseños del sistema OSII y desafíos asociados.| | Juan José García |
 | 12:20 - 12:50| Impactos Esperados y Cierre | Alcance potencial de esta tecnología y los principales desafíos futuros.| | Cristian Tejos |
