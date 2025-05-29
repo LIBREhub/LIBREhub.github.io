@@ -33,7 +33,7 @@ Visit our <a href="https://www.flickr.com/photos/197037882@N02/albums">gallery (
 | 11:20 - 11:40| Consola | Implementación y resultados utilizando Red Pitaya y OCRA.| [Disponible](https://youtu.be/s-_wbssOHIE?feature=shared) | Sofía Urzúa y Nicolás Seguel |
 | 11:40 - 12:00| Sistema RF | Diseño e implementación del sistema de transmisión y recepción de señal RF.| [Disponible](https://youtu.be/WHc1pmKATE8?feature=shared) | Vicente Corvalán |
 | 12:00 - 12:20| Gradientes | Construcción y alimentación de gradientes: diseños del sistema OSII y desafíos asociados.| [Disponible](https://youtu.be/npizWQPsmRk) | Juan José García |
-| 12:20 - 12:50| Impactos Esperados y Cierre | Alcance potencial de esta tecnología y los principales desafíos futuros.| | Cristian Tejos |
+| 12:20 - 12:50| Impactos Esperados y Cierre | Alcance potencial de esta tecnología y los principales desafíos futuros.| [Disponible](https://youtu.be/yLyOGq9DflQ?feature=shared) | Cristian Tejos |
 
 **NOTA: El almuerzo no está incluído**
 
