@@ -16,7 +16,7 @@ We are pleased to invite you to the next LIBRE Hub seminars, which will take pla
 <br>
 
 <div class="thumbnail-container">
-  <a href="hhttps://www.youtube.com/watch?v=feXzIYrSC0w">
+  <a href="https://www.youtube.com/watch?v=feXzIYrSC0w">
     <img class="thumbnail" src="http://img.youtube.com/vi/feXzIYrSC0w/0.jpg" alt="Martin_Fischer">
     <div class="overlay">
       <span class="text">Watch video</span>
@@ -34,7 +34,7 @@ We are pleased to invite you to the next LIBRE Hub seminars, which will take pla
 <br>
 
 <div class="thumbnail-container">
-  <a href="hhttps://www.youtube.com/watch?v=LwiI1VFJBCI">
+  <a href="https://www.youtube.com/watch?v=LwiI1VFJBCI">
     <img class="thumbnail" src="http://img.youtube.com/vi/LwiI1VFJBCI/0.jpg" alt="Mathias_Fischer">
     <div class="overlay">
       <span class="text">Watch video</span>

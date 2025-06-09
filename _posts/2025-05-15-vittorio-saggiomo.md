@@ -3,7 +3,7 @@ title: Open Hardware Microfluidics
 speaker: Vittorio Saggiomo
 video: 
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/vittorio-saggiomo-flyer.png
 ---
 
