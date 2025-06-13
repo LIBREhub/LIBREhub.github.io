@@ -1,13 +1,24 @@
 ---
 title: 3D Printed Lenses | Rapid prototyping and low-cost microscopy for the life sciences
 speaker: Liam Rooney
-video: 
+video: https://youtu.be/wk1wJ311STU?feature=shared 
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/liam_rooney_flyer.png
 ---
 
 ## 3D Printed Lenses: Rapid prototyping and low-cost microscopy for the life sciences
+<br>
+
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=wk1wJ311STU">
+    <img class="thumbnail" src="http://img.youtube.com/vi/wk1wJ311STU/0.jpg" alt="Liam_Rooney">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
 <br>
 
 **Overview:** 

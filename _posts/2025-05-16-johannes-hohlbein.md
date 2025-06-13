@@ -3,7 +3,7 @@ title: Open microscopy in the life sciences - Sharing is caring
 speaker: Johannes Hohlbein
 video: 
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/johannes-hohlbein-flyer.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Open SPM | A Modular Framework for Scanning Probe Microscopy
-speaker: Liam Rooney
+speaker: Marcos Penedo Garcia
 video: 
 description: LIBRE_hub seminar
 categories: newseminar
