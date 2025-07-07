@@ -7,6 +7,7 @@ docu:
 ---
 
 # Obtaining your first spin-echo with a low-cost open-source MRI system
+<br>
 
 ## Información general
 
