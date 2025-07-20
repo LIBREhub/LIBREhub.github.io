@@ -139,22 +139,22 @@ Learn from a variety of tutorials how to design, implement, and mantain your sci
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <!-- Row 1, Column 1 - Most Recent -->
-  <iframe width="100%" height="200" src="https://www.youtube.com/embed/A3Lw_8_oQJA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/RI_kraPcHuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <!-- Row 1, Column 2 -->
-  <iframe width="100%" height="200" src="https://www.youtube.com/embed/cSNZmeBIRxk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/rvYHb9Ei2II" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
   <!-- Row 2, Column 1 -->
-  <iframe width="100%" height="200" src="https://www.youtube.com/embed/HJIJut-Y3NQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-  <!-- Row 2, Column 2 -->
   <iframe width="100%" height="200" src="https://www.youtube.com/embed/vpHu86Fw6s4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+  <!-- Row 2, Column 2 -->
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/HJIJut-Y3NQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
   <!-- Row 3, Column 1 -->
-  <iframe width="100%" height="200" src="https://www.youtube.com/embed/rvYHb9Ei2II" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/cSNZmeBIRxk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <!-- Row 3, Column 2 -->
-  <iframe width="100%" height="200" src="https://www.youtube.com/embed/RI_kraPcHuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="200" src="https://www.youtube.com/embed/A3Lw_8_oQJA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <!-- Row 4, Column 1 -->
   <iframe width="100%" height="200" src="https://www.youtube.com/embed/WCRBXNT_IMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
