@@ -4,22 +4,62 @@ title: Resources
 permalink: /sources/
 ---
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script>
-  $(document).ready(function() {
-    $('.toggle-text').click(function() {
-      var content = $(this).next('.content');
-      content.slideToggle();
-
-      if ($(this).text() === 'Show more') {
-        $(this).text('Show less');
-      } else {
-        $(this).text('Show more');
-      }
+  // Fallback to vanilla JS if jQuery fails to load
+  function initializeToggle() {
+    const toggleElements = document.querySelectorAll('.toggle-text');
+    
+    toggleElements.forEach(function(element) {
+      element.addEventListener('click', function() {
+        const content = this.nextElementSibling;
+        
+        if (content && content.classList.contains('content')) {
+          // Toggle visibility
+          if (content.style.display === 'none' || content.style.display === '') {
+            content.style.display = 'block';
+            this.textContent = 'Show less';
+            
+            // Load iframes when content becomes visible
+            const iframes = content.querySelectorAll('iframe[data-src]');
+            iframes.forEach(function(iframe) {
+              iframe.src = iframe.getAttribute('data-src');
+              iframe.removeAttribute('data-src');
+            });
+          } else {
+            content.style.display = 'none';
+            this.textContent = 'Show more';
+          }
+        }
+      });
     });
-  });
-</script>
+  }
 
+  // Try jQuery first, fallback to vanilla JS
+  if (typeof jQuery !== 'undefined') {
+    $(document).ready(function() {
+      $('.toggle-text').click(function() {
+        var content = $(this).next('.content');
+        content.slideToggle();
+
+        if ($(this).text() === 'Show more') {
+          $(this).text('Show less');
+          
+          // Load iframes when content becomes visible
+          content.find('iframe[data-src]').each(function() {
+            $(this).attr('src', $(this).attr('data-src'));
+            $(this).removeAttr('data-src');
+          });
+        } else {
+          $(this).text('Show more');
+        }
+      });
+    });
+  } else {
+    // Fallback if jQuery doesn't load
+    document.addEventListener('DOMContentLoaded', initializeToggle);
+  }
+</script>
 
 <style>
   .toggle-text {
