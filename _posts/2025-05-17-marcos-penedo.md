@@ -1,13 +1,24 @@
 ---
 title: Open SPM | A Modular Framework for Scanning Probe Microscopy
 speaker: Marcos Penedo Garcia
-video: 
+video: https://youtu.be/lekD3Cu1QWs?feature=shared 
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/marcos-penedo-flyer.png
 ---
 
 ## Open SPM: A Modular Framework for Scanning Probe Microscopy
+<br>
+
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=lekD3Cu1QWs">
+    <img class="thumbnail" src="http://img.youtube.com/vi/lekD3Cu1QWs/0.jpg" alt="marcos-penedo">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
 <br>
 
 **Overview:** 
