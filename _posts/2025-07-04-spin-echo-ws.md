@@ -29,4 +29,6 @@ Este evento está organizado por LIBRE hub y se realizará de manera presencial 
 
 ## Inscripción
 
-Los cupos son limitados, por lo que sugerimos registrarse lo antes posible completando este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd5rhw-gmrYHf-UxecRKFal0eZMdPABExGfYX4HxMZ0R2U7FA/viewform). Las inscripciones estarán abiertas hasta el **lunes 28 de julio**.
+**Actualización:** Las inscripciones se cerraron el **lunes 28 de julio**.
+
+Los cupos son limitados, por lo que sugerimos registrarse lo antes posible completando este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd5rhw-gmrYHf-UxecRKFal0eZMdPABExGfYX4HxMZ0R2U7FA/viewform). 
