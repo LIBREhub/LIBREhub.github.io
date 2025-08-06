@@ -1,8 +1,8 @@
 ---
 title: Scaling Up Bioimaging with Microfluidic Chips
 description: LIBRE hub workshop
-categories: workshop
-header-img: images/workshops/SpinEcho_EN_2025.png
+categories: newworkshop
+header-img: images/workshops/Micro-Bio_2025.png
 docu: 
 ---
 
