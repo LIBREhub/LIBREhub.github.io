@@ -1,7 +1,7 @@
 ---
 title: Obtaining your first spin-echo with a low-cost open-source MRI system
 description: LIBRE hub workshop
-categories: newworkshop
+categories: workshop
 header-img: images/workshops/SpinEcho_EN_2025.png
 docu: 
 ---
