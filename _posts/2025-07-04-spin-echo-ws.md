@@ -74,6 +74,9 @@ Este evento fue organizado por LIBRE hub y se realizó de manera presencial en l
 |Tunning and matching, Diseño de Antena, Impedancia equivalente del circuito, Procedimiento con el VNA| MSc. Belén Bravo| [En proceso](https://www.youtube.com/@librehub) | [Disponible](https://drive.google.com/drive/folders/1Iea1H1OBMr-_uDRgMk7PrL4dZOyOEJoz)|
 |RF Coil and Noise, VNA measurements, Spin Echo Process| Dr. Joshua Harper| [En proceso](https://www.youtube.com/@librehub) | [Disponible](https://drive.google.com/drive/folders/1Iea1H1OBMr-_uDRgMk7PrL4dZOyOEJoz)|
 
+## Certificación
+[Aquí](/certificates/SpinEcho_2025/) encontrarás el certificado de participación del taller.
+
 ## Galería de fotografías
 Visita nuestra <a href="https://www.flickr.com/photos/197037882@N02/albums/">galería (Flickr)</a> para ver las fotos de este taller.
 
