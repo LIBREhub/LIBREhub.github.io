@@ -70,9 +70,9 @@ Este evento fue organizado por LIBRE hub y se realizó de manera presencial en l
 
 | Contenido         | Expositor(a) | Grabación | Presentación  |
 |-------------------|-------|-----------|----------|
-| Overview of MRI, Off-resonance in Gradient Echo, Measuring the field, Off-resonance in Spin Echo, RF excitation + readout|Dr. Pablo Irarrázaval| [En proceso](https://www.youtube.com/@librehub) | [Disponible](https://drive.google.com/drive/folders/1Iea1H1OBMr-_uDRgMk7PrL4dZOyOEJoz)|
+| Overview of MRI, Off-resonance in Gradient Echo, Measuring the field, Off-resonance in Spin Echo, RF excitation + readout|Dr. Pablo Irarrázaval| [Disponible](https://youtu.be/n_b22riN4oQ?feature=shared) | [Disponible](https://drive.google.com/drive/folders/1Iea1H1OBMr-_uDRgMk7PrL4dZOyOEJoz)|
 |Tunning and matching, Diseño de Antena, Impedancia equivalente del circuito, Procedimiento con el VNA| MSc. Belén Bravo| [En proceso](https://www.youtube.com/@librehub) | [Disponible](https://drive.google.com/drive/folders/1Iea1H1OBMr-_uDRgMk7PrL4dZOyOEJoz)|
-|RF Coil and Noise, VNA measurements, Spin Echo Process| Dr. Joshua Harper| [En proceso](https://www.youtube.com/@librehub) | [Disponible](https://drive.google.com/drive/folders/1Iea1H1OBMr-_uDRgMk7PrL4dZOyOEJoz)|
+|RF Coil and Noise, VNA measurements, Spin Echo Process| Dr. Joshua Harper| [Disponible](https://youtu.be/srZ1qL2F2_s?feature=shared) | [Disponible](https://drive.google.com/drive/folders/1Iea1H1OBMr-_uDRgMk7PrL4dZOyOEJoz)|
 
 ## Certificación
 [Aquí](/certificates/SpinEcho_2025/) encontrarás el certificado de participación del taller.
