@@ -26,7 +26,9 @@ docu:
 - Sponsor: Chan Zuckerberg Initiative (CZI)
 
 📝 **Registration:**
-As spaces and materials are limited, we encourage you to secure your spot as soon as possible. To register, please complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScvdtn9Vbfd0bY46JZhkVSZ4dmkT_Fw6nwgb4Ri5QCkmpfflQ/viewform).
+The registration form is now closed. We are currently reviewing the applications and will be contacting the selected participants soon.
+
+<!--As spaces and materials are limited, we encourage you to secure your spot as soon as possible. To register, please complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScvdtn9Vbfd0bY46JZhkVSZ4dmkT_Fw6nwgb4Ri5QCkmpfflQ/viewform).-->
 
 _Note 1:_ Registration does not guarantee participation in the workshop
 
