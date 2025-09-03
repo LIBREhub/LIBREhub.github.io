@@ -1,7 +1,7 @@
 ---
 title: Regain control of your instruments - Open software for scientific instruments
 speaker: Hernan Grecco
-video: 
+video: https://youtu.be/G8hvRjKUmU4?feature=shared
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/hernan-grecco-flyer.png
