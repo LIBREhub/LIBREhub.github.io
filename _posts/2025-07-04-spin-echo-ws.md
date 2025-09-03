@@ -82,4 +82,11 @@ Visita nuestra <a href="https://www.flickr.com/photos/197037882@N02/albums/">gal
 
 **NOTA:** Si compartes alguna de las imágenes en redes sociales, por favor, usa el hashtag #LIBREhub en la descripción o etiquetanos en tu publicación.
 
+<span style="display: block; margin-bottom: 2em"></span>
+
+<p float="center">
+  <img src="/images/workshops/spin-echo-2025-ES.png" height=500 align='left'>
+  <img src="/images/workshops/spin-echo-2025-EN.png" height=500 align='right'>
+</p>
+
 <br>

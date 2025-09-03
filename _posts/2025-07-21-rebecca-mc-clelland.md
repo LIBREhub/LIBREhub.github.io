@@ -3,7 +3,7 @@ title: The SIMple microscope | Development of a fibre-based platform for accessi
 speaker: Rebecca McClelland
 video: 
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/rebecca-mc-clelland-flyer.jpg
 ---
 
