@@ -10,6 +10,17 @@ header-img: images/seminars/hernan-grecco-flyer.png
 ## Regain control of your instruments: Open software for scientific instruments
 <br>
 
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=G8hvRjKUmU4">
+    <img class="thumbnail" src="http://img.youtube.com/vi/G8hvRjKUmU4/0.jpg" alt="hernan-grecco">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
+<br>
+
 **Overview:** 
 The open science revolution is reshaping how I—and many others—approach research, promoting transparency, collaboration, and innovation across disciplines. At the core of this shift is a growing ecosystem of open tools, both software and hardware, that help overcome traditional barriers and enable more inclusive, sustainable science. In my work, I’ve contributed to this movement through projects like PyVISA, which simplify instrument control and extend the usability of lab equipment. In this talk, I’ll share how open tools—from modular optical setups to open-source spectroscopy platforms—are tackling challenges like outdated proprietary systems, limited funding, and the need for accessible, shareable knowledge. With a focus on optics, microscopy, and spectroscopy, I’ll share real-world examples that demonstrate how these tools democratize access to advanced technology and foster a more collaborative scientific culture. Along the way, I’ll also share what I got right, what I got wrong, and what I’m still figuring out—because open science isn’t just about tools, but about the process of learning and building together.
 

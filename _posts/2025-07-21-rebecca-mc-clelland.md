@@ -1,13 +1,24 @@
 ---
 title: The SIMple microscope | Development of a fibre-based platform for accessible SIM imaging in unconventional environments
 speaker: Rebecca McClelland
-video: 
+video: https://youtu.be/n5V-c047jhs?feature=shared
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/rebecca-mc-clelland-flyer.jpg
 ---
 
 ## The SIMple microscope: Development of a fibre-based platform for accessible SIM imaging in unconventional environments
+<br>
+
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=n5V-c047jhs">
+    <img class="thumbnail" src="http://img.youtube.com/vi/n5V-c047jhs/0.jpg" alt="rebecca-mc-clelland">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
 <br>
 
 **Overview:** 
