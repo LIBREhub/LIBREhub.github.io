@@ -3,7 +3,7 @@ title: Introduction to protocols.io | Scientific collaboration through open prot
 speaker: Lenny Teytelman
 video: 
 description: LIBRE_hub seminar
-categories: 
+categories: newseminar
 header-img: images/seminars/lenny-teytelman-flyer-v1.png
 ---
 
