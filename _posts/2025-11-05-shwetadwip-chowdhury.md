@@ -4,7 +4,7 @@ speaker: Shwetadwip Chowdhury
 video: 
 description: LIBRE_hub seminar
 categories: newseminar
-header-img: images/seminars/shwetadwip-chowdhury-flyer-v1.png
+header-img: images/seminars/shwetadwip-chowdhury-flyer.png
 ---
 
 ## Computational bio-imaging via inverse scattering
