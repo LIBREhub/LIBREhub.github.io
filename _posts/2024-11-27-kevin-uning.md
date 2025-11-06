@@ -1,13 +1,24 @@
 ---
 title: A modular Raman spectroscopy setup with an open-source controller
 speaker: Kevin Uning
-video:
+video: https://youtu.be/b9Qcnd-NsqI?si=6hFC7PMwshRqBKcU
 description: LIBRE_hub seminar
 categories: seminar
 header-img: images/seminars/kevin_uning_flyer.jpg
 ---
 
 ## Open Raman Microscopy (ORM): A modular Raman spectroscopy setup with an open-source controller
+<br>
+
+<div class="thumbnail-container">
+  <a href="https://www.youtube.com/watch?v=b9Qcnd-NsqI">
+    <img class="thumbnail" src="http://img.youtube.com/vi/b9Qcnd-NsqI/0.jpg" alt="kevin-uning">
+    <div class="overlay">
+      <span class="text">Watch video</span>
+    </div>
+  </a>
+</div>
+
 <br>
 
 ### Overview
