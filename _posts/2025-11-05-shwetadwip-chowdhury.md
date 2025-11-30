@@ -3,7 +3,7 @@ title: Computational bio-imaging via inverse scattering
 speaker: Shwetadwip Chowdhury
 video: 
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/shwetadwip-chowdhury-flyer.png
 ---
 
