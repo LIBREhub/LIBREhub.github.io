@@ -3,7 +3,7 @@ title: 09 December 2025 | Human Reference Atlas and Data Visualization Construct
 speaker: Katy Börner
 video: 
 description: LIBRE_hub seminar
-categories: newseminar
+categories: seminar
 header-img: images/seminars/katy-borner-flyer.png
 ---
 
