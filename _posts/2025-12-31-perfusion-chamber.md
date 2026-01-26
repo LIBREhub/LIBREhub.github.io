@@ -150,5 +150,6 @@ Before experiments, test the flow and verify that the "spiral" connectors are se
 
 Access the CAD files and repositories below:
 
-* [Onshape Project \- Perfusion Chamber](https://www.onshape.com/)  
-* [STL Repositories \- LabParot](https://www.google.com/search?q=https://github.com/vparot/)
+* [Onshape Project \- Perfusion Chamber](https://cad.onshape.com/documents/721bbe5a4b1296f27af3aafb/w/460d31077fb82401d0299627/e/1e9bbb884e913f05608eac55)
+* [Onshape Project \- Perfusion Chamber Lid](https://cad.onshape.com/documents/613f09d750e931dd1a071ea2/w/e4f7ef9135bd42c92d71869c/e/70f7b72795362207fb255be1)
+* [Onshape Project \- Syringe holder for flat shelf](https://cad.onshape.com/documents/096c25a9298dd8889e4dec74/w/c5e233639d356c6856bc744c/e/240705b285462483907fc860)
