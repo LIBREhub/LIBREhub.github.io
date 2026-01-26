@@ -139,7 +139,7 @@ Before experiments, test the flow and verify that the "spiral" connectors are se
 <img class="pfloat-right" src="/images/resources/perfusion-chamber/image41.jpeg" width="24%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 <img class="pfloat-left" src="/images/resources/perfusion-chamber/image42.jpeg" width="45%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/perfusion-chamber/image46.jpeg" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image43.jpeg" width="45%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
 
