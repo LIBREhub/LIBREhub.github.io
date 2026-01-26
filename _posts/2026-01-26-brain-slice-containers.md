@@ -13,13 +13,13 @@ In the preparation of acute brain slices for all-optical neurophysiology, a crit
 
 Standard beakers can often lead to tissue damage due to overcrowding or direct contact with gas bubbles. This modular, 3D-printed support system allows slices to be held safely within commercial cell strainers while floating at the surface of the ACSF, ensuring optimal gas exchange and structural integrity of the delicate neuronal tissue.
 
-*Note: This system is designed to complement our [3D Printed Perfusion Chamber](https://www.google.com/search?q=/2025/12/31/perfusion-chamber.html), which is used for the subsequent imaging phase.*
+*Note: This system is designed to complement our [3D Printed Perfusion Chamber](/2025/12/31/perfusion-chamber.html), which is used for the subsequent imaging phase.*
 
 #### **Components and Tools**
 
 | Qty | Component | Specifications | Provider |
 | :---- | :---- | :---- | :---- |
-| 5 | Cell Strainer | 115x105 and 70 µm mesh | [AJJ Healthcare](https://www.google.com/search?q=https://www.ajjhealthcare.com/biosharp-traditional-style-cell-strainer) |
+| 5 | Cell Strainer | 70 µm mesh | [AliExpress](https://aliexpress.com/item/1005009494111174.html) |
 | 1 | 3D Printed Parts | PLA (for buoyancy) | [Onshape Project](https://cad.onshape.com/documents/f37e3f4302cd2f2da1fea37b/w/a29b61acbcf7e4ace5caf919/e/61acb32bcce148ea2dd65650) |
 | 1 | Beaker | 1 Liter (Glass) | Local Supply |
 
