@@ -37,17 +37,12 @@ This guide provides a detailed walkthrough for building a complete perfusion sys
 
 The chamber was designed in [Onshape](https://www.onshape.com/) to ensure unidirectional flow. The geometry includes specific landing areas for samples and optimized entry/exit ports. A "spiral" interface was integrated to match standard plastic flow regulation pieces, ensuring a secure, leak-free tubing connection.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image31.jpeg" width="45%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image32.jpeg" width="45%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
-
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image33.jpeg" width="45%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image36.jpeg" width="45%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image31.jpeg" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image32.jpeg" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image33.jpeg" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image36.jpeg" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
 **Printing Protocol:**
 
@@ -55,66 +50,51 @@ The chamber was designed in [Onshape](https://www.onshape.com/) to ensure unidir
 2. **Resin Selection:** Use transparent resin for optical clarity.  
 3. **Start Print:** Monitor the first layers to ensure adhesion.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image1.jpeg" width="33%" loading="lazy" data-action=zoom\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image1.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image2.png" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image3.jpeg" width="33%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image2.png" width="33%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image3.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
 
 **Washing and Curing:**
 
 * **Washing:** Remove parts and wash in Isopropyl Alcohol (IPA) to remove residue.  
 * **Curing:** Use a UV chamber (e.g., Creality UW-03) to fully polymerize the parts.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image4.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image5.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image6.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image7.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image4.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image5.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image6.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image7.jpeg" width="24%" loading="lazy" data-action=zoom>
 
 #### **2\. Post-Processing and Assembly**
 
 **Refinement:**
 
-Sand the edges and Luer Lock adapter until perfectly smooth. The basal part of the lid must be sanded to be slightly porous to improve the epoxy bond.
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image8.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image9.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image10.jpeg" width="33%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image8.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image9.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image10.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
 
 **Chamber and Base Assembly:**
 
 Apply clear epoxy to the bottom of the chamber and press it onto the 107x50mm glass base. Install the 4mm magnet into the recess.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image11.jpeg" width="33%" loading="lazy" data-action=zoom\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image11.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image12.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image13.jpeg" width="33%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image12.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image13.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
 
 **The Lid and Final Sealing:**
 
 Secure the coverslip to the porous base of the lid frame using epoxy. Seal the entire chamber to the glass base using acetic silicone to ensure no leaks.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image14.jpeg" width="33%" loading="lazy" data-action=zoom\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image14.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image15.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image45.jpeg" width="33%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image15.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image45.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
 
 #### **3\. Setup Integration**
 
@@ -122,59 +102,46 @@ Secure the coverslip to the porous base of the lid frame using epoxy. Seal the e
 
 Mount 100mL syringes in holders. Connect them to the chamber entry via Luer adapters and Tygon tubing, including an inline flow regulator.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image20.jpeg" width="24%" loading="lazy" data-action=zoom\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image20.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image21.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image22.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image24.jpeg" width="24%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image21.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image22.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image24.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
 
 **Suction and Waste:**
 
 The magnetic suction tip allows for millimetric adjustment of the fluid level. Connect this to the peristaltic pump and waste container.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image18.jpeg" width="33%" loading="lazy" data-action=zoom\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image18.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image19.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image23.jpeg" width="33%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image19.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image23.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
 
 **Gasification (Carbogen):**
 
 Install the gas network from the Carbogen cylinder. Use a bifurcation to oxygenate both the reservoir and the ex-vivo slices.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image26.jpeg" width="33%" loading="lazy" data-action=zoom\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image26.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image27.jpeg" width="33%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image28.jpeg" width="33%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image27.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image28.jpeg" width="33%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
 
 **Final System Check:**
 
 Before experiments, test the flow and verify that the "spiral" connectors are secure.
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image38.jpeg" width="24%" loading="lazy" data-action=zoom\>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image38.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image39.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image40.jpeg" width="24%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image41.jpeg" width="24%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
+<img class="pfloat-left" src="/images/resources/perfusion-chamber/image42.jpeg" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/perfusion-chamber/image46.jpeg" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image39.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image40.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image41.jpeg" width="24%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
-
-\<img class="pfloat-left" src="/images/resources/perfusion-chamber/image42.jpeg" width="45%" loading="lazy" data-action=zoom\>
-
-\<img class="pfloat-right" src="/images/resources/perfusion-chamber/image46.jpeg" width="45%" loading="lazy" data-action=zoom\>
-
-\<div style="clear:both;"\>\</div\>
 
 #### **Design Files**
 
