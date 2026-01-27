@@ -25,13 +25,13 @@ The driver box has one analog input for intensity control of the driver, and fou
 
 | Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
-| 1 | Soldering iron | 60W Adjustable temperature | [AliExpress](https://es.aliexpress.com/item/1005007970187200.html) |
-| 1 | Soldering wire | 0.8 mm, flux core | [AliExpress](https://es.aliexpress.com/item/1005008695639704.html) |
-| 1 | Hot air gun | | [AliExpress](https://es.aliexpress.com/item/1005007010056491.html) |
+| 1 | Soldering iron | 60W Adjustable temperature | [AliExpress](https://www.aliexpress.com/item/1005007970187200.html) |
+| 1 | Soldering wire | 0.8 mm, flux core | [AliExpress](https://www.aliexpress.com/item/1005008695639704.html) |
+| 1 | Hot air gun | | [AliExpress](https://www.aliexpress.com/item/1005007010056491.html) |
 | 1 | Allen key | M3 | AliExpress |
 | 1 | Allen key | M6 | [GrabCAD](https://grabcad.com/library/6mm-allen-wrench-1) |
-| 1 | Screwdriver | 0.6 mm flat blade | [AliExpress](https://es.aliexpress.com/item/1005008304338583.html) |
-| 1 | Wire cutter | Diagonal pliers, any size | [AliExpress](https://es.aliexpress.com/item/4000988113226.html) |
+| 1 | Screwdriver | 0.6 mm flat blade | [AliExpress](https://www.aliexpress.com/item/1005008304338583.html) |
+| 1 | Wire cutter | Diagonal pliers, any size | [AliExpress](https://www.aliexpress.com/item/4000988113226.html) |
 | 1 | Multimeter | | Any |
 | 1 | Oscilloscope | | Any |
 
@@ -39,15 +39,15 @@ The driver box has one analog input for intensity control of the driver, and fou
 
 | Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
-| 1 | Power Supply Module | 5V/3.3V for Breadboard | [AliExpress](https://es.aliexpress.com/item/1005001621899532.html) |
-| 1 | Charging Module | TP4056 USB-C | [AliExpress](https://es.aliexpress.com/item/32818058518.html) |
-| 1 | MOSFET | IRLZ44N | [AliExpress](https://es.aliexpress.com/item/1005008120572312.html) |
-| 4 | Transistor | 2N2222 | [AliExpress](https://es.aliexpress.com/item/1005007720496827.html) |
-| 5 | Resistor | 10k Ohm | [AliExpress](https://es.aliexpress.com/item/1005005698974060.html) |
-| 5 | Resistor | 220 Ohm | [AliExpress](https://es.aliexpress.com/item/1005005698974060.html) |
-| 5 | LED | 5mm Blue | [AliExpress](https://es.aliexpress.com/item/1005008495577170.html) |
-| 1 | Ammeter | Analog 85C1 (0-1A) | [AliExpress](https://es.aliexpress.com/item/4000067677334.html) |
-| 1 | Potentiometer | 10k Ohm | [AliExpress](https://es.aliexpress.com/item/32810872544.html) |
+| 1 | Power Supply Module | 5V/3.3V for Breadboard | [AliExpress](https://www.aliexpress.com/item/1005001621899532.html) |
+| 1 | Charging Module | TP4056 USB-C | [AliExpress](https://www.aliexpress.com/item/32818058518.html) |
+| 1 | MOSFET | IRLZ44N | [AliExpress](https://www.aliexpress.com/item/1005008120572312.html) |
+| 4 | Transistor | 2N2222 | [AliExpress](https://www.aliexpress.com/item/1005007720496827.html) |
+| 5 | Resistor | 10k Ohm | [AliExpress](https://www.aliexpress.com/item/1005005698974060.html) |
+| 5 | Resistor | 220 Ohm | [AliExpress](https://www.aliexpress.com/item/1005005698974060.html) |
+| 5 | LED | 5mm Blue | [AliExpress](https://www.aliexpress.com/item/1005008495577170.html) |
+| 1 | Ammeter | Analog 85C1 (0-1A) | [AliExpress](https://www.aliexpress.com/item/4000067677334.html) |
+| 1 | Potentiometer | 10k Ohm | [AliExpress](https://www.aliexpress.com/item/32810872544.html) |
 | 1 | LED Driver | BuckBlock A009-D-V-1000 | [LEDSupply](https://www.ledsupply.com/led-drivers/buckblock-dc-led-driver) |
 | 1 | Jumper Cables | For 12V LED Strip | [LEDSupply](https://www.ledsupply.com/accessories/jumper-cables-12v-led-strip-light) |
 
@@ -55,9 +55,9 @@ The driver box has one analog input for intensity control of the driver, and fou
 
 | Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
-| 20 | Heat Inserts | M3 x 5mm x 4mm | [AliExpress](https://es.aliexpress.com/item/32810872544.html) |
-| 20 | Screws | M3 x 6mm | [AliExpress](https://es.aliexpress.com/item/32818058518.html) |
-| 4 | Screws | M3 x 10mm | [AliExpress](https://es.aliexpress.com/item/32818058518.html) |
+| 20 | Heat Inserts | M3 x 5mm x 4mm | [AliExpress](https://www.aliexpress.com/item/32810872544.html) |
+| 20 | Screws | M3 x 6mm | [AliExpress](https://www.aliexpress.com/item/32818058518.html) |
+| 4 | Screws | M3 x 10mm | [AliExpress](https://www.aliexpress.com/item/32818058518.html) |
 | 1 | Filament | PLA+ | Esun |
 
 ---
