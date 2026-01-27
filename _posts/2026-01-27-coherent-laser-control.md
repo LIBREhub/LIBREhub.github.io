@@ -11,12 +11,11 @@ header-img: /images/resources/high-coherence-laser/image9.png
 
 This project is our own attempt at testing, refining, and adapting an online report of a DIY laser interferometer for use in interferometric microscopy. The goal is to use low-cost means to control a laser diode to generate a stable single-mode output.
 
-The reference project is similar; however, its design aims to be used in a length measurement arm, whereas we would like to use a free-space output beam to illuminate the excitation path of a fluorescence microscopy system. The videos describing the source project are available here:
-* [Laser Interferometer - Part 1: The Optical Design](https://www.youtube.com/watch?v=v8gaEqHa1r0)
-* [Laser Interferometer - Part 2: Building the beam splitter](https://www.youtube.com/watch?v=AZ9-UrlGOcE)
-* [Laser Interferometer - Part 3: Mechanical Design](https://www.youtube.com/watch?v=0vnV1S7gBCE)
+The reference project is similar; however, its design aims to be used in a length measurement arm, whereas we would like to use a free-space output beam to illuminate the excitation path of a fluorescence microscopy system. The videos describing the source project are linked in the bottom of this page.
 
 #### **Project Summary**
+
+An accompanying video tutorial can be found [in YouTube](https://youtu.be/bAREZVwILKA).
 
 The project consists of the design and construction of an electronic and optical control system destined to stabilize the wavelength emitted by a laser diode, with the aim of obtaining a light source of high temporal coherence at a low cost. This initiative seeks to develop an accessible alternative to high-precision commercial lasers, whose price is often prohibitive in the Latin American market.
 
@@ -192,3 +191,11 @@ Once fringes are achieved, modify the setup to include the mirror.
 * **Light Blue Rectangle:** Newly included mirror.
 
 When fringes are achieved with the largest optical path difference possible (considering the base dimensions), mark the positions on the base. Remove the double-sided tape, clean the components, and glue them permanently using epoxy.
+
+---
+
+### **References**
+
+* [Laser Interferometer - Part 1: The Optical Design](https://www.youtube.com/watch?v=v8gaEqHa1r0)
+* [Laser Interferometer - Part 2: Building the beam splitter](https://www.youtube.com/watch?v=AZ9-UrlGOcE)
+* [Laser Interferometer - Part 3: Mechanical Design](https://www.youtube.com/watch?v=0vnV1S7gBCE)
