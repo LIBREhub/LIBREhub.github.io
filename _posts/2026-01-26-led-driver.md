@@ -1,152 +1,191 @@
 ---
-title: Low-cost Four-Channel LED Driver
-description: A budget-friendly wrapper for high-power LED control in optogenetics and microscopy.
+title: Low-cost LED Driver
+description: A budget-friendly, four-channel LED driver for high-power optogenetics and microscopy, featuring analog intensity control and digital switching.
 categories: resource
-header-img: /images/resources/led-driver/image18.png
+header-img: /images/resources/led-driver/image30.png
 ---
 
 *Developed by Florencia Novillo, Andres Mendoza, and Vicente Parot. Part of LIBRE\_hub.*
 
-## **Budget-Friendly LED Control for Bioimaging**
+## **Low-cost LED Driver**
 
-This circuit is a budget-friendly alternative to commercial LED/laser diode drivers (e.g., Thorlabs DC4100-HUB). It allows control of high-power LEDs used in optogenetics and microscopy. It is a four-channel LED Driver built as a wrapper to a single analog-adjustable, commercial LED driver that operates as a constant current source.
+This circuit is a budget-friendly alternative to commercial LED/laser diode drivers (e.g., Thorlabs DC4100-HUB). It allows control of high-power LEDs used in optogenetics and microscopy. It is a four-channel LED Driver built as a wrapper to a single analog-adjustable, commercial LED driver that operates as a constant current source. 
 
-The driver box features:
-
-* One **analogue input** for intensity control.  
-* Four **digital inputs** to switch 4 LEDs independently.  
-* **Manual controls** to bypass any of the 5 inputs.  
-* A **potentiometer** for manual intensity adjustment.  
-* An optional **analog ammeter** to monitor output current.
+The driver box has one analog input for intensity control of the driver, and four digital inputs to switch 4 LEDs independently. There are also manual controls to bypass any of the 5 inputs, a potentiometer to manually adjust the intensity, and an optional analog ammeter to monitor output current.
 
 #### **Components and Tools**
 
-**Equipment and Tools**
-
-| Qty | Component | Specifications | Supplier | Price (USD) |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | 3D printer | e.g. Ender 3 | Creality | 199.0 |
-| 1 | Soldering iron | 60W Adjustable temperature | [AliExpress](https://www.google.com/search?q=https://www.aliexpress.com/item/1005005934571060.html) | 3.89 |
-| 1 | Soldering wire | 0.8 mm, flux core | [AliExpress](https://www.google.com/search?q=https://www.aliexpress.com/item/1005006000213454.html) | 1.64 |
-| 1 | Hot air gun | | [AliExpress](https://www.google.com/search?q=https://www.aliexpress.com/item/1005005953046774.html) | 7.38 |
-| 1 | Allen key | M3 | [AliExpress](https://www.google.com/search?q=https://www.aliexpress.com/item/1005005953046774.html) | 0.69 |
-| 1 | Wire cutter | Diagonal pliers | [AliExpress](https://www.google.com/search?q=https://www.aliexpress.com/item/1005005470366668.html) | 0.99 |
-| 1 | Wire stripper | Stripper and crimper | [AliExpress](https://www.google.com/search?q=https://www.aliexpress.com/item/1005005470366668.html) | 3.91 |
-
-**Electronics (BOM \- Pre-soldered PCB Option)**
-
-| Qty | Component | Specifications | Supplier | Price (USD) |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | PCB | [Soldered, Gerber/BOM/SC available](https://jlcpcb.com/) | JLC PCB | 22.00 |
-| 1 | Buckblock | [A009-D-V-1000; 1A](https://www.google.com/search?q=https://www.ledsupply.com/led-drivers/buckblock-constant-current-led-driver) | LEDSupply | 21.77 |
-| 1 | Power Module | [100W USB-C PD Trigger](https://www.google.com/search?q=https://www.aliexpress.com/item/1005005961474944.html) | AliExpress | 1.24 |
-| 4 | MOSFET | [IRLZ44N](https://www.google.com/search?q=https://www.aliexpress.com/item/32828691515.html) | AliExpress | 0.99 |
-| 8 | BJT | [2N2222](https://www.google.com/search?q=https://www.aliexpress.com/item/32850989392.html) | AliExpress | 0.99 |
-| 5 | Female BNC | [Elbow, through-hole](https://www.google.com/search?q=https://www.aliexpress.com/item/1005004128505581.html) | AliExpress | 4.65 |
-| 1 | Potentiometer | [Rotary 22 kΩ](https://www.google.com/search?q=https://www.aliexpress.com/item/32847055745.html) | AliExpress | 1.09 |
-| 1 | Ammeter | [0-1 A Analog](https://www.google.com/search?q=https://www.aliexpress.com/item/32851167817.html) | AliExpress | 3.02 |
-| 4 | Barrel jack | [2.1 mm DC](https://www.google.com/search?q=https://www.aliexpress.com/item/32958448661.html) | AliExpress | 1.03 |
-
-**3D Printed Case Parts**
-
-| Component | Specifications | Supplier | Price (USD) |
+**Equipment**
+| Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
-| Case | Top and bottom. Stl file | \[Download Placeholder\] | 0 |
-| PLA filament | 1.75 mm | [Esun](https://www.esun3d.com/) | 50.99 |
-| Heat inserts | M3(OD4.2mm), 6mm | [AliExpress](https://www.google.com/search?q=https://www.aliexpress.com/item/1005005961474944.html) | 0.99 |
+| 1 | 3D printer | e.g. Ender 3 | Creality |
 
-#### **1\. 3D Printing and Preparation**
+**Tools**
+| Qty | Component | Specifications | Supplier |
+| :--- | :--- | :--- | :--- |
+| 1 | Soldering iron | 60W Adjustable temperature | [AliExpress](https://es.aliexpress.com/item/1005007970187200.html) |
+| 1 | Soldering wire | 0.8 mm, flux core | [AliExpress](https://es.aliexpress.com/item/1005008695639704.html) |
+| 1 | Hot air gun | | [AliExpress](https://es.aliexpress.com/item/1005007010056491.html) |
+| 1 | Allen key | M3 | AliExpress |
+| 1 | Allen key | M6 | [GrabCAD](https://grabcad.com/library/6mm-allen-wrench-1) |
+| 1 | Screwdriver | 0.6 mm flat blade | [AliExpress](https://es.aliexpress.com/item/1005008304338583.html) |
+| 1 | Wire cutter | Diagonal pliers, any size | [AliExpress](https://es.aliexpress.com/item/4000988113226.html) |
+| 1 | Multimeter | | Any |
+| 1 | Oscilloscope | | Any |
 
-**Step 1: Printer Settings**
+**Electronics**
+| Qty | Component | Specifications | Supplier |
+| :--- | :--- | :--- | :--- |
+| 1 | Power Supply Module | 5V/3.3V for Breadboard | [AliExpress](https://es.aliexpress.com/item/1005001621899532.html) |
+| 1 | Charging Module | TP4056 USB-C | [AliExpress](https://es.aliexpress.com/item/32818058518.html) |
+| 1 | MOSFET | IRLZ44N | [AliExpress](https://es.aliexpress.com/item/1005008120572312.html) |
+| 4 | Transistor | 2N2222 | [AliExpress](https://es.aliexpress.com/item/1005007720496827.html) |
+| 5 | Resistor | 10k Ohm | [AliExpress](https://es.aliexpress.com/item/1005005698974060.html) |
+| 5 | Resistor | 220 Ohm | [AliExpress](https://es.aliexpress.com/item/1005005698974060.html) |
+| 5 | LED | 5mm Blue | [AliExpress](https://es.aliexpress.com/item/1005008495577170.html) |
+| 1 | Ammeter | Analog 85C1 (0-1A) | [AliExpress](https://es.aliexpress.com/item/4000067677334.html) |
+| 1 | Potentiometer | 10k Ohm | [AliExpress](https://es.aliexpress.com/item/32810872544.html) |
+| 1 | LED Driver | BuckBlock A009-D-V-1000 | [LEDSupply](https://www.ledsupply.com/led-drivers/buckblock-dc-led-driver) |
+| 1 | Jumper Cables | For 12V LED Strip | [LEDSupply](https://www.ledsupply.com/accessories/jumper-cables-12v-led-strip-light) |
 
-| Setting | Option |
-| :--- | :--- |
-| Material | PLA |
-| Temperature | Standard for PLA |
-| Layer Height | 0.2mm (0.1mm for parts with threads) |
+**Hardware & Fasteners**
+| Qty | Component | Specifications | Supplier |
+| :--- | :--- | :--- | :--- |
+| 20 | Heat Inserts | M3 x 5mm x 4mm | [AliExpress](https://es.aliexpress.com/item/32810872544.html) |
+| 20 | Screws | M3 x 6mm | [AliExpress](https://es.aliexpress.com/item/32818058518.html) |
+| 4 | Screws | M3 x 10mm | [AliExpress](https://es.aliexpress.com/item/32818058518.html) |
+| 1 | Filament | PLA+ | Esun |
 
-**Step 2: Clean-up and Safety**
+---
 
-Carefully remove the print border from all pieces. To avoid injury, remove most of the edge without a knife first. Clean the remaining edge with a utility knife using a "peeling" action, supporting the part with the thumb of your dominant hand while moving the blade away from your body.
+#### **1. 3D Printing**
 
-<img class="pfloat-center" src="/images/resources/led-driver/image1.jpeg" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+The enclosure for the LED Driver is designed to be printed in PLA without the need for supports. Ensure your printer bed is leveled and clean to prevent warping.
 
-#### **2\. Electronics Assembly**
+**Figure 1:** Once the printing process is complete, inspect the parts. Clean any stringing or imperfections from the edges and holes to ensure a proper fit for the electronics and fasteners.
+<img class="pfloat-center" src="/images/resources/led-driver/image1.jpeg" width="80%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
-**USB-C Power Supply Module:**
+---
 
-1. Attach nylon spacers to the charging module (Figure 4).  
-2. Solder 1x2 header pins to the PCB, removing the middle pin if using a 3-pin strip.  
-3. Align the module's (+) and (-) terminals with the Vin+ and GND pins on the PCB.  
-4. Secure with M2 screws and washers so the module sits parallel to the main board.
+#### **2. Electronics (Pre-soldered PCB)**
 
-<img class="pfloat-left" src="/images/resources/led-driver/image4.jpeg" width="33%" loading="lazy" data-action=zoom>
-<img class="pfloat-left" src="/images/resources/led-driver/image5.png" width="33%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image17.png" width="33%" loading="lazy" data-action=zoom>
+If you are using the custom PCB designed for this project (manufactured via JLC PCB), follow these detailed assembly steps to prepare the modules and components.
+
+**Power Supply Module**
+The power supply module requires modification to fit within the enclosure's height constraints.
+**Figure 2:** Locate the pins on the bottom of the module and cut them flush. This is critical to prevent short circuits and ensure the module sits flat.
+<img class="pfloat-center" src="/images/resources/led-driver/image2.png" width="80%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+
+**Figure 3:** Solder the header pins to the *top* side of the module as shown. This inversion allows the module to mount correctly onto the main PCB.
+<img class="pfloat-left" src="/images/resources/led-driver/image3.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image4.jpeg" width="45%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
-
-**LED Buckblock Installation:**
-
-Strip, twist, and tin the six wires of the Buckblock. Connect them to the terminal blocks (BB\_LED, BB\_PS, BB\_DIM) in the exact order they exit the component: LED-, LED+, Vin+, Vout-, DIM, and DIM GND.
-
-<img class="pfloat-center" src="/images/resources/led-driver/image11.png" width="80%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
-
-**Ammeter and Potentiometer:**
-
-* **Ammeter:** Connect the negative (-) wire to Pin 1 and the positive (+) wire to Pin 2 of the AMP terminal block.  
-* **Potentiometer:** Solder wires to pins 2 and 3\. Connect them to pins 2 and 3 of the POT terminal block on the PCB.
-
-<img class="pfloat-left" src="/images/resources/led-driver/image14.png" width="45%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image15.png" width="45%" loading="lazy" data-action=zoom>
+**Charging Module (TP4056)**
+**Figure 4:** Prepare the TP4056 charging module for mounting. Insert an M3 screw through the mounting hole and use a spacer (either 3D printed or nylon) to maintain the correct height.
+<img class="pfloat-left" src="/images/resources/led-driver/image5.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image6.png" width="45%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
-#### **3\. Enclosure and Final Setup**
+**Figure 5:** Solder the module directly to the main PCB. Ensure the USB-C port is aligned with the edge of the board for accessibility.
+<img class="pfloat-left" src="/images/resources/led-driver/image7.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image8.png" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-**Hardware Prep:**
+**Ammeter Preparation**
+**Figure 6:** Inspect the analog ammeter (85C1). Identify the positive and negative terminals on the rear housing.
+<img class="pfloat-left" src="/images/resources/led-driver/image9.jpeg" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image10.png" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-Install eight M3 heat-set inserts into the holes on the top and bottom case. This ensures the case can be opened repeatedly for maintenance.
+**Figure 7:** Cut two lengths of wire. Strip approximately 1 cm of insulation from the ends. Twist the copper strands tightly and tin them with solder to prevent fraying.
+<img class="pfloat-left" src="/images/resources/led-driver/image11.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image12.png" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-<img class="pfloat-center" src="/images/resources/led-driver/image12.png" width="45%" loading="lazy" data-action=zoom>
+**Figure 8:** Crimp ring terminals onto one end of each wire. Attach these firmly to the ammeter posts using the included nuts.
+<img class="pfloat-left" src="/images/resources/led-driver/image13.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image14.png" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-**Closing the Case:**
+**Potentiometer**
+**Figure 9:** Solder three wires to the potentiometer terminals. Use heat shrink tubing over the solder joints to prevent shorts. Twist the wires together to keep the assembly tidy.
+<img class="pfloat-center" src="/images/resources/led-driver/image15.png" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
-1. **Voltage Selection:** Connect a USB-C charger. Press the module button until the **12V LED** is lit (Figure 17).  
-2. **Mounting:** Fit the PCB into the bottom case. Place the ammeter and potentiometer into their case cutouts.  
-3. **Sealing:** Fit the top case, align the switches, and secure with the four corner M3 screws.
+**LED Driver (BuckBlock)**
+**Figure 10:** The BuckBlock A009-D-V-1000 is the core current source. Familiarize yourself with the wire color coding before soldering.
+<img class="pfloat-center" src="/images/resources/led-driver/image16.jpeg" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
-<img class="pfloat-center" src="/images/resources/led-driver/image18.png" width="70%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+**Figure 11:** Wiring the BuckBlock to the PCB terminal block.
+1.  **Red & Black:** Connect to the power input terminals (Vin+ / Vin-).
+2.  **Yellow:** Connect to the dimming control/potentiometer input.
+3.  **White/Purple:** Connect to the LED output terminals.
+<img class="pfloat-left" src="/images/resources/led-driver/image17.png" width="30%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/led-driver/image18.png" width="30%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image19.png" width="30%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-#### **4\. Performance Characterization**
+---
 
-Extensive testing using a high-speed power meter (Thorlabs PM400+S121C, \<1 µs response) confirms the driver's suitability for optogenetic pulsing and imaging.
+#### **3. Assembly**
 
-**Key Performance Findings:**
+**Case Preparation**
+**Figure 12:** Using a soldering iron set to a low temperature (~200°C), press the M3 heat-set inserts into the plastic bosses of the 3D printed case. Ensure they sit flush with the surface.
+<img class="pfloat-center" src="/images/resources/led-driver/image20.png" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
-* **Power:** Standard 5V phone chargers provide only \~20% intensity. A USB-C PD source (30W+) is required for full output with 3W/5W LEDs.  
-* **Dynamic Transients:** We observe a fast-rising transient (\~40 µs) followed by a decay/settling period of 1-2 ms. Pulses must be at least **50 µs** long to be relayed to the output.  
-* **Modulation Speed:** The system replicates signals up to **30 kHz**, though the waveform shape degrades significantly at these extremes. The recommended stable operating limit is in the **low kHz range**.
+**Mounting Components**
+**Figure 13:** Insert the ammeter into the front panel cutout. Secure it using the mounting brackets or nuts provided with the meter.
+<img class="pfloat-left" src="/images/resources/led-driver/image21.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image22.png" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
-| Frequency | Rise Time | Fall Time |
-| :---- | :---- | :---- |
-| \~1.0 kHz | \~22–34 µs | \~5–8 µs |
-| \~4.0 kHz | \~31.5 µs | \~5.7 µs |
-| \~100 Hz | \~26–28 µs | \~1–4 ms (steady state) |
+**Wiring the Case**
+**Figure 14:** Connect the free ends of the ammeter wires to the corresponding terminals on the main PCB. Verify the polarity to ensuring the needle deflects correctly.
+<img class="pfloat-left" src="/images/resources/led-driver/image23.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image24.png" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
 
+**Figure 15:** Connect the potentiometer wires to the control headers on the PCB.
+<img class="pfloat-left" src="/images/resources/led-driver/image25.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image26.png" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
+
+**Figure 16:** Mount the potentiometer to the front panel hole. If the potentiometer has an anti-rotation tab, ensure it is seated in the corresponding slot or remove it if not needed.
+<img class="pfloat-left" src="/images/resources/led-driver/image27.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image28.png" width="45%" loading="lazy" data-action=zoom>
+<div style="clear:both;"></div>
+
+**Final Configuration**
+**Figure 17:** Before closing the box, configure the power supply module jumper to output **12V** (indicated by the blue LED). This voltage is required for the driver operation.
+<img class="pfloat-center" src="/images/resources/led-driver/image29.png" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+
+**Figure 18:** Place the PCB into the case and secure the lid with M3 screws. The Low-cost LED Driver is now ready for operation.
+<img class="pfloat-center" src="/images/resources/led-driver/image30.png" width="80%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+
+---
+
+#### **4. LED Driver Characterization**
+
+The device performance was characterized to ensure suitability for high-speed optogenetics. The optical modulation is limited by the driver’s internal current regulation dynamics and the operating point (input voltage, LED Vf, wiring inductance, etc.).
+
+**Rise and Fall Times**
+The system exhibits a large transient/overshoot followed by a settling period during the ON portion of the pulse. This behavior makes automatic "rise/fall time" readings dependent on the specific waveform shape.
+
+| Frequency | Rise time | Fall time |
+| :--- | :--- | :--- |
+| ~0.90–1.00 kHz | ~22–34 µs | ~5–8 µs |
+| ~3.0 kHz | ~27.6 µs | ~5.7 µs |
+| ~4.0 kHz | ~31.5 µs | ~5.7 µs |
+| ~6.0–7.0 kHz | ~30–31.5 µs | ~5.2–6.1 µs |
+| ~100–300 Hz | ~26–28 µs | ~1–4 ms |
+
+**Pulse Dynamics & Frequency Response**
+Below are representative oscilloscope captures showing pulse behavior.
+*Left: A 75µs pulse generating ~50µs FWHM optical output. Right: Fast transients visible at 3 kHz driving frequency.*
 <img class="pfloat-left" src="/images/resources/led-driver/image33.png" width="45%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image34.png" width="45%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
-At lower frequencies, the transient overshoot is more pronounced before settling to the steady-state current.
-<img class="pfloat-left" src="/images/resources/led-driver/image38.png" width="45%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image43.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image35.png" width="45%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
-
-#### **Design Files and Resources**
-
-* [Onshape Project \- Assembly](https://cad.onshape.com/documents/096c25a9298dd8889e4dec74/w/c5e233639d356c6856bc744c/e/240705b285462483907fc860)  
-* [Online Circuit Simulation](https://www.google.com/search?q=https://tinyurl.com/led-driver-sim-placeholder)  
-* [STL Files Zip (Enclosure)](https://www.google.com/search?q=https://github.com/vparot/led-driver-case)  
-* [Gerber & BOM (PCB)](https://www.google.com/search?q=https://github.com/vparot/led-driver-pcb)
-
-*This guide provides a hardware overview. Users should calibrate resulting optical dose against mean optical power for dynamic pulse experiments.*
+**Steady State Behavior**
+At lower frequencies (e.g., 300 Hz), the steady-state current becomes clearly visible after the initial transient.
+<img class="pfloat-center" src="/images/resources/led-driver/image38.png" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
