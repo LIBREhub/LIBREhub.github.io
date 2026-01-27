@@ -193,3 +193,11 @@ Below are representative oscilloscope captures showing pulse behavior.
 **Steady State Behavior**
 At lower frequencies (e.g., 300 Hz), the steady-state current becomes clearly visible after the initial transient.
 <img class="pfloat-center" src="/images/resources/led-driver/image38.png" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+
+---
+
+#### **References**
+
+* [Gerber PCB](/images/resources/led-driver/2026-01-27%20Gerber-LED-dirver%20PCB.zip)
+* [EasyEDA csv BOM](/images/resources/led-driver/2026-01-27%20BOM_easyeda_LED_driver.csv)
+
