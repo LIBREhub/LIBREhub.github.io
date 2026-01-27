@@ -35,6 +35,7 @@ High-coherence lasers play a fundamental role in various biomedical engineering 
 The electronic system responsible for laser control is composed of four subsystems: drivers, actuator, sensor, and microcontroller.
 
 **Drivers**
+
 | Component | Quantity |
 | :--- | :--- |
 | Capacitor 10uF | 3 |
@@ -60,6 +61,7 @@ The electronic system responsible for laser control is composed of four subsyste
 | Pinheader 1-pin (For testing resistor) | 1 |
 
 **Actuator**
+
 | Component | Quantity |
 | :--- | :--- |
 | Capacitor 100nF | 2 |
@@ -71,6 +73,7 @@ The electronic system responsible for laser control is composed of four subsyste
 | Laser Diode HL63022DG (or similar common anode) | 1 |
 
 **Sensor**
+
 | Component | Quantity |
 | :--- | :--- |
 | Capacitor 10pF | 2 |
@@ -82,6 +85,7 @@ The electronic system responsible for laser control is composed of four subsyste
 | Connector XH2.54 2-pin | 4 |
 
 **Microcontroller**
+
 | Component | Quantity |
 | :--- | :--- |
 | Development Board with MCU STM32F103C8T6 (BluePill) | 1 |
@@ -90,6 +94,7 @@ The electronic system responsible for laser control is composed of four subsyste
 | Connector XH2.54 3-pin | 2 |
 
 **Optical Components (Interferometer)**
+
 | Item | Pieces | Price (CLP) | Link |
 | :--- | :--- | :--- | :--- |
 | Tempered glass (Base) 45x150x4mm | 1 | $12,100 | [AliExpress](https://a.aliexpress.com/_mNfmMhP) |
