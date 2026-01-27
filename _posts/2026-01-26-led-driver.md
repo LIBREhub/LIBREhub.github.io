@@ -16,11 +16,13 @@ The driver box has one analog input for intensity control of the driver, and fou
 #### **Components and Tools**
 
 **Equipment**
+
 | Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
 | 1 | 3D printer | e.g. Ender 3 | Creality |
 
 **Tools**
+
 | Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
 | 1 | Soldering iron | 60W Adjustable temperature | [AliExpress](https://es.aliexpress.com/item/1005007970187200.html) |
@@ -34,6 +36,7 @@ The driver box has one analog input for intensity control of the driver, and fou
 | 1 | Oscilloscope | | Any |
 
 **Electronics**
+
 | Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
 | 1 | Power Supply Module | 5V/3.3V for Breadboard | [AliExpress](https://es.aliexpress.com/item/1005001621899532.html) |
@@ -49,6 +52,7 @@ The driver box has one analog input for intensity control of the driver, and fou
 | 1 | Jumper Cables | For 12V LED Strip | [LEDSupply](https://www.ledsupply.com/accessories/jumper-cables-12v-led-strip-light) |
 
 **Hardware & Fasteners**
+
 | Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
 | 20 | Heat Inserts | M3 x 5mm x 4mm | [AliExpress](https://es.aliexpress.com/item/32810872544.html) |
