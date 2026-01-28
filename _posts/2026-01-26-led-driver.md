@@ -28,7 +28,8 @@ The driver box has one analog input for intensity control of the driver, and fou
 | 1 | Soldering iron | 60W Adjustable temperature | [AliExpress](https://www.aliexpress.com/item/1005007970187200.html) |
 | 1 | Soldering wire | 0.8 mm, flux core | [AliExpress](https://www.aliexpress.com/item/1005008695639704.html) |
 | 1 | Hot air gun | | [AliExpress](https://www.aliexpress.com/item/1005007010056491.html) |
-| 1 | Allen key | M3 | AliExpress |
+| 1 | Allen key | M2 | [GrabCAD](https://grabcad.com/library/allen-key-set-4/details?folder_id=3295376) |
+| 1 | Allen key | M3 | [GrabCAD](https://grabcad.com/library/allen-key-set-4/details?folder_id=3295376) |
 | 1 | Allen key | M6 | [GrabCAD](https://grabcad.com/library/6mm-allen-wrench-1) |
 | 1 | Screwdriver | 0.6 mm flat blade | [AliExpress](https://www.aliexpress.com/item/1005008304338583.html) |
 | 1 | Wire cutter | Diagonal pliers, any size | [AliExpress](https://www.aliexpress.com/item/4000988113226.html) |
@@ -56,18 +57,18 @@ The driver box has one analog input for intensity control of the driver, and fou
 | Qty | Component | Specifications | Supplier |
 | :--- | :--- | :--- | :--- |
 | 20 | Heat Inserts | M3 x 5mm x 4mm | [AliExpress](https://www.aliexpress.com/item/32810872544.html) |
-| 20 | Screws | M3 x 6mm | [AliExpress](https://www.aliexpress.com/item/32818058518.html) |
-| 4 | Screws | M3 x 10mm | [AliExpress](https://www.aliexpress.com/item/32818058518.html) |
+| 2 | Screws | M2 x 6mm | [AliExpress](https://es.aliexpress.com/item/32810872544.html?spm=a2g0o.productlist.main.1.1599DD4xDD4xNq&algo_pvid=982fe1b2-535d-4144-b9f2-4d24c5794567&pdp_ext_f=%7B%22order%22%3A%2213060%22%2C%22spu_best_type%22%3A%22service%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32810872544%7C_p_origin_prod%3A) |
+| 4 | Screws | M3 x 10mm | [AliExpress](https://es.aliexpress.com/item/32810872544.html?spm=a2g0o.productlist.main.1.1599DD4xDD4xNq&algo_pvid=982fe1b2-535d-4144-b9f2-4d24c5794567&pdp_ext_f=%7B%22order%22%3A%2213060%22%2C%22spu_best_type%22%3A%22service%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32810872544%7C_p_origin_prod%3A) |
 | 1 | Filament | PLA+ | Esun |
 
 ---
 
 #### **1. 3D Printing**
 
-The enclosure for the LED Driver is designed to be printed in PLA without the need for supports. Ensure your printer bed is leveled and clean to prevent warping.
+The enclosure for the LED Driver is designed to be printed in PLA. Ensure your printer bed is leveled and clean to prevent warping.
 
 **Figure 1:** Once the printing process is complete, inspect the parts. Clean any stringing or imperfections from the edges and holes to ensure a proper fit for the electronics and fasteners.
-<img class="pfloat-center" src="/images/resources/led-driver/image1.jpeg" width="80%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+<img class="pfloat-center" src="/images/resources/led-driver/image1.jpeg" width="40%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 ---
 
@@ -81,8 +82,8 @@ The power supply module requires modification to fit within the enclosure's heig
 <img class="pfloat-center" src="/images/resources/led-driver/image2.png" width="80%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **Figure 3:** Solder the header pins to the *top* side of the module as shown. This inversion allows the module to mount correctly onto the main PCB.
-<img class="pfloat-left" src="/images/resources/led-driver/image3.png" width="45%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image4.jpeg" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/led-driver/image3.png" width="40%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image4.jpeg" width="40%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
 **Charging Module (TP4056)**
