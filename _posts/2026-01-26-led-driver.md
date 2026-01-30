@@ -82,24 +82,24 @@ The power supply module requires modification to fit within the enclosure's heig
 <img class="pfloat-center" src="/images/resources/led-driver/image2.png" width="40%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **Figure 3:** Solder the header pins to the *top* side of the module as shown. This inversion allows the module to mount correctly onto the main PCB.
-<img class="pfloat-left" src="/images/resources/led-driver/image3.png" width="40%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image4.jpeg" width="30%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/led-driver/image3.png" width="35%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image4.jpeg" width="25%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
 **Charging Module (TP4056)**
 **Figure 4:** Prepare the TP4056 charging module for mounting. Insert an M3 screw through the mounting hole and use a spacer (either 3D printed or nylon) to maintain the correct height.
 <img class="pfloat-left" src="/images/resources/led-driver/image5.png" width="40%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image6.png" width="40%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image6.png" width="30%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
 **Figure 5:** Solder the module directly to the main PCB. Ensure the USB-C port is aligned with the edge of the board for accessibility.
-<img class="pfloat-left" src="/images/resources/led-driver/image7.png" width="45%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image8.png" width="45%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/led-driver/image7.png" width="40%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image8.png" width="40%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
 **Ammeter Preparation**
 **Figure 6:** Inspect the analog ammeter (85C1). Identify the positive and negative terminals on the rear housing.
-<img class="pfloat-left" src="/images/resources/led-driver/image9.jpeg" width="30%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/led-driver/image9.jpeg" width="35%" loading="lazy" data-action=zoom>
 <img class="pfloat-right" src="/images/resources/led-driver/image10.png" width="30%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
@@ -119,15 +119,15 @@ The power supply module requires modification to fit within the enclosure's heig
 
 **LED Driver (BuckBlock)**
 **Figure 10:** The BuckBlock A009-D-V-1000 is the core current source. Familiarize yourself with the wire color coding before soldering.
-<img class="pfloat-center" src="/images/resources/led-driver/image16.jpeg" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+<img class="pfloat-center" src="/images/resources/led-driver/image16.jpeg" width="40%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **Figure 11:** Wiring the BuckBlock to the PCB terminal block.
 1.  **Red & Black:** Connect to the power input terminals (Vin+ / Vin-).
 2.  **Yellow:** Connect to the dimming control/potentiometer input.
 3.  **White/Purple:** Connect to the LED output terminals.
-<img class="pfloat-left" src="/images/resources/led-driver/image17.png" width="30%" loading="lazy" data-action=zoom>
-<img class="pfloat-left" src="/images/resources/led-driver/image18.png" width="30%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image19.png" width="30%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/led-driver/image17.png" width="15%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image18.png" width="20%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image19.png" width="20%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
 ---
@@ -162,7 +162,7 @@ The power supply module requires modification to fit within the enclosure's heig
 
 **Final Configuration**
 **Figure 17:** Before closing the box, configure the power supply module jumper to output **12V** (indicated by the blue LED). This voltage is required for the driver operation.
-<img class="pfloat-center" src="/images/resources/led-driver/image29.png" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+<img class="pfloat-center" src="/images/resources/led-driver/image29.png" width="50%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **Figure 18:** Place the PCB into the case and secure the lid with M3 screws. The Low-cost LED Driver is now ready for operation.
 <img class="pfloat-center" src="/images/resources/led-driver/image30.png" width="70%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
