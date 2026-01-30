@@ -115,7 +115,7 @@ The power supply module requires modification to fit within the enclosure's heig
 
 **Potentiometer**
 **Figure 9:** Solder three wires to the potentiometer terminals. Use heat shrink tubing over the solder joints to prevent shorts. Twist the wires together to keep the assembly tidy.
-<img class="pfloat-center" src="/images/resources/led-driver/image15.png" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+<img class="pfloat-center" src="/images/resources/led-driver/image15.png" width="20%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **LED Driver (BuckBlock)**
 **Figure 10:** The BuckBlock A009-D-V-1000 is the core current source. Familiarize yourself with the wire color coding before soldering.
@@ -125,18 +125,18 @@ The power supply module requires modification to fit within the enclosure's heig
 1.  **Red & Black:** Connect to the power input terminals (Vin+ / Vin-).
 2.  **Yellow:** Connect to the dimming control/potentiometer input.
 3.  **White/Purple:** Connect to the LED output terminals.
-<img class="pfloat-left" src="/images/resources/led-driver/image17.png" width="15%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image18.png" width="20%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image19.png" width="20%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
-
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px; width: 100%;">
+  <img src="/images/resources/led-driver/image17.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image18.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image19.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 ---
 
 #### **3. Assembly**
 
 **Case Preparation**
 **Figure 12:** Using a soldering iron set to a low temperature (~200°C), press the M3 heat-set inserts into the plastic bosses of the 3D printed case. Ensure they sit flush with the surface.
-<img class="pfloat-center" src="/images/resources/led-driver/image20.png" width="30%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+<img class="pfloat-center" src="/images/resources/led-driver/image20.png" width="20%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **Mounting Components**
 **Figure 13:** Insert the ammeter into the front panel cutout. Secure it using the mounting brackets or nuts provided with the meter.
@@ -156,8 +156,8 @@ The power supply module requires modification to fit within the enclosure's heig
 <div style="clear:both;"></div>
 
 **Figure 16:** Mount the potentiometer to the front panel hole. If the potentiometer has an anti-rotation tab, ensure it is seated in the corresponding slot or remove it if not needed.
-<img class="pfloat-left" src="/images/resources/led-driver/image27.png" width="40%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image28.png" width="40%" loading="lazy" data-action=zoom>
+<img class="pfloat-left" src="/images/resources/led-driver/image27.png" width="30%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image28.png" width="20%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
 **Final Configuration**
