@@ -79,11 +79,11 @@ If you are using the custom PCB designed for this project (manufactured via JLC 
 **Power Supply Module**
 The power supply module requires modification to fit within the enclosure's height constraints.
 **Figure 2:** Locate the pins on the bottom of the module and cut them flush. This is critical to prevent short circuits and ensure the module sits flat.
-<img class="pfloat-center" src="/images/resources/led-driver/image2.png" width="50%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+<img class="pfloat-center" src="/images/resources/led-driver/image2.png" width="40%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **Figure 3:** Solder the header pins to the *top* side of the module as shown. This inversion allows the module to mount correctly onto the main PCB.
 <img class="pfloat-left" src="/images/resources/led-driver/image3.png" width="40%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image4.jpeg" width=30%" loading="lazy" data-action=zoom>
+<img class="pfloat-right" src="/images/resources/led-driver/image4.jpeg" width="30%" loading="lazy" data-action=zoom>
 <div style="clear:both;"></div>
 
 **Charging Module (TP4056)**
@@ -165,7 +165,7 @@ The power supply module requires modification to fit within the enclosure's heig
 <img class="pfloat-center" src="/images/resources/led-driver/image29.png" width="60%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **Figure 18:** Place the PCB into the case and secure the lid with M3 screws. The Low-cost LED Driver is now ready for operation.
-<img class="pfloat-center" src="/images/resources/led-driver/image30.png" width="80%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+<img class="pfloat-center" src="/images/resources/led-driver/image30.png" width="70%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 ---
 
