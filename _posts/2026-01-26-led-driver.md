@@ -79,45 +79,56 @@ If you are using the custom PCB designed for this project (manufactured via JLC 
 **Power Supply Module**
 The power supply module requires modification to fit within the enclosure's height constraints.
 **Figure 2:** Locate the pins on the bottom of the module and cut them flush. This is critical to prevent short circuits and ensure the module sits flat.
-<img class="pfloat-center" src="/images/resources/led-driver/image2.png" width="40%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
+<img class="pfloat-center" src="/images/resources/led-driver/image2.png" width="35%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **Figure 3:** Solder the header pins to the *top* side of the module as shown. This inversion allows the module to mount correctly onto the main PCB.
-<img class="pfloat-left" src="/images/resources/led-driver/image3.png" width="35%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image4.jpeg" width="20%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/resources/led-driver/image3.png" style="width: 35%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image4.jpeg" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 
 **Charging Module (TP4056)**
+
 **Figure 4:** Prepare the TP4056 charging module for mounting. Insert an M3 screw through the mounting hole and use a spacer (either 3D printed or nylon) to maintain the correct height.
-<img class="pfloat-left" src="/images/resources/led-driver/image5.png" width="30%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image6.png" width="20%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 15px;">
+  <img src="/images/resources/led-driver/image5.png" style="width: 30%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image6.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 
 **Figure 5:** Solder the module directly to the main PCB. Ensure the USB-C port is aligned with the edge of the board for accessibility.
-<img class="pfloat-left" src="/images/resources/led-driver/image7.png" width="20%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image8.png" width="20%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; margin-bottom: 1em;">
+  <img src="/images/resources/led-driver/image7.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image8.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 
 **Ammeter Preparation**
+
 **Figure 6:** Inspect the analog ammeter (85C1). Identify the positive and negative terminals on the rear housing.
-<img class="pfloat-left" src="/images/resources/led-driver/image9.jpeg" width="35%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image10.png" width="30%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; margin-top: 10px;">
+  <img src="/images/resources/led-driver/image9.jpeg" style="width: 32%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image10.png" style="width: 30%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 
 **Figure 7:** Cut two lengths of wire. Strip approximately 1 cm of insulation from the ends. Twist the copper strands tightly and tin them with solder to prevent fraying.
-<img class="pfloat-left" src="/images/resources/led-driver/image11.png" width="35%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image12.png" width="35%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="/images/resources/led-driver/image11.png" style="width: 40%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image12.png" style="width: 40%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 
 **Figure 8:** Crimp ring terminals onto one end of each wire. Attach these firmly to the ammeter posts using the included nuts.
-<img class="pfloat-left" src="/images/resources/led-driver/image13.png" width="45%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image14.png" width="45%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="/images/resources/led-driver/image13.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image14.png" style="width: 40%; height: auto;" loading="lazy" data-action="zoom">
+</div>
+
 
 **Potentiometer**
+
 **Figure 9:** Solder three wires to the potentiometer terminals. Use heat shrink tubing over the solder joints to prevent shorts. Twist the wires together to keep the assembly tidy.
 <img class="pfloat-center" src="/images/resources/led-driver/image15.png" width="20%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
 **LED Driver (BuckBlock)**
+
 **Figure 10:** The BuckBlock A009-D-V-1000 is the core current source. Familiarize yourself with the wire color coding before soldering.
 <img class="pfloat-center" src="/images/resources/led-driver/image16.jpeg" width="40%" style="display: block; margin: 0 auto;" loading="lazy" data-action=zoom>
 
@@ -126,12 +137,12 @@ The power supply module requires modification to fit within the enclosure's heig
 2.  **Yellow:** Connect to the dimming control/potentiometer input.
 3.  **White/Purple:** Connect to the LED output terminals.
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px; width: 100%;">
-  <img src="/images/resources/led-driver/image17.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
-  <img src="/images/resources/led-driver/image18.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
-  <img src="/images/resources/led-driver/image19.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image17.png" style="width: 27%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image18.png" style="width: 29%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image19.png" style="width: 25%; height: auto;" loading="lazy" data-action="zoom">
 </div>
----
 
+---
 #### **3. Assembly**
 
 **Case Preparation**
@@ -140,25 +151,29 @@ The power supply module requires modification to fit within the enclosure's heig
 
 **Mounting Components**
 **Figure 13:** Insert the ammeter into the front panel cutout. Secure it using the mounting brackets or nuts provided with the meter.
-<img class="pfloat-left" src="/images/resources/led-driver/image21.png" width="20%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image22.png" width="20%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="/images/resources/led-driver/image21.png" style="width: 30%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image22.png" style="width: 30%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 
 **Wiring the Case**
 **Figure 14:** Connect the free ends of the ammeter wires to the corresponding terminals on the main PCB. Verify the polarity to ensuring the needle deflects correctly.
-<img class="pfloat-left" src="/images/resources/led-driver/image23.png" width="20%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image24.png" width="20%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: center; gap: 20px; margin: 15px 0;">
+  <img src="/images/resources/led-driver/image23.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image24.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 
 **Figure 15:** Connect the potentiometer wires to the control headers on the PCB.
-<img class="pfloat-left" src="/images/resources/led-driver/image25.png" width="20%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image26.png" width="20%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="/images/resources/led-driver/image25.png" style="width: 30%; height: auto;" loading="lazy">
+  <img src="/images/resources/led-driver/image26.png" style="width: 25%; height: auto;" loading="lazy">
+</div>
 
 **Figure 16:** Mount the potentiometer to the front panel hole. If the potentiometer has an anti-rotation tab, ensure it is seated in the corresponding slot or remove it if not needed.
-<img class="pfloat-left" src="/images/resources/led-driver/image27.png" width="30%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image28.png" width="20%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: center; ; width: 100%;">
+  <img src="/images/resources/led-driver/image27.png" style="width: 40%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image28.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+</div>
 
 **Final Configuration**
 **Figure 17:** Before closing the box, configure the power supply module jumper to output **12V** (indicated by the blue LED). This voltage is required for the driver operation.
@@ -178,18 +193,20 @@ The system exhibits a large transient/overshoot followed by a settling period du
 
 | Frequency | Rise time | Fall time |
 | :--- | :--- | :--- |
-| ~0.90–1.00 kHz | ~22–34 µs | ~5–8 µs |
+| ~0.90 – 1.00 kHz | ~22 – 34 µs | ~5 – 8 µs |
 | ~3.0 kHz | ~27.6 µs | ~5.7 µs |
 | ~4.0 kHz | ~31.5 µs | ~5.7 µs |
-| ~6.0–7.0 kHz | ~30–31.5 µs | ~5.2–6.1 µs |
-| ~100–300 Hz | ~26–28 µs | ~1–4 ms |
+| ~6.0 – 7.0 kHz | ~30 – 31.5 µs | ~5.2 – 6.1 µs |
+| ~100 – 300 Hz | ~26 – 28 µs | ~1 – 4 ms |
 
 **Pulse Dynamics & Frequency Response**
 Below are representative oscilloscope captures showing pulse behavior.
 *Left: A 75µs pulse generating ~50µs FWHM optical output. Right: Fast transients visible at 3 kHz driving frequency.*
-<img class="pfloat-left" src="/images/resources/led-driver/image33.png" width="40%" loading="lazy" data-action=zoom>
-<img class="pfloat-right" src="/images/resources/led-driver/image35.png" width="40%" loading="lazy" data-action=zoom>
-<div style="clear:both;"></div>
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap; width: 100%;">
+  <img src="/images/resources/led-driver/image33.png" style="width: 45%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image35.png" style="width: 45%; height: auto;" loading="lazy" data-action="zoom">
+</div>
+
 
 **Steady State Behavior**
 At lower frequencies (e.g., 300 Hz), the steady-state current becomes clearly visible after the initial transient.
