@@ -96,7 +96,7 @@ The power supply module requires modification to fit within the enclosure's heig
 </div>
 
 **Figure 5:** Solder the module directly to the main PCB. Ensure the USB-C port is aligned with the edge of the board for accessibility.
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; margin-bottom: 1em;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start ;">
   <img src="/images/resources/led-driver/image7.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
   <img src="/images/resources/led-driver/image8.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
 </div>
@@ -104,7 +104,7 @@ The power supply module requires modification to fit within the enclosure's heig
 **Ammeter Preparation**
 
 **Figure 6:** Inspect the analog ammeter (85C1). Identify the positive and negative terminals on the rear housing.
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; margin-top: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
   <img src="/images/resources/led-driver/image9.jpeg" style="width: 32%; height: auto;" loading="lazy" data-action="zoom">
   <img src="/images/resources/led-driver/image10.png" style="width: 30%; height: auto;" loading="lazy" data-action="zoom">
 </div>
@@ -116,7 +116,7 @@ The power supply module requires modification to fit within the enclosure's heig
 </div>
 
 **Figure 8:** Crimp ring terminals onto one end of each wire. Attach these firmly to the ammeter posts using the included nuts.
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div style="display: flex; justify-content: space-between">
   <img src="/images/resources/led-driver/image13.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
   <img src="/images/resources/led-driver/image14.png" style="width: 40%; height: auto;" loading="lazy" data-action="zoom">
 </div>
@@ -136,7 +136,7 @@ The power supply module requires modification to fit within the enclosure's heig
 1.  **Red & Black:** Connect to the power input terminals (Vin+ / Vin-).
 2.  **Yellow:** Connect to the dimming control/potentiometer input.
 3.  **White/Purple:** Connect to the LED output terminals.
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px; width: 100%;">
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
   <img src="/images/resources/led-driver/image17.png" style="width: 27%; height: auto;" loading="lazy" data-action="zoom">
   <img src="/images/resources/led-driver/image18.png" style="width: 29%; height: auto;" loading="lazy" data-action="zoom">
   <img src="/images/resources/led-driver/image19.png" style="width: 25%; height: auto;" loading="lazy" data-action="zoom">
@@ -151,14 +151,14 @@ The power supply module requires modification to fit within the enclosure's heig
 
 **Mounting Components**
 **Figure 13:** Insert the ammeter into the front panel cutout. Secure it using the mounting brackets or nuts provided with the meter.
-<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px;">
   <img src="/images/resources/led-driver/image21.png" style="width: 30%; height: auto;" loading="lazy" data-action="zoom">
   <img src="/images/resources/led-driver/image22.png" style="width: 30%; height: auto;" loading="lazy" data-action="zoom">
 </div>
 
 **Wiring the Case**
 **Figure 14:** Connect the free ends of the ammeter wires to the corresponding terminals on the main PCB. Verify the polarity to ensuring the needle deflects correctly.
-<div style="display: flex; justify-content: center; gap: 20px; margin: 15px 0;">
+<div style="display: flex; justify-content: center; margin: 15px 0;">
   <img src="/images/resources/led-driver/image23.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
   <img src="/images/resources/led-driver/image24.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
 </div>
@@ -170,9 +170,9 @@ The power supply module requires modification to fit within the enclosure's heig
 </div>
 
 **Figure 16:** Mount the potentiometer to the front panel hole. If the potentiometer has an anti-rotation tab, ensure it is seated in the corresponding slot or remove it if not needed.
-<div style="display: flex; justify-content: center; ; width: 100%;">
-  <img src="/images/resources/led-driver/image27.png" style="width: 40%; height: auto;" loading="lazy" data-action="zoom">
-  <img src="/images/resources/led-driver/image28.png" style="width: 20%; height: auto;" loading="lazy" data-action="zoom">
+<div style="display: flex; justify-content: center;">
+  <img src="/images/resources/led-driver/image27.png" style="width: 30%; height: auto;" loading="lazy" data-action="zoom">
+  <img src="/images/resources/led-driver/image28.png" style="width: 10%; height: auto;" loading="lazy" data-action="zoom">
 </div>
 
 **Final Configuration**
